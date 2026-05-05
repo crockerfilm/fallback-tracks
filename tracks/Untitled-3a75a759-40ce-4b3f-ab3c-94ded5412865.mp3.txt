@@ -1,0 +1,200 @@
+Metadata for: My_Workspace-Untitled-3a75a759-40ce-4b3f-ab3c-94ded5412865.mp3
+Generated: 2026-05-05T18:16:44.199Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Based on the "Empowered Evelyn" persona (women 50+ who are confident and solution-oriented) and the "Myth vs. Truth" listicle format, the music needs to sound smart, sophisticated, and reassuring. It should avoid sounding "medical" or "clinical" and instead feel like high-end wellness.
+
+Here are three sonic architectures designed to debunk these myths with style.
+
+Option 1: The "Ageless Confidence" (Sophisticated Pop)
+Why: This fits the "Empowered" persona best. It uses a rhythmic piano and smooth bass to create a vibe that says, "I know what I want, and I’m taking care of it." It’s polished, upbeat, and positive—perfect for a modern woman over 50.
+
+Block 1: Style Prompt
+
+Sophisticated pop background, rhythmic piano chords, smooth bassline, clean electric guitar, light percussion, confident, elegant, inspiring, modern woman, wellness, high-end commercial, 115 bpm, instrumental.
+
+Block 2: Structure (Empowerment Flow)
+
+[Intro] (Confident piano chords, steady and rhythmic. Immediately est
+
+
+Cover Art URL: https://cdn2.suno.ai/image_3a75a759-40ce-4b3f-ab3c-94ded5412865.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "3a75a759-40ce-4b3f-ab3c-94ded5412865",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/3a75a759-40ce-4b3f-ab3c-94ded5412865.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/3a75a759-40ce-4b3f-ab3c-94ded5412865.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/3a75a759-40ce-4b3f-ab3c-94ded5412865.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_3a75a759-40ce-4b3f-ab3c-94ded5412865.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_3a75a759-40ce-4b3f-ab3c-94ded5412865.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Based on the \"Empowered Evelyn\" persona (women 50+ who are confident and solution-oriented) and the \"Myth vs. Truth\" listicle format, the music needs to sound smart, sophisticated, and reassuring. It should avoid sounding \"medical\" or \"clinical\" and instead feel like high-end wellness.\n\nHere are three sonic architectures designed to debunk these myths with style.\n\nOption 1: The \"Ageless Confidence\" (Sophisticated Pop)\nWhy: This fits the \"Empowered\" persona best. It uses a rhythmic piano and smooth bass to create a vibe that says, \"I know what I want, and I’m taking care of it.\" It’s polished, upbeat, and positive—perfect for a modern woman over 50.\n\nBlock 1: Style Prompt\n\nSophisticated pop background, rhythmic piano chords, smooth bassline, clean electric guitar, light percussion, confident, elegant, inspiring, modern woman, wellness, high-end commercial, 115 bpm, instrumental.\n\nBlock 2: Structure (Empowerment Flow)\n\n[Intro] (Confident piano chords, steady and rhythmic. Immediately est",
+    "prompt": "",
+    "type": "gen",
+    "duration": 116,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-26T22:51:45.499Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "3a75a759-40ce-4b3f-ab3c-94ded5412865",
+    "updated_at": "2026-01-27T02:55:53.841Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "pop, sophisticated",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

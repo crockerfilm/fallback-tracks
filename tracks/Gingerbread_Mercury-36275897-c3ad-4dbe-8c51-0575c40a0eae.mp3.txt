@@ -1,0 +1,201 @@
+Metadata for: My_Workspace-Gingerbread_Mercury-36275897-c3ad-4dbe-8c51-0575c40a0eae.mp3
+Generated: 2026-05-05T16:04:09.715Z
+
+--- Track Information ---
+Title: Gingerbread Mercury
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: warm acoustic pop, 90 BPM, fingerpicked nylon guitar, prepared piano motifs, brushed snare groove, syncopated kick pattern, upright bass ostinato, muted electric guitar harmonics, vibraphone accents, glockenspiel countermelody, tape saturation, room reverb, parallel compression, laid-back swing, bittersweet reassurance
+
+
+Cover Art URL: https://cdn2.suno.ai/image_36275897-c3ad-4dbe-8c51-0575c40a0eae.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Gingerbread Mercury",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "36275897-c3ad-4dbe-8c51-0575c40a0eae",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/36275897-c3ad-4dbe-8c51-0575c40a0eae.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/36275897-c3ad-4dbe-8c51-0575c40a0eae.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/36275897-c3ad-4dbe-8c51-0575c40a0eae.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_36275897-c3ad-4dbe-8c51-0575c40a0eae.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_36275897-c3ad-4dbe-8c51-0575c40a0eae.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "warm acoustic pop, 90 BPM, fingerpicked nylon guitar, prepared piano motifs, brushed snare groove, syncopated kick pattern, upright bass ostinato, muted electric guitar harmonics, vibraphone accents, glockenspiel countermelody, tape saturation, room reverb, parallel compression, laid-back swing, bittersweet reassurance",
+    "prompt": "",
+    "type": "gen",
+    "duration": 84.84,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-24T00:14:55.442Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "36275897-c3ad-4dbe-8c51-0575c40a0eae",
+    "updated_at": "2026-04-27T22:55:03.688Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "acoustic pop, jazz-influenced pop, indie folk",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

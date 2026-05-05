@@ -1,0 +1,263 @@
+Metadata for: My_Workspace-Window_Seat_Hearts-4abbaddb-7f69-4339-aa0a-13c73d3bde56.mp3
+Generated: 2026-05-05T16:43:40.523Z
+
+--- Track Information ---
+Title: Window Seat Hearts
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Soft lo-fi indie-folk with intimate, breathy female vocals close to the mic. Lightly swung acoustic guitar and felted, slightly detuned piano carry the verses; warm pads bloom in the pre-chorus as brushed percussion joins. Chorus lifts with doubled vocals, soft shakers, and a subtle bass swell for a cozy, nostalgic peak, then everything thins back to guitar and piano for a tender resolve., uplifting, light, soft, warm, heartfelt, emotional, nostalgic, lo-fi, breathy, acoustic, female vocals, gentle
+
+--- Lyrics ---
+[Verse 1]
+Coffee rings on my notebook
+Your name there in the margin
+Sunlight flickers on the hardwood
+Dust dancing like we’re talking
+
+Old sweater on your shoulder
+Threadbare
+Hanging off your arm
+You laugh at something I don’t say
+And somehow that’s the calm
+
+[Chorus]
+You are my window seat heart
+My backroad
+Late-start Sunday
+Feet on the dash of my thoughts
+Singing along in that sideways way
+I don’t know how long this lasts
+Or where the moments go
+But you are my window seat heart
+And that’s all I need to know (oh)
+
+[Verse 2]
+Street outside getting louder
+We stay curled in our small world
+Takeout boxes on the counter
+Your hair a mess
+My hands are full
+
+You say you’re scared of the future
+I say I’m scared of right now
+Then you steal the air from the room
+With just a raised eyebrow
+
+[Chorus]
+You are my window seat heart
+My backroad
+Late-start Sunday
+Feet on the dash of my thoughts
+Singing along in that sideways way
+I don’t know how long this lasts
+Or where the moments go
+But you are my window seat heart
+And that’s all I need to know
+
+[Bridge]
+If all of this fades to static dreams
+If we drift like postcards in a drawer
+I’ll still feel your laugh in my sleeves
+Hear you in the creak of these old floors (oh)
+
+[Chorus]
+You are my window seat heart
+My backroad
+Late-start Sunday
+Feet on the dash of my thoughts
+Singing along in that sideways way
+I don’t know how long this lasts
+Or where the moments go
+But you are my window seat heart
+You’re the home I didn’t know
+
+Cover Art URL: https://cdn2.suno.ai/image_4abbaddb-7f69-4339-aa0a-13c73d3bde56.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Window Seat Hearts",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "4abbaddb-7f69-4339-aa0a-13c73d3bde56",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/4abbaddb-7f69-4339-aa0a-13c73d3bde56.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/4abbaddb-7f69-4339-aa0a-13c73d3bde56.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/4abbaddb-7f69-4339-aa0a-13c73d3bde56.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_4abbaddb-7f69-4339-aa0a-13c73d3bde56.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_4abbaddb-7f69-4339-aa0a-13c73d3bde56.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Soft lo-fi indie-folk with intimate, breathy female vocals close to the mic. Lightly swung acoustic guitar and felted, slightly detuned piano carry the verses; warm pads bloom in the pre-chorus as brushed percussion joins. Chorus lifts with doubled vocals, soft shakers, and a subtle bass swell for a cozy, nostalgic peak, then everything thins back to guitar and piano for a tender resolve., uplifting, light, soft, warm, heartfelt, emotional, nostalgic, lo-fi, breathy, acoustic, female vocals, gentle",
+    "prompt": "[Verse 1]\nCoffee rings on my notebook\nYour name there in the margin\nSunlight flickers on the hardwood\nDust dancing like we’re talking\n\nOld sweater on your shoulder\nThreadbare\nHanging off your arm\nYou laugh at something I don’t say\nAnd somehow that’s the calm\n\n[Chorus]\nYou are my window seat heart\nMy backroad\nLate-start Sunday\nFeet on the dash of my thoughts\nSinging along in that sideways way\nI don’t know how long this lasts\nOr where the moments go\nBut you are my window seat heart\nAnd that’s all I need to know (oh)\n\n[Verse 2]\nStreet outside getting louder\nWe stay curled in our small world\nTakeout boxes on the counter\nYour hair a mess\nMy hands are full\n\nYou say you’re scared of the future\nI say I’m scared of right now\nThen you steal the air from the room\nWith just a raised eyebrow\n\n[Chorus]\nYou are my window seat heart\nMy backroad\nLate-start Sunday\nFeet on the dash of my thoughts\nSinging along in that sideways way\nI don’t know how long this lasts\nOr where the moments go\nBut you are my window seat heart\nAnd that’s all I need to know\n\n[Bridge]\nIf all of this fades to static dreams\nIf we drift like postcards in a drawer\nI’ll still feel your laugh in my sleeves\nHear you in the creak of these old floors (oh)\n\n[Chorus]\nYou are my window seat heart\nMy backroad\nLate-start Sunday\nFeet on the dash of my thoughts\nSinging along in that sideways way\nI don’t know how long this lasts\nOr where the moments go\nBut you are my window seat heart\nYou’re the home I didn’t know",
+    "gpt_description_prompt": "Soft, lo-fi indie-folk with a slightly faster, upbeat tempo. Intimate breathy female vocals, acoustic guitar, detuned piano, warm pads, and light percussion. Gentle build to a cozy, uplifting peak, then soft resolve. Higer energy but nostalgic, heartfelt, emotional ",
+    "type": "gen",
+    "duration": 209.16,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "playlist_id": "00000000-0000-0000-0000-000000000000",
+    "playlist_clip_ids": [
+      "26509882-f720-44aa-864d-061d27bcd896"
+    ],
+    "task": "playlist_condition",
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-01T18:07:25.989Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie folk, lo-fi, folk-pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

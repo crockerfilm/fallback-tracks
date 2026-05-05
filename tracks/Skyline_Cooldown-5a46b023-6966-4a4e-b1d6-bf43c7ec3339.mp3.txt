@@ -1,0 +1,241 @@
+Metadata for: My_Workspace-Skyline_Cooldown-5a46b023-6966-4a4e-b1d6-bf43c7ec3339.mp3
+Generated: 2026-05-05T18:46:35.440Z
+
+--- Track Information ---
+Title: Skyline Cooldown
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: dance, Soft, airy EDM with bright plucks, warm sidechained pads, and a smooth mid‑tempo beat. Verses stay minimal with hushed male vocals and subtle reverb tails; chorus opens with wider synth stacks, bouncing bass, and breezy top-line ad-libs. Gentle build-ups and filtered down sections keep it chill yet athletic—perfect for a late-evening run or relaxed workout., edm, soft
+
+--- Lyrics ---
+[Verse 1]
+Laces tied
+Concrete still warm
+Breathing in
+That post-game calm
+Sweat on skin
+Street in a yawn
+Tempo low
+But my mind runs on
+
+[Chorus]
+Soft and electric
+I’m in that zone
+Cool air racing
+I’m heading home
+Slow burn heartbeat sets the tone
+I feel so light
+But strong
+Soft and electric
+I’m in that zone
+Ease in the effort
+Steady and grown
+Body in motion
+Mind alone
+I feel so light
+But strong
+
+[Verse 2]
+Headphones up
+Colors all blur
+Step by step
+Everything turns
+To rhythm and air
+To here and now
+I’m barely pushing
+Still somehow
+
+[Chorus]
+
+[Bridge]
+Catch my breath
+Don’t stop the flow
+Halfway sweat
+Half halo glow
+[whispered vocals] Every stride
+Reset
+Reload
+Then I let it go
+Then I let it go
+
+[Chorus]
+
+Cover Art URL: https://cdn2.suno.ai/image_5a46b023-6966-4a4e-b1d6-bf43c7ec3339.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Skyline Cooldown",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5a46b023-6966-4a4e-b1d6-bf43c7ec3339",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5a46b023-6966-4a4e-b1d6-bf43c7ec3339.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5a46b023-6966-4a4e-b1d6-bf43c7ec3339.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5a46b023-6966-4a4e-b1d6-bf43c7ec3339.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5a46b023-6966-4a4e-b1d6-bf43c7ec3339.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5a46b023-6966-4a4e-b1d6-bf43c7ec3339.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "dance, Soft, airy EDM with bright plucks, warm sidechained pads, and a smooth mid‑tempo beat. Verses stay minimal with hushed male vocals and subtle reverb tails; chorus opens with wider synth stacks, bouncing bass, and breezy top-line ad-libs. Gentle build-ups and filtered down sections keep it chill yet athletic—perfect for a late-evening run or relaxed workout., edm, soft",
+    "prompt": "[Verse 1]\nLaces tied\nConcrete still warm\nBreathing in\nThat post-game calm\nSweat on skin\nStreet in a yawn\nTempo low\nBut my mind runs on\n\n[Chorus]\nSoft and electric\nI’m in that zone\nCool air racing\nI’m heading home\nSlow burn heartbeat sets the tone\nI feel so light\nBut strong\nSoft and electric\nI’m in that zone\nEase in the effort\nSteady and grown\nBody in motion\nMind alone\nI feel so light\nBut strong\n\n[Verse 2]\nHeadphones up\nColors all blur\nStep by step\nEverything turns\nTo rhythm and air\nTo here and now\nI’m barely pushing\nStill somehow\n\n[Chorus]\n\n[Bridge]\nCatch my breath\nDon’t stop the flow\nHalfway sweat\nHalf halo glow\n[whispered vocals] Every stride\nReset\nReload\nThen I let it go\nThen I let it go\n\n[Chorus]",
+    "gpt_description_prompt": "EDM music soft, chill but sporty",
+    "type": "gen",
+    "duration": 158.32,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-29T15:45:26.111Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5a46b023-6966-4a4e-b1d6-bf43c7ec3339",
+    "updated_at": "2025-12-30T00:11:01.733Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "edm, soft",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

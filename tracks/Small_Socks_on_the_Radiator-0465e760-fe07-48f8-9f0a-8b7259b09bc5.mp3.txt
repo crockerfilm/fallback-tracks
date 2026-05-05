@@ -1,0 +1,264 @@
+Metadata for: My_Workspace-Small_Socks_on_the_Radiator-0465e760-fe07-48f8-9f0a-8b7259b09bc5.mp3
+Generated: 2026-05-05T16:43:27.622Z
+
+--- Track Information ---
+Title: Small Socks on the Radiator
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Warm indie-folk ballad with intimate upright piano and brushed drums, gentle acoustic guitar fingerpicking, and soft female vocals. Verses stay close and confessional, almost whispered over sparse chords; chorus blooms with simple vocal harmonies and subtle tambourine lift. Light tape saturation and room reverb for a vintage glow; a quiet piano motif threads transitions, keeping the energy tender yet hopeful., emotional, soft
+
+--- Lyrics ---
+[Verse 1]
+Sunrise on the drying line
+Tiny shirts on wooden pins
+Coffee gone from hot to cold
+You laugh in your sleep again
+
+One sock on the radiator
+One toy under the chair
+I used to sleep ‘til Sunday noon
+Now I just stand and stare
+
+[Chorus]
+How were you ever so small?
+How did you ever fit here in my arms at all?
+I blink and the blanket’s too short
+The crib feels crowded and worn
+Slow down
+Slow down
+My love
+You’re teaching me how to grow up
+
+[Verse 2]
+Photos curled along the mirror
+Baby cap
+First hospital tag
+I fold them like a paper prayer
+Tuck them in a weathered bag
+
+You smear peaches on your fingers
+You say “mama” half a word
+I write it in the margins
+Of a page you’ll never turn
+
+[Chorus]
+How were you ever so small?
+How did you ever fit here in my arms at all?
+I blink and the blanket’s too short
+The crib feels crowded and worn
+Slow down
+Slow down
+My love
+You’re teaching me how to grow up
+
+[Bridge]
+One day you’ll borrow my suitcase
+Rush past the door
+Won’t look back the same
+I’ll wash these tiny socks again
+Just to remember your name (softly)
+
+[Chorus]
+How were you ever so small?
+How did you ever fit here in my arms at all?
+I blink and the blanket’s too short
+The crib feels crowded and worn
+Slow down
+Slow down
+My love
+Stay a little longer
+My love
+You’re teaching me how to grow up
+
+Cover Art URL: https://cdn2.suno.ai/image_0465e760-fe07-48f8-9f0a-8b7259b09bc5.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Small Socks on the Radiator",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "0465e760-fe07-48f8-9f0a-8b7259b09bc5",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/0465e760-fe07-48f8-9f0a-8b7259b09bc5.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/0465e760-fe07-48f8-9f0a-8b7259b09bc5.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/0465e760-fe07-48f8-9f0a-8b7259b09bc5.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_0465e760-fe07-48f8-9f0a-8b7259b09bc5.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_0465e760-fe07-48f8-9f0a-8b7259b09bc5.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Warm indie-folk ballad with intimate upright piano and brushed drums, gentle acoustic guitar fingerpicking, and soft female vocals. Verses stay close and confessional, almost whispered over sparse chords; chorus blooms with simple vocal harmonies and subtle tambourine lift. Light tape saturation and room reverb for a vintage glow; a quiet piano motif threads transitions, keeping the energy tender yet hopeful., emotional, soft",
+    "prompt": "[Verse 1]\nSunrise on the drying line\nTiny shirts on wooden pins\nCoffee gone from hot to cold\nYou laugh in your sleep again\n\nOne sock on the radiator\nOne toy under the chair\nI used to sleep ‘til Sunday noon\nNow I just stand and stare\n\n[Chorus]\nHow were you ever so small?\nHow did you ever fit here in my arms at all?\nI blink and the blanket’s too short\nThe crib feels crowded and worn\nSlow down\nSlow down\nMy love\nYou’re teaching me how to grow up\n\n[Verse 2]\nPhotos curled along the mirror\nBaby cap\nFirst hospital tag\nI fold them like a paper prayer\nTuck them in a weathered bag\n\nYou smear peaches on your fingers\nYou say “mama” half a word\nI write it in the margins\nOf a page you’ll never turn\n\n[Chorus]\nHow were you ever so small?\nHow did you ever fit here in my arms at all?\nI blink and the blanket’s too short\nThe crib feels crowded and worn\nSlow down\nSlow down\nMy love\nYou’re teaching me how to grow up\n\n[Bridge]\nOne day you’ll borrow my suitcase\nRush past the door\nWon’t look back the same\nI’ll wash these tiny socks again\nJust to remember your name (softly)\n\n[Chorus]\nHow were you ever so small?\nHow did you ever fit here in my arms at all?\nI blink and the blanket’s too short\nThe crib feels crowded and worn\nSlow down\nSlow down\nMy love\nStay a little longer\nMy love\nYou’re teaching me how to grow up",
+    "gpt_description_prompt": "Vintage style, upbeat but emotional, motherhood lyrics or nostalgia for baby coming, piano, balada, indie, soft folk ",
+    "type": "gen",
+    "duration": 224.12,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-01T18:16:51.301Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "0465e760-fe07-48f8-9f0a-8b7259b09bc5",
+    "updated_at": "2026-04-02T21:31:57.436Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie folk, folk, singer-songwriter",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+Metadata for: My_Workspace-Ghosts_of_the_Grind_(Vocals)-011384f7-4144-438f-a9ea-680996446abe.mp3
+Generated: 2026-05-05T19:16:37.192Z
+
+--- Track Information ---
+Title: Ghosts of the Grind (Vocals)
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Verse]
+Woke up drowning, sweat cold on my back,
+Chasing dreams, but these shadows attack.
+Voices whisper, they ain't cutting no slack,
+Pull me to the bottle, tryna drag me back.
+
+Broke the mirror, my reflection ain't me,
+Scars on my soul like tattoos that bleed.
+Prayed for peace, but the chaos I feed,
+In a world where the strong still concede.
+
+[Prechorus]
+Keep running, yeah, but the past don't tire,
+Fingers to the flame, playing games with fire.
+
+[Chorus]
+Ghosts of the grind, they won't let me sleep,
+Hands on my heart, pulling down so deep.
+I keep climbing, but the hill too steep,
+Ghosts of the grind, yeah, ghosts of the grind.
+
+[Verse 2]
+Lost in the woods, but the path feels thin,
+Devil on my shoulder, asking where I been.
+Cracks in my armor, the light seeps in,
+Fighting old habits, they still my kin.
+
+Fame feels hollow, success tastes dry,
+Diamonds on my neck, but my throat feels tied.
+The man in the moon, yeah, he won't reply,
+Questions echo loud, but they fade in the sky.
+
+--- Lyrics ---
+[Verse]
+Woke up drowning, sweat cold on my back,
+Chasing dreams, but these shadows attack.
+Voices whisper, they ain't cutting no slack,
+Pull me to the bottle, tryna drag me back.
+
+Broke the mirror, my reflection ain't me,
+Scars on my soul like tattoos that bleed.
+Prayed for peace, but the chaos I feed,
+In a world where the strong still concede.
+
+[Prechorus]
+Keep running, yeah, but the past don't tire,
+Fingers to the flame, playing games with fire.
+
+[Chorus]
+Ghosts of the grind, they won't let me sleep,
+Hands on my heart, pulling down so deep.
+I keep climbing, but the hill too steep,
+Ghosts of the grind, yeah, ghosts of the grind.
+
+[Verse 2]
+Lost in the woods, but the path feels thin,
+Devil on my shoulder, asking where I been.
+Cracks in my armor, the light seeps in,
+Fighting old habits, they still my kin.
+
+Fame feels hollow, success tastes dry,
+Diamonds on my neck, but my throat feels tied.
+The man in the moon, yeah, he won't reply,
+Questions echo loud, but they fade in the sky.
+
+Cover Art URL: https://cdn2.suno.ai/image_011384f7-4144-438f-a9ea-680996446abe.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Ghosts of the Grind (Vocals)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "011384f7-4144-438f-a9ea-680996446abe",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/011384f7-4144-438f-a9ea-680996446abe.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/011384f7-4144-438f-a9ea-680996446abe.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/011384f7-4144-438f-a9ea-680996446abe.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_011384f7-4144-438f-a9ea-680996446abe.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_011384f7-4144-438f-a9ea-680996446abe.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Verse]\nWoke up drowning, sweat cold on my back,\nChasing dreams, but these shadows attack.\nVoices whisper, they ain't cutting no slack,\nPull me to the bottle, tryna drag me back.\n\nBroke the mirror, my reflection ain't me,\nScars on my soul like tattoos that bleed.\nPrayed for peace, but the chaos I feed,\nIn a world where the strong still concede.\n\n[Prechorus]\nKeep running, yeah, but the past don't tire,\nFingers to the flame, playing games with fire.\n\n[Chorus]\nGhosts of the grind, they won't let me sleep,\nHands on my heart, pulling down so deep.\nI keep climbing, but the hill too steep,\nGhosts of the grind, yeah, ghosts of the grind.\n\n[Verse 2]\nLost in the woods, but the path feels thin,\nDevil on my shoulder, asking where I been.\nCracks in my armor, the light seeps in,\nFighting old habits, they still my kin.\n\nFame feels hollow, success tastes dry,\nDiamonds on my neck, but my throat feels tied.\nThe man in the moon, yeah, he won't reply,\nQuestions echo loud, but they fade in the sky.",
+    "history": [
+      {
+        "id": "4f7963be-b015-4fb1-abbc-8725d3d80d03",
+        "type": "gen",
+        "infill": false,
+        "source": "web",
+        "stem_task": "two",
+        "stem_from_id": "4f7963be-b015-4fb1-abbc-8725d3d80d03",
+        "stem_type_id": 91,
+        "stem_type_group_name": "Two"
+      }
+    ],
+    "stem_from_id": "4f7963be-b015-4fb1-abbc-8725d3d80d03",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "4f7963be-b015-4fb1-abbc-8725d3d80d03",
+    "type": "gen",
+    "duration": 106.28,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-28T13:47:35.569Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 2,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+Metadata for: My_Workspace-Oh_Baby-a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.mp3
+Generated: 2026-05-05T18:39:48.851Z
+
+--- Track Information ---
+Title: Oh Baby
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rap, urban, slick, organic, old school hip hop, beat, funky, smooth, classic, hip hop
+
+--- Lyrics ---
+[Intro]
+Oh, oh baby
+Yeah, oh, oh baby
+Oh, oh baby
+Yeah, oh, oh baby
+
+[Verse 1]
+More bounce to the ounce
+Coke in the can, Brown in the Crown
+Drunk and I'm loud, shut the club down
+Hit the afterparty, we can jump in the crowd
+Throwin' out a hundred thousand, got 'em like, "Wow"
+Homegirl got a body, so I wanna try now
+Wanna be my best friend, that's word of mouth
+My new girlfriend from the Dirty South
+
+[Chorus]
+Baby, you should just give it up
+I don't give a fuck
+Why you tryna live it up?
+Baby, we can run away
+We can go today
+I don't really give a fuck, ayy
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+
+[Verse 2]
+In the drop-top, smokin' and hotbox
+Postin' in my spot, been my girl since hopscotch
+A girl who pop locks
+Got 'em like, "What?" Ayy
+Ayy, my man ain't what it seems
+So I'm tryna do my thing
+But you got it and it's all for me
+And I gotta have it all for me
+And we might get involved, so, please
+
+[Chorus]
+Baby, you should just give it up
+I don't give a fuck
+Why you tryna live it up?
+Baby, we can run away
+We can go today
+I don't really give a fuck, ayy
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+[Outro]
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+Oh, oh baby
+
+Cover Art URL: https://cdn2.suno.ai/image_a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Oh Baby",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rap, urban, slick, organic, old school hip hop, beat, funky, smooth, classic, hip hop",
+    "prompt": "[Intro]\nOh, oh baby\nYeah, oh, oh baby\nOh, oh baby\nYeah, oh, oh baby\n\n[Verse 1]\nMore bounce to the ounce\nCoke in the can, Brown in the Crown\nDrunk and I'm loud, shut the club down\nHit the afterparty, we can jump in the crowd\nThrowin' out a hundred thousand, got 'em like, \"Wow\"\nHomegirl got a body, so I wanna try now\nWanna be my best friend, that's word of mouth\nMy new girlfriend from the Dirty South\n\n[Chorus]\nBaby, you should just give it up\nI don't give a fuck\nWhy you tryna live it up?\nBaby, we can run away\nWe can go today\nI don't really give a fuck, ayy\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\n\n[Verse 2]\nIn the drop-top, smokin' and hotbox\nPostin' in my spot, been my girl since hopscotch\nA girl who pop locks\nGot 'em like, \"What?\" Ayy\nAyy, my man ain't what it seems\nSo I'm tryna do my thing\nBut you got it and it's all for me\nAnd I gotta have it all for me\nAnd we might get involved, so, please\n\n[Chorus]\nBaby, you should just give it up\nI don't give a fuck\nWhy you tryna live it up?\nBaby, we can run away\nWe can go today\nI don't really give a fuck, ayy\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\n[Outro]\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby\nOh, oh baby",
+    "gpt_description_prompt": "Feel good and fun hip hop track with smooth vocals and funky, organic instruments, creating a slick and classic mood. piano. sax.. . urban, slick, organic, old school hip hop, beat",
+    "type": "gen",
+    "duration": 114.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-05T17:06:22.988Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "a4f5cf29-1ff0-4f35-af14-9cf3f6d2b8d3",
+    "updated_at": "2026-01-05T17:08:08.683Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+Metadata for: My_Workspace-You're_A_Star-ea82e8c1-2804-460e-b446-6be649f013cf.mp3
+Generated: 2026-05-05T19:43:11.395Z
+
+--- Track Information ---
+Title: You're A Star
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: a minor, simple, and a distorted saw-bass drop. fuzzy punk guitar stabs bring rawness, electronic-punk, 138 bpm, electronic, while rhythmic vocal chops add texture. the track is drenched in heavy sidechain pumping, punk, uplifting, vocal, euphoric at 1am in a packed warehouse. air horn and hi-hats keep the energy relentless., breakbeat, breakbeat fills, emotional, raspy shouted male vocals with heavy australian punk attitude. emotional pads meet a house kick, rhythmic
+
+--- Lyrics ---
+[Verse]
+Streetlights flicker
+You’re shining so bright
+Neon pulse cuts through the night
+Every step’s a fire
+Yeah you’re walking on air
+(You don’t care) You don’t care
+
+[Prechorus]
+Heart's a drum
+It’s beating fast
+This moment’s yours
+Make it last
+
+[Chorus]
+You’re a star
+Yeah
+You’re a star
+Lighting up the dark
+No matter where you are
+You’re a star
+Yeah
+You’re a star
+Burning so loud
+They can hear you from afar
+
+[Vocal Chop Drop]
+(Ah-ah-ah-ah) You’re a star
+(Ah-ah-ah-ah) Oooohhh
+You’re a star
+(Ah-ah-ah-ah) Whoa-oh
+Whoa-oh
+
+[Verse 2]
+Fuzzy guitars and a bassline growl
+Warehouse shakes when the beats get loud
+Sweat drips
+Hearts collide
+We’re alive
+(We survive) Yeah
+We survive
+
+[Prechorus]
+The floor’s on fire
+The roof’s gonna blow
+Hold tight now
+Let the energy flow
+
+Cover Art URL: https://cdn2.suno.ai/image_ea82e8c1-2804-460e-b446-6be649f013cf.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "You're A Star",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "ea82e8c1-2804-460e-b446-6be649f013cf",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/ea82e8c1-2804-460e-b446-6be649f013cf.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/ea82e8c1-2804-460e-b446-6be649f013cf.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/ea82e8c1-2804-460e-b446-6be649f013cf.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_ea82e8c1-2804-460e-b446-6be649f013cf.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_ea82e8c1-2804-460e-b446-6be649f013cf.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "a minor, simple, and a distorted saw-bass drop. fuzzy punk guitar stabs bring rawness, electronic-punk, 138 bpm, electronic, while rhythmic vocal chops add texture. the track is drenched in heavy sidechain pumping, punk, uplifting, vocal, euphoric at 1am in a packed warehouse. air horn and hi-hats keep the energy relentless., breakbeat, breakbeat fills, emotional, raspy shouted male vocals with heavy australian punk attitude. emotional pads meet a house kick, rhythmic",
+    "prompt": "[Verse]\nStreetlights flicker\nYou’re shining so bright\nNeon pulse cuts through the night\nEvery step’s a fire\nYeah you’re walking on air\n(You don’t care) You don’t care\n\n[Prechorus]\nHeart's a drum\nIt’s beating fast\nThis moment’s yours\nMake it last\n\n[Chorus]\nYou’re a star\nYeah\nYou’re a star\nLighting up the dark\nNo matter where you are\nYou’re a star\nYeah\nYou’re a star\nBurning so loud\nThey can hear you from afar\n\n[Vocal Chop Drop]\n(Ah-ah-ah-ah) You’re a star\n(Ah-ah-ah-ah) Oooohhh\nYou’re a star\n(Ah-ah-ah-ah) Whoa-oh\nWhoa-oh\n\n[Verse 2]\nFuzzy guitars and a bassline growl\nWarehouse shakes when the beats get loud\nSweat drips\nHearts collide\nWe’re alive\n(We survive) Yeah\nWe survive\n\n[Prechorus]\nThe floor’s on fire\nThe roof’s gonna blow\nHold tight now\nLet the energy flow",
+    "gpt_description_prompt": "Energetic electronic-punk track blending Fre d again.. and Amyl & The S niffers. 138 BPM, A minor. Emotional pads, house kick, breakbeat fills, distorted saw-bass drop, and fuzzy punk guitar stabs. Raspy shouted vocals with Australian punk attitude, simple uplifting lyrics about someone being a star. Include rhythmic Fred-style vocal chops and heavy sidechain pumping. Euphoric 1AM warehouse vibe. air horn. high hats",
+    "type": "gen",
+    "duration": 183.24,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-18T20:10:50.512Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "ea82e8c1-2804-460e-b446-6be649f013cf",
+    "updated_at": "2025-11-18T20:12:20.056Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electronic-punk, breakbeat, house",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

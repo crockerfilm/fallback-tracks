@@ -1,0 +1,258 @@
+Metadata for: My_Workspace-Slow_Burn_On_Your_Skin-c67d30c6-8e97-4df4-a4a7-808bacc60e8e.mp3
+Generated: 2026-05-05T17:01:30.048Z
+
+--- Track Information ---
+Title: Slow Burn On Your Skin
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Silky R&B groove with a sensual mid-tempo bounce, warm Rhodes chords and a thick, round bass line. Male vocals laid close and breathy on the verses; chorus opens with stacked harmonies and soft falsetto ad-libs. Snaps and tight drums keep it intimate, with a late-song lift using airy pads and a subtle guitar line weaving around the topline., romantic
+
+--- Lyrics ---
+[Verse 1]
+Wine on your lip
+Lip on my name
+Laugh on your breath
+Hand on my chain
+
+Candle wax drip
+Down to your wrist
+You pull me close
+Like you can’t resist
+
+[Chorus]
+Slow burn on your skin
+We’re crossing that line again
+Say “baby
+Don’t stop” (don’t stop)
+Till the room forgets the time we’re in
+Slow burn
+Every kiss
+You’re breathing my first and last wish
+All night
+Just stay
+Where your heartbeat meets my lips
+
+[Verse 2]
+Shirt on the floor
+Clock turned away
+You trace my scars
+Ask how they taste
+
+You bite my shoulder
+Smirk when I sigh
+You say my full name
+Looking in my eyes
+
+[Chorus]
+Slow burn on your skin
+We’re crossing that line again
+Say “baby
+Don’t stop” (oh, don’t stop)
+Till the room forgets the time we’re in
+Slow burn
+Every kiss
+You’re breathing my first and last wish
+All night
+Just stay
+Where your heartbeat meets my lips
+
+[Bridge]
+Tell me where you want my hands
+I’ll learn every inch
+Every plan
+Every “right there”
+Every gasp in the dark
+Every soft little mark I leave on your heart (yeah)
+
+[Chorus]
+Slow burn on your skin
+We’re crossing that line again
+Say “baby
+Don’t stop”
+Till the room forgets the time we’re in
+Slow burn
+Every kiss
+You’re breathing my first and last wish
+All night
+Just stay
+Where your heartbeat meets my lips
+
+Cover Art URL: https://cdn2.suno.ai/image_c67d30c6-8e97-4df4-a4a7-808bacc60e8e.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Slow Burn On Your Skin",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "c67d30c6-8e97-4df4-a4a7-808bacc60e8e",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/c67d30c6-8e97-4df4-a4a7-808bacc60e8e.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/c67d30c6-8e97-4df4-a4a7-808bacc60e8e.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/c67d30c6-8e97-4df4-a4a7-808bacc60e8e.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_c67d30c6-8e97-4df4-a4a7-808bacc60e8e.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_c67d30c6-8e97-4df4-a4a7-808bacc60e8e.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Silky R&B groove with a sensual mid-tempo bounce, warm Rhodes chords and a thick, round bass line. Male vocals laid close and breathy on the verses; chorus opens with stacked harmonies and soft falsetto ad-libs. Snaps and tight drums keep it intimate, with a late-song lift using airy pads and a subtle guitar line weaving around the topline., romantic",
+    "prompt": "[Verse 1]\nWine on your lip\nLip on my name\nLaugh on your breath\nHand on my chain\n\nCandle wax drip\nDown to your wrist\nYou pull me close\nLike you can’t resist\n\n[Chorus]\nSlow burn on your skin\nWe’re crossing that line again\nSay “baby\nDon’t stop” (don’t stop)\nTill the room forgets the time we’re in\nSlow burn\nEvery kiss\nYou’re breathing my first and last wish\nAll night\nJust stay\nWhere your heartbeat meets my lips\n\n[Verse 2]\nShirt on the floor\nClock turned away\nYou trace my scars\nAsk how they taste\n\nYou bite my shoulder\nSmirk when I sigh\nYou say my full name\nLooking in my eyes\n\n[Chorus]\nSlow burn on your skin\nWe’re crossing that line again\nSay “baby\nDon’t stop” (oh, don’t stop)\nTill the room forgets the time we’re in\nSlow burn\nEvery kiss\nYou’re breathing my first and last wish\nAll night\nJust stay\nWhere your heartbeat meets my lips\n\n[Bridge]\nTell me where you want my hands\nI’ll learn every inch\nEvery plan\nEvery “right there”\nEvery gasp in the dark\nEvery soft little mark I leave on your heart (yeah)\n\n[Chorus]\nSlow burn on your skin\nWe’re crossing that line again\nSay “baby\nDon’t stop”\nTill the room forgets the time we’re in\nSlow burn\nEvery kiss\nYou’re breathing my first and last wish\nAll night\nJust stay\nWhere your heartbeat meets my lips",
+    "gpt_description_prompt": "romantic, sexy beat",
+    "type": "gen",
+    "duration": 161.2,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-19T03:49:41.148Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "c67d30c6-8e97-4df4-a4a7-808bacc60e8e",
+    "updated_at": "2026-03-19T21:08:21.113Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": true,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "R&B, soul",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

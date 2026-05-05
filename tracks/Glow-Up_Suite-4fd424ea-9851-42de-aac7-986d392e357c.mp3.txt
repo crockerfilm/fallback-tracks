@@ -1,0 +1,192 @@
+Metadata for: My_Workspace-Glow-Up_Suite-4fd424ea-9851-42de-aac7-986d392e357c.mp3
+Generated: 2026-05-05T18:47:57.972Z
+
+--- Track Information ---
+Title: Glow-Up Suite
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rap, Silky modern R&B / hip-hop instrumental at ~100 BPM; clean, confident intro on warm Rhodes-style keys with tight, dry drums. Gradual build with subtle ear-candy plucks and filtered sweeps, then a smooth but assertive drop halfway featuring punchy subby 808 bass, crisp percussion, and polished stereo hats. Arrangement rides a luxury, late-night glow-up vibe—sleek transitions, tasteful FX, and dynamic mutes to keep it cool, sensual, and upscale throughout., sensual, strong, clean, r&b, warm, smooth, hip-hop
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_4fd424ea-9851-42de-aac7-986d392e357c.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Glow-Up Suite",
+  "play_count": 26,
+  "upvote_count": 1,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "4fd424ea-9851-42de-aac7-986d392e357c",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/4fd424ea-9851-42de-aac7-986d392e357c.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/4fd424ea-9851-42de-aac7-986d392e357c.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/4fd424ea-9851-42de-aac7-986d392e357c.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_4fd424ea-9851-42de-aac7-986d392e357c.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_4fd424ea-9851-42de-aac7-986d392e357c.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rap, Silky modern R&B / hip-hop instrumental at ~100 BPM; clean, confident intro on warm Rhodes-style keys with tight, dry drums. Gradual build with subtle ear-candy plucks and filtered sweeps, then a smooth but assertive drop halfway featuring punchy subby 808 bass, crisp percussion, and polished stereo hats. Arrangement rides a luxury, late-night glow-up vibe—sleek transitions, tasteful FX, and dynamic mutes to keep it cool, sensual, and upscale throughout., sensual, strong, clean, r&b, warm, smooth, hip-hop",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Modern R&B instrumental with a hip-hop feel. Clean, confident intro with warm keys and tight drums around 100 BPM. Smooth but strong drop halfway with punchy 808 bass and crisp percussion for a glow-up moment. Cool, sensual, modern, and polished. No vocals. Luxury lifestyle background music.",
+    "type": "gen",
+    "duration": 162.64,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": true,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-24T00:31:41.605Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 25,
+    "skip_count": 0,
+    "flagged": false,
+    "reaction_type": "L",
+    "clip": "4fd424ea-9851-42de-aac7-986d392e357c",
+    "updated_at": "2026-04-15T02:16:25.801Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rap, R&B, hip-hop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

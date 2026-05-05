@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Midfield_Pulse-8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.mp3
+Generated: 2026-05-05T16:00:46.160Z
+
+--- Track Information ---
+Title: Midfield Pulse
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Downtempo electronic background music with a steady mid-tempo groove, soft kick and click percussion, muted sub pulses, and thin synth textures; verse-like sections stay sparse with a gentle rhythmic bed, a light lift adds airy pads and short electronic ticks, and the final pass opens slightly with polished percussion accents. Breathable vocal-like chops and subtle risers between phrases, clean sidechain movement, intimate close-mic feel, bright and professional mix with a modern tech-sport sheen., tone, light, minimal, contemporary, soft, strong, electronic, steady
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Midfield Pulse",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "8d95544b-e5bd-40fd-aed2-d7453fb9f2b9",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_8d95544b-e5bd-40fd-aed2-d7453fb9f2b9.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Downtempo electronic background music with a steady mid-tempo groove, soft kick and click percussion, muted sub pulses, and thin synth textures; verse-like sections stay sparse with a gentle rhythmic bed, a light lift adds airy pads and short electronic ticks, and the final pass opens slightly with polished percussion accents. Breathable vocal-like chops and subtle risers between phrases, clean sidechain movement, intimate close-mic feel, bright and professional mix with a modern tech-sport sheen., tone, light, minimal, contemporary, soft, strong, electronic, steady",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "\"Create subtle background music for an interview-style video for a sports betting app. The tone should feel modern, confident, and slightly energetic, reflecting the excitement of sports without being distracting. Use soft electronic elements, light percussion, and minimal melodic layers. The music should stay in the background, supporting dialogue without drawing attention. Avoid strong hooks, heavy drops, or dominant melodies. Keep a steady, mid-tempo rhythm with a polished and professional atmosphere. The overall mood should feel engaging, trustworthy, and contemporary, suitable for a brand in the sports and tech space.",
+    "type": "gen",
+    "duration": 122.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-27T17:00:28.688Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "8d95544b-e5bd-40fd-aed2-d7453fb9f2b9",
+    "updated_at": "2026-04-27T17:02:14.152Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "downtempo electronic, minimal techno, ambient electronic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

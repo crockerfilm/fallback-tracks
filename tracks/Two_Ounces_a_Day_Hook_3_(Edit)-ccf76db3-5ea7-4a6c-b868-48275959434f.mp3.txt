@@ -1,0 +1,203 @@
+Metadata for: My_Workspace-Two_Ounces_a_Day_Hook_3_(Edit)-ccf76db3-5ea7-4a6c-b868-48275959434f.mp3
+Generated: 2026-05-05T16:39:37.189Z
+
+--- Track Information ---
+Title: Two Ounces a Day Hook 3 (Edit)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad
+
+
+--- Lyrics ---
+[Intro]
+[acoustic guitar strumming, clean electric guitar melodic fill]
+
+[Verse 1]
+[baritone male vocals]
+94 million Americans
+Got cholesterol concerns right now
+I was one of them
+Didn't want the capsules
+Just wanted to figure out how
+
+[Chorus]
+Just a little orange shot every morning
+2 ounces, 2 seconds, that's all
+Support your cholesterol, keep on living
+Don't let the worry take the wheel
+Take the shot, live your life
+Pass the plate to your husband or wife
+Dos for cholesterol
+Plant-centered and real
+
+[Outro]
+[electric guitar solo with light overdrive]
+2 ounces a day
+And you're good for the meal
+[final acoustic guitar chord]
+
+Cover Art URL: https://cdn2.suno.ai/image_ccf76db3-5ea7-4a6c-b868-48275959434f.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Two Ounces a Day Hook 3 (Edit)",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "ccf76db3-5ea7-4a6c-b868-48275959434f",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/ccf76db3-5ea7-4a6c-b868-48275959434f.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/ccf76db3-5ea7-4a6c-b868-48275959434f.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/ccf76db3-5ea7-4a6c-b868-48275959434f.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_ccf76db3-5ea7-4a6c-b868-48275959434f.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_ccf76db3-5ea7-4a6c-b868-48275959434f.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad\n",
+    "prompt": "[Intro]\n[acoustic guitar strumming, clean electric guitar melodic fill]\n\n[Verse 1]\n[baritone male vocals]\n94 million Americans\nGot cholesterol concerns right now\nI was one of them\nDidn't want the capsules\nJust wanted to figure out how\n\n[Chorus]\nJust a little orange shot every morning\n2 ounces, 2 seconds, that's all\nSupport your cholesterol, keep on living\nDon't let the worry take the wheel\nTake the shot, live your life\nPass the plate to your husband or wife\nDos for cholesterol\nPlant-centered and real\n\n[Outro]\n[electric guitar solo with light overdrive]\n2 ounces a day\nAnd you're good for the meal\n[final acoustic guitar chord]",
+    "edited_clip_id": "dcc2ca30-10a4-40ea-9a49-92c41bd5ab00",
+    "type": "edit_v3_export",
+    "duration": 79.06904166666666,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "can_remix": true,
+    "is_remix": false,
+    "studio_project_id": "92c39aec-52d8-488a-a70c-fe8fbc500232",
+    "studio_project_version_id": "d3c577a8-e92b-4c24-8fd6-8c8611c6abbb",
+    "studio_project_start_beats": -0.5721228682247042,
+    "studio_project_end_beats": 111.4423243947914,
+    "has_stem": false,
+    "uses_latest_model": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-03T18:26:14.145Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "ccf76db3-5ea7-4a6c-b868-48275959434f",
+    "updated_at": "2026-04-03T20:20:51.214Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "classic country, traditional country, americana",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

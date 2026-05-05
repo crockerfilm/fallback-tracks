@@ -1,0 +1,185 @@
+Metadata for: My_Workspace-DD_FLW38_IWishMorePeopleKnewGoodGuyPersona_C1_Textblock_Overwhelmed_HusbandSettingUpFlowers_9X16_V1-039fcb78-812d-47b3-b723-89a3eb484f14.mp3
+Generated: 2026-05-05T18:19:23.559Z
+
+--- Track Information ---
+Title: DD_FLW38_IWishMorePeopleKnewGoodGuyPersona_C1_Textblock_Overwhelmed_HusbandSettingUpFlowers_9X16_V1
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Upbeat and whimsical vintage-style jazz composition featuring a prominent stride piano and a lively brass section. The arrangement is characterized by a syncopated ragtime-influenced rhythm in 4/4 time at a tempo of approximately 120 BPM. A bright, muted trumpet leads the melodic lines with playful staccato phrasing, supported by a walking double bass and a crisp drum kit utilizing brushes on the snare and a steady hi-hat pulse. The harmonic structure follows a traditional I-VI-II-V turnaround in a major key, creating a cheerful and nostalgic atmosphere. Production is clean with a slight vintage warmth, mimicking the acoustic resonance of a mid-20th-century recording hall. The piece maintains a consistent energy throughout with brief instrumental flourishes from a clarinet and a trombone providing counter-melodies.
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_039fcb78-812d-47b3-b723-89a3eb484f14.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "DD_FLW38_IWishMorePeopleKnewGoodGuyPersona_C1_Textblock_Overwhelmed_HusbandSettingUpFlowers_9X16_V1",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "039fcb78-812d-47b3-b723-89a3eb484f14",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/039fcb78-812d-47b3-b723-89a3eb484f14.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/039fcb78-812d-47b3-b723-89a3eb484f14.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/039fcb78-812d-47b3-b723-89a3eb484f14.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_039fcb78-812d-47b3-b723-89a3eb484f14.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_039fcb78-812d-47b3-b723-89a3eb484f14.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "Upbeat and whimsical vintage-style jazz composition featuring a prominent stride piano and a lively brass section. The arrangement is characterized by a syncopated ragtime-influenced rhythm in 4/4 time at a tempo of approximately 120 BPM. A bright, muted trumpet leads the melodic lines with playful staccato phrasing, supported by a walking double bass and a crisp drum kit utilizing brushes on the snare and a steady hi-hat pulse. The harmonic structure follows a traditional I-VI-II-V turnaround in a major key, creating a cheerful and nostalgic atmosphere. Production is clean with a slight vintage warmth, mimicking the acoustic resonance of a mid-20th-century recording hall. The piece maintains a consistent energy throughout with brief instrumental flourishes from a clarinet and a trombone providing counter-melodies.",
+    "prompt": "[Instrumental]",
+    "type": "upload",
+    "duration": 20.544,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-22T20:14:37.939Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "039fcb78-812d-47b3-b723-89a3eb484f14",
+    "updated_at": "2026-01-29T01:22:27.804Z"
+  },
+  "is_following_creator": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "vintage jazz, ragtime, upbeat instrumental",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

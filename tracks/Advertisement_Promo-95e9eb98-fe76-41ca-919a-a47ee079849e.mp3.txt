@@ -1,0 +1,220 @@
+Metadata for: My_Workspace-Advertisement_Promo-95e9eb98-fe76-41ca-919a-a47ee079849e.mp3
+Generated: 2026-05-05T18:18:01.663Z
+
+--- Track Information ---
+Title: Advertisement Promo
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Upbeat and energetic electro-swing track blending vintage 1920s jazz aesthetics with modern electronic dance production. The arrangement features a prominent, syncopated brass section with trumpets and saxophones playing staccato riffs over a driving four-on-the-floor house beat. A walking double bass line provides the harmonic foundation, complemented by a crisp snare and high-hat pattern. The track includes a soulful, high-energy female vocal performance characterized by rhythmic phrasing and jazz-inflected runs. Production elements include a clean, punchy mix with subtle vinyl crackle textures in the intro, side-chained compression on the synth bass, and bright reverb on the horn section. The tempo is approximately 124 BPM in a major key, following a standard verse-chorus structure with a high-pass filter sweep during the build-up.
+
+--- Lyrics ---
+[Intro]
+(Ooh-ooh)
+(Yeah, yeah)
+
+[Verse 1]
+Step into the light and let the rhythm take control
+We're swinging through the night with a fire in our soul
+Old school magic with a brand new beat
+Can you feel the energy rising from the street?
+
+[Chorus]
+Swing it high, swing it low
+Let the vintage melody flow
+Modern vibes and a classic sound
+We're the loudest rhythm in this town
+(Oh, swing it!)
+
+[Instrumental Break]
+
+[Verse 2]
+Brass is screaming loud and the bass is kicking tight
+Everything is glowing in the neon city light
+Don't look back, just move your feet
+To the syncopated pulse of the electro beat
+
+[Chorus]
+Swing it high, swing it low
+Let the vintage melody flow
+Modern vibes and a classic sound
+We're the loudest rhythm in this town
+(Yeah, that's right!)
+
+[Outro]
+(Swing it)
+(Ooh-ooh)
+(Yeah)
+
+Cover Art URL: https://cdn2.suno.ai/image_95e9eb98-fe76-41ca-919a-a47ee079849e.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Advertisement Promo",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "95e9eb98-fe76-41ca-919a-a47ee079849e",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/95e9eb98-fe76-41ca-919a-a47ee079849e.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/95e9eb98-fe76-41ca-919a-a47ee079849e.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/95e9eb98-fe76-41ca-919a-a47ee079849e.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_95e9eb98-fe76-41ca-919a-a47ee079849e.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_95e9eb98-fe76-41ca-919a-a47ee079849e.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "Upbeat and energetic electro-swing track blending vintage 1920s jazz aesthetics with modern electronic dance production. The arrangement features a prominent, syncopated brass section with trumpets and saxophones playing staccato riffs over a driving four-on-the-floor house beat. A walking double bass line provides the harmonic foundation, complemented by a crisp snare and high-hat pattern. The track includes a soulful, high-energy female vocal performance characterized by rhythmic phrasing and jazz-inflected runs. Production elements include a clean, punchy mix with subtle vinyl crackle textures in the intro, side-chained compression on the synth bass, and bright reverb on the horn section. The tempo is approximately 124 BPM in a major key, following a standard verse-chorus structure with a high-pass filter sweep during the build-up.",
+    "prompt": "[Intro]\n(Ooh-ooh)\n(Yeah, yeah)\n\n[Verse 1]\nStep into the light and let the rhythm take control\nWe're swinging through the night with a fire in our soul\nOld school magic with a brand new beat\nCan you feel the energy rising from the street?\n\n[Chorus]\nSwing it high, swing it low\nLet the vintage melody flow\nModern vibes and a classic sound\nWe're the loudest rhythm in this town\n(Oh, swing it!)\n\n[Instrumental Break]\n\n[Verse 2]\nBrass is screaming loud and the bass is kicking tight\nEverything is glowing in the neon city light\nDon't look back, just move your feet\nTo the syncopated pulse of the electro beat\n\n[Chorus]\nSwing it high, swing it low\nLet the vintage melody flow\nModern vibes and a classic sound\nWe're the loudest rhythm in this town\n(Yeah, that's right!)\n\n[Outro]\n(Swing it)\n(Ooh-ooh)\n(Yeah)",
+    "type": "upload",
+    "duration": 117.62938775510204,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-23T20:33:14.053Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "95e9eb98-fe76-41ca-919a-a47ee079849e",
+    "updated_at": "2026-01-26T19:03:43.852Z"
+  },
+  "is_following_creator": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electro-swing, vintage jazz, upbeat electronic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

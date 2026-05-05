@@ -1,0 +1,252 @@
+Metadata for: My_Workspace-Groove_Rocket_(1)_(Vocals)-d9a1c4b5-5765-4ea9-a356-f5d2f435216c.mp3
+Generated: 2026-05-05T15:55:58.953Z
+
+--- Track Information ---
+Title: Groove Rocket (1) (Vocals)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Intro]
+[punchy kick drum, syncopated FM synth bass]
+[bright female vocal chops enter]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+
+[Build-up]
+[snare roll begins, rising pitch]
+[white noise riser]
+[vocal chops increase in frequency]
+
+[Drop]
+[heavy sidechained synth bass, four-on-the-floor kick]
+[processed vocal hook]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+[claps on beats 2 and 4]
+
+[Bridge]
+[drums drop out, filtered synth pad swells]
+[vocal chops continue with heavy reverb]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+
+[Outro]
+[kick drum and bass fade out]
+[vocal chops trail off with delay]
+
+--- Lyrics ---
+[Intro]
+[punchy kick drum, syncopated FM synth bass]
+[bright female vocal chops enter]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+
+[Build-up]
+[snare roll begins, rising pitch]
+[white noise riser]
+[vocal chops increase in frequency]
+
+[Drop]
+[heavy sidechained synth bass, four-on-the-floor kick]
+[processed vocal hook]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+[claps on beats 2 and 4]
+
+[Bridge]
+[drums drop out, filtered synth pad swells]
+[vocal chops continue with heavy reverb]
+Da-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da
+
+[Outro]
+[kick drum and bass fade out]
+[vocal chops trail off with delay]
+
+Cover Art URL: https://cdn2.suno.ai/image_d9a1c4b5-5765-4ea9-a356-f5d2f435216c.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Groove Rocket (1) (Vocals)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d9a1c4b5-5765-4ea9-a356-f5d2f435216c",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d9a1c4b5-5765-4ea9-a356-f5d2f435216c.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d9a1c4b5-5765-4ea9-a356-f5d2f435216c.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d9a1c4b5-5765-4ea9-a356-f5d2f435216c.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d9a1c4b5-5765-4ea9-a356-f5d2f435216c.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d9a1c4b5-5765-4ea9-a356-f5d2f435216c.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Intro]\n[punchy kick drum, syncopated FM synth bass]\n[bright female vocal chops enter]\nDa-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da\n\n[Build-up]\n[snare roll begins, rising pitch]\n[white noise riser]\n[vocal chops increase in frequency]\n\n[Drop]\n[heavy sidechained synth bass, four-on-the-floor kick]\n[processed vocal hook]\nDa-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da\n[claps on beats 2 and 4]\n\n[Bridge]\n[drums drop out, filtered synth pad swells]\n[vocal chops continue with heavy reverb]\nDa-da-da-da-da-da-da-da-da-da-da-da-da-da-da-da\n\n[Outro]\n[kick drum and bass fade out]\n[vocal chops trail off with delay]",
+    "history": [
+      {
+        "infill": false,
+        "stem_from_id": "fb54c4c0-5967-4bf5-ac3e-f8ce5c616c65",
+        "stem_task": "two",
+        "stem_type_group_name": "Two",
+        "id": "fb54c4c0-5967-4bf5-ac3e-f8ce5c616c65",
+        "source": "web",
+        "stem_type_id": 91,
+        "type": "upload"
+      }
+    ],
+    "stem_from_id": "fb54c4c0-5967-4bf5-ac3e-f8ce5c616c65",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "fb54c4c0-5967-4bf5-ac3e-f8ce5c616c65",
+    "type": "gen",
+    "duration": 157.68,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-29T22:43:19.639Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

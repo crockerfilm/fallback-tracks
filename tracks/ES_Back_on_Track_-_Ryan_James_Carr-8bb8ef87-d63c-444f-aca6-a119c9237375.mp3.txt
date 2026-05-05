@@ -1,0 +1,223 @@
+Metadata for: My_Workspace-ES_Back_on_Track_-_Ryan_James_Carr-8bb8ef87-d63c-444f-aca6-a119c9237375.mp3
+Generated: 2026-05-05T17:19:18.475Z
+
+--- Track Information ---
+Title: ES_Back on Track - Ryan James Carr
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Upbeat and energetic synth-pop track with a strong dance-rock influence, characterized by a driving 128 BPM tempo in the key of A minor. The arrangement features a prominent, fuzzy sawtooth bassline that provides a rhythmic foundation alongside a punchy four-on-the-floor electronic drum kit with crisp claps on the backbeat. Shimmering, arpeggiated polyphonic synthesizers and bright, staccato lead lines create a vibrant melodic texture. The male vocals are processed with light compression and a touch of plate reverb, delivered in a confident, mid-range tenor with rhythmic precision. The song structure follows a standard verse-chorus-verse-chorus-bridge-chorus format, utilizing a simple i-VI-III-VII chord progression. Production is polished and modern, with wide stereo imaging for the synth pads and a centered, dry vocal mix that sits prominently above the instrumental layer.
+
+--- Lyrics ---
+[Verse 1]
+Walking down the neon street
+Feeling the rhythm in my feet
+The city lights are glowing bright
+We're gonna dance away the night
+
+[Chorus]
+Oh oh oh (yeah)
+Feel the energy inside
+Oh oh oh (alright)
+There is nowhere left to hide
+Just let the music take control
+And feel the fire in your soul
+
+[Verse 2]
+The bass is pumping in my chest
+We're putting all our fears to rest
+No looking back no turning 'round
+We've finally found the common ground
+
+[Chorus]
+Oh oh oh (come on)
+Feel the energy inside
+Oh oh oh (that's right)
+There is nowhere left to hide
+Just let the music take control
+And feel the fire in your soul
+
+[Bridge]
+(Instrumental Solo)
+
+[Chorus]
+Oh oh oh
+Feel the energy inside
+Oh oh oh
+There is nowhere left to hide
+Just let the music take control
+And feel the fire in your soul
+
+Cover Art URL: https://cdn2.suno.ai/image_8bb8ef87-d63c-444f-aca6-a119c9237375.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "ES_Back on Track - Ryan James Carr",
+  "play_count": 7,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "8bb8ef87-d63c-444f-aca6-a119c9237375",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/8bb8ef87-d63c-444f-aca6-a119c9237375.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/8bb8ef87-d63c-444f-aca6-a119c9237375.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/8bb8ef87-d63c-444f-aca6-a119c9237375.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_8bb8ef87-d63c-444f-aca6-a119c9237375.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_8bb8ef87-d63c-444f-aca6-a119c9237375.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "Upbeat and energetic synth-pop track with a strong dance-rock influence, characterized by a driving 128 BPM tempo in the key of A minor. The arrangement features a prominent, fuzzy sawtooth bassline that provides a rhythmic foundation alongside a punchy four-on-the-floor electronic drum kit with crisp claps on the backbeat. Shimmering, arpeggiated polyphonic synthesizers and bright, staccato lead lines create a vibrant melodic texture. The male vocals are processed with light compression and a touch of plate reverb, delivered in a confident, mid-range tenor with rhythmic precision. The song structure follows a standard verse-chorus-verse-chorus-bridge-chorus format, utilizing a simple i-VI-III-VII chord progression. Production is polished and modern, with wide stereo imaging for the synth pads and a centered, dry vocal mix that sits prominently above the instrumental layer.",
+    "prompt": "[Verse 1]\nWalking down the neon street\nFeeling the rhythm in my feet\nThe city lights are glowing bright\nWe're gonna dance away the night\n\n[Chorus]\nOh oh oh (yeah)\nFeel the energy inside\nOh oh oh (alright)\nThere is nowhere left to hide\nJust let the music take control\nAnd feel the fire in your soul\n\n[Verse 2]\nThe bass is pumping in my chest\nWe're putting all our fears to rest\nNo looking back no turning 'round\nWe've finally found the common ground\n\n[Chorus]\nOh oh oh (come on)\nFeel the energy inside\nOh oh oh (that's right)\nThere is nowhere left to hide\nJust let the music take control\nAnd feel the fire in your soul\n\n[Bridge]\n(Instrumental Solo)\n\n[Chorus]\nOh oh oh\nFeel the energy inside\nOh oh oh\nThere is nowhere left to hide\nJust let the music take control\nAnd feel the fire in your soul",
+    "type": "upload",
+    "duration": 175.896,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-03T22:41:37.087Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 7,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "8bb8ef87-d63c-444f-aca6-a119c9237375",
+    "updated_at": "2026-03-15T15:05:23.056Z"
+  },
+  "is_following_creator": false,
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "synth-pop, dance-rock, energetic male vocals",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

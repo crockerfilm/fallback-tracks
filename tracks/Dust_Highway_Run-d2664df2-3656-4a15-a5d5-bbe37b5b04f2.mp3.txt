@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Dust_Highway_Run-d2664df2-3656-4a15-a5d5-bbe37b5b04f2.mp3
+Generated: 2026-05-05T17:05:24.503Z
+
+--- Track Information ---
+Title: Dust Highway Run
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rock, Modern cinematic rock cue, male vocals. Gritty, overdriven guitar riff locked to a deep, punchy drum groove, bass glued to the kick for weight. Tight, driving mid‑tempo feel with wide stereo guitars; slight tremolo and reverb tails evoke open desert air. Chorus riff lifts with octave guitars and a subtle backing “whoa” gang vocal for swagger. Mix is bold and polished, built to sync under voiceover in a 10–15 second spot., electric, clean, deep
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_d2664df2-3656-4a15-a5d5-bbe37b5b04f2.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Dust Highway Run",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d2664df2-3656-4a15-a5d5-bbe37b5b04f2",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d2664df2-3656-4a15-a5d5-bbe37b5b04f2.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d2664df2-3656-4a15-a5d5-bbe37b5b04f2.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d2664df2-3656-4a15-a5d5-bbe37b5b04f2.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d2664df2-3656-4a15-a5d5-bbe37b5b04f2.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d2664df2-3656-4a15-a5d5-bbe37b5b04f2.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rock, Modern cinematic rock cue, male vocals. Gritty, overdriven guitar riff locked to a deep, punchy drum groove, bass glued to the kick for weight. Tight, driving mid‑tempo feel with wide stereo guitars; slight tremolo and reverb tails evoke open desert air. Chorus riff lifts with octave guitars and a subtle backing “whoa” gang vocal for swagger. Mix is bold and polished, built to sync under voiceover in a 10–15 second spot., electric, clean, deep",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Rugged masculine rock for an outdoor commercial, 10–15 seconds, gritty electric guitar riff, deep punchy drums, confident and adventurous energy, cinematic road-trip vibe, dusty desert highway feeling, powerful but clean production, modern rock sound, bold and free like a Jeep driving through mountains.\n",
+    "type": "gen",
+    "duration": 111.72,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-15T15:07:21.115Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "d2664df2-3656-4a15-a5d5-bbe37b5b04f2",
+    "updated_at": "2026-03-15T15:09:47.302Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rock, cinematic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

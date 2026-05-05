@@ -1,0 +1,254 @@
+Metadata for: My_Workspace-Next_World-eef0e41c-6628-4da5-9caa-1a07437a98cd.mp3
+Generated: 2026-05-05T18:33:32.176Z
+
+--- Track Information ---
+Title: Next World
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: hyperpop, high energy, electronic, world
+
+--- Lyrics ---
+[Intro]
+[whispered vocals]
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+They're comin' (Oh)
+
+[Chorus]
+A whole new world
+A whole new world
+A whole new world
+A whole new world
+
+[Verse]
+Kids these days
+They got it made
+Grew up in a world we were too afraid
+To create
+Ain't it great
+They're not us
+Not the same
+Who are we to say they're the ones to blame
+We're afraid of change
+They're not us
+But who are we to say they're the ones to blame
+
+[Pre-Chorus]
+All they do is
+They don't understand
+They just wanna
+They're too sensitive
+When I was your age
+If you want something done
+They don't know how
+All they do is
+They just wanna
+They're too sensitive
+When I was your age
+If you want something done
+They don't know how
+
+[Chorus]
+A whole new world
+A whole new world
+A whole new world
+A whole new world
+
+[Post-Chorus]
+All they do is
+They don't understand
+They just wanna
+They're too sensitive
+When I was your age
+If you want something done
+They don't know how
+All they do is
+They just wanna
+They're too sensitive
+When I was your age
+If you want something done
+They don't know how
+
+Cover Art URL: https://cdn2.suno.ai/image_eef0e41c-6628-4da5-9caa-1a07437a98cd.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Next World",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "eef0e41c-6628-4da5-9caa-1a07437a98cd",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/eef0e41c-6628-4da5-9caa-1a07437a98cd.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/eef0e41c-6628-4da5-9caa-1a07437a98cd.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/eef0e41c-6628-4da5-9caa-1a07437a98cd.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_eef0e41c-6628-4da5-9caa-1a07437a98cd.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_eef0e41c-6628-4da5-9caa-1a07437a98cd.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "hyperpop, high energy, electronic, world",
+    "prompt": "[Intro]\n[whispered vocals]\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\nThey're comin' (Oh)\n\n[Chorus]\nA whole new world\nA whole new world\nA whole new world\nA whole new world\n\n[Verse]\nKids these days\nThey got it made\nGrew up in a world we were too afraid\nTo create\nAin't it great\nThey're not us\nNot the same\nWho are we to say they're the ones to blame\nWe're afraid of change\nThey're not us\nBut who are we to say they're the ones to blame\n\n[Pre-Chorus]\nAll they do is\nThey don't understand\nThey just wanna\nThey're too sensitive\nWhen I was your age\nIf you want something done\nThey don't know how\nAll they do is\nThey just wanna\nThey're too sensitive\nWhen I was your age\nIf you want something done\nThey don't know how\n\n[Chorus]\nA whole new world\nA whole new world\nA whole new world\nA whole new world\n\n[Post-Chorus]\nAll they do is\nThey don't understand\nThey just wanna\nThey're too sensitive\nWhen I was your age\nIf you want something done\nThey don't know how\nAll they do is\nThey just wanna\nThey're too sensitive\nWhen I was your age\nIf you want something done\nThey don't know how",
+    "gpt_description_prompt": "hyperpop song about gen alpha being born into a totally new world but not cheesey lyrics",
+    "type": "gen",
+    "duration": 154.08,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-09T20:53:34.654Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "eef0e41c-6628-4da5-9caa-1a07437a98cd",
+    "updated_at": "2026-02-24T14:33:31.813Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

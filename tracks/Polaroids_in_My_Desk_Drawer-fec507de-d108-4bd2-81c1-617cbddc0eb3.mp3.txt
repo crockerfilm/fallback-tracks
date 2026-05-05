@@ -1,0 +1,234 @@
+Metadata for: My_Workspace-Polaroids_in_My_Desk_Drawer-fec507de-d108-4bd2-81c1-617cbddc0eb3.mp3
+Generated: 2026-05-05T16:41:44.461Z
+
+--- Track Information ---
+Title: Polaroids in My Desk Drawer
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Dreamy lo-fi indie pop with intimate breathy female vocals close to the mic, soft acoustic fingerpicking and warm rounded bass; subtle ambient pads shimmer at the edges of the stereo field. Minimal brushed percussion eases in by the first chorus, staying gentle. Verses stay close and confessional; choruses bloom slightly with doubled vocals and hushed harmonies. Airy reverb and light tape-style saturation create a nostalgic, calm, mid-tempo sway, perfect for a late-night bedroom recording feel., warm, indie pop, acoustic, nostalgic, ambient, minimal, female vocals, pop, breathy, lo-fi, soft, emotional, gentle
+
+--- Lyrics ---
+[Verse 1]
+Found your wristband in my backpack
+Folded note behind a receipt
+Coffee stain on every memory
+Guess some things never leave
+
+[Chorus]
+You’re a polaroid in my desk drawer
+Colors fading at the edges
+But I still see us on that old floor
+Talking like we had forever
+I don’t reach for you like before
+Still I keep you in that corner
+Like a song I don’t play anymore
+But hum when I’m alone
+
+[Verse 2]
+Your old sweatshirt on the chair back
+Threadbare cuff I never mend
+I tell myself that I should clear it
+Then I sit back down again
+
+[Chorus]
+You’re a polaroid in my desk drawer
+Colors fading at the edges
+But I still see us on that old floor
+Talking like we had forever
+I don’t reach for you like before
+Still I keep you in that corner
+Like a song I don’t play anymore
+But hum when I’m alone
+
+Cover Art URL: https://cdn2.suno.ai/image_fec507de-d108-4bd2-81c1-617cbddc0eb3.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Polaroids in My Desk Drawer",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "fec507de-d108-4bd2-81c1-617cbddc0eb3",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/fec507de-d108-4bd2-81c1-617cbddc0eb3.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/fec507de-d108-4bd2-81c1-617cbddc0eb3.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/fec507de-d108-4bd2-81c1-617cbddc0eb3.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_fec507de-d108-4bd2-81c1-617cbddc0eb3.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_fec507de-d108-4bd2-81c1-617cbddc0eb3.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Dreamy lo-fi indie pop with intimate breathy female vocals close to the mic, soft acoustic fingerpicking and warm rounded bass; subtle ambient pads shimmer at the edges of the stereo field. Minimal brushed percussion eases in by the first chorus, staying gentle. Verses stay close and confessional; choruses bloom slightly with doubled vocals and hushed harmonies. Airy reverb and light tape-style saturation create a nostalgic, calm, mid-tempo sway, perfect for a late-night bedroom recording feel., warm, indie pop, acoustic, nostalgic, ambient, minimal, female vocals, pop, breathy, lo-fi, soft, emotional, gentle",
+    "prompt": "[Verse 1]\nFound your wristband in my backpack\nFolded note behind a receipt\nCoffee stain on every memory\nGuess some things never leave\n\n[Chorus]\nYou’re a polaroid in my desk drawer\nColors fading at the edges\nBut I still see us on that old floor\nTalking like we had forever\nI don’t reach for you like before\nStill I keep you in that corner\nLike a song I don’t play anymore\nBut hum when I’m alone\n\n[Verse 2]\nYour old sweatshirt on the chair back\nThreadbare cuff I never mend\nI tell myself that I should clear it\nThen I sit back down again\n\n[Chorus]\nYou’re a polaroid in my desk drawer\nColors fading at the edges\nBut I still see us on that old floor\nTalking like we had forever\nI don’t reach for you like before\nStill I keep you in that corner\nLike a song I don’t play anymore\nBut hum when I’m alone",
+    "gpt_description_prompt": "mid energy indie pop, dreamy lo-fi bedroom pop, intimate breathy female vocals close to the mic, gentle acoustic guitar fingerpicking, warm bass, subtle ambient pads, minimal percussion, emotional and reflective mood, soft reverb, airy and spacious mix, mid tempo, nostalgic and calm vibe",
+    "type": "gen",
+    "duration": 151.32,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-02T21:40:35.748Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "fec507de-d108-4bd2-81c1-617cbddc0eb3",
+    "updated_at": "2026-04-09T18:25:47.332Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie pop, lo-fi, folk",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Moonlit_Unwind-5d036284-f9b9-433f-8828-e72a2e31a16e.mp3
+Generated: 2026-05-05T18:29:09.482Z
+
+--- Track Information ---
+Title: Moonlit Unwind
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Soft ambient-pop / lo-fi blend at ~80 BPM, airy synth pads and warm side-chained swells creating a slow breathing feel. Light bell and pluck motifs drift in and out, treated with gentle delay. Muted taps and brushed claps form a soft, syncopated groove, layered with subtle vinyl-style textures and distant vocal chops as ear candy. Minimal harmonic movement, evolving filters and reverb tails keep it engaging while preserving a cozy, dim-bedroom calm. Clean, modern mix with wide stereo space and a mellow, quietly energizing lift toward the mid-section., pop, light, smooth, rhythmic, ambient, soothing, warm, strong, clean, soft, lo-fi, gentle
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_5d036284-f9b9-433f-8828-e72a2e31a16e.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Moonlit Unwind",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5d036284-f9b9-433f-8828-e72a2e31a16e",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5d036284-f9b9-433f-8828-e72a2e31a16e.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5d036284-f9b9-433f-8828-e72a2e31a16e.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5d036284-f9b9-433f-8828-e72a2e31a16e.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5d036284-f9b9-433f-8828-e72a2e31a16e.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5d036284-f9b9-433f-8828-e72a2e31a16e.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "funk, Soft ambient-pop / lo-fi blend at ~80 BPM, airy synth pads and warm side-chained swells creating a slow breathing feel. Light bell and pluck motifs drift in and out, treated with gentle delay. Muted taps and brushed claps form a soft, syncopated groove, layered with subtle vinyl-style textures and distant vocal chops as ear candy. Minimal harmonic movement, evolving filters and reverb tails keep it engaging while preserving a cozy, dim-bedroom calm. Clean, modern mix with wide stereo space and a mellow, quietly energizing lift toward the mid-section., pop, light, smooth, rhythmic, ambient, soothing, warm, strong, clean, soft, lo-fi, gentle",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "A calm but lightly upbeat background track for a nighttime GRWM for bed. Soft ambient-pop / lo-fi blend with a subtle groove at ~75–85 BPM. Warm synth pads, light plucky tones, gentle side-chained pulse, and soft rhythmic taps or muted claps. Clean, modern aesthetic. No heavy drums, no strong lead melody. Feels like a dimly lit bedroom at night — peaceful, cozy, but quietly energizing so it keeps the viewer engaged. Smooth, airy, soothing yet awake.",
+    "type": "gen",
+    "duration": 132,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-14T19:36:43.801Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5d036284-f9b9-433f-8828-e72a2e31a16e",
+    "updated_at": "2026-01-16T03:34:36.823Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funk, pop, ambient",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

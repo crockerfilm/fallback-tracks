@@ -1,0 +1,227 @@
+Metadata for: My_Workspace-Falling_Back_Again-d08ded69-0919-49e7-abf7-fe8454ad1d3d.mp3
+Generated: 2026-05-05T19:21:53.794Z
+
+--- Track Information ---
+Title: Falling Back Again
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: tight rhythmic flow, raw, young male vocalist, bounce, tone, deep 808s, urgent but vulnerable delivery, energetic but introspective, raw confessional tone, emotional, fast triplet hi-hats, slight louisiana cadence, rap, vocal, rhythmic, occasional ad-libs, deep, southern bounce influence, raspy melodic rap-singing, expressive pitch slides, melodic emotional trap, atmospheric pads
+
+--- Lyrics ---
+[Verse]
+Dark nights, heavy lungs, I’m breathin’ wrong
+Demons in the backseat, tellin’ me to come along
+Two steps forward, three steps drownin’ in the wrong
+Eyes red, mirror shows a stranger wearin’ my skin
+Heart cold, burnin’ bridges, never learned to swim
+Guilt heavy as my chain, pullin’ me again
+
+[Chorus]
+I’m fallin’, I’m fallin’, I’m fallin’ back again
+Prayin’ to the sky, but the ceiling won’t bend
+Tryna stay afloat, but these waves don’t end
+I’m fallin’, I’m fallin’, I’m fallin’ back again
+
+[Verse 2]
+Sticky fingers, old habits grippin’ on my brain
+Caught between the fire and the flood, drownin’ in the pain
+Phone buzzin’, calls I shouldn’t answer, but I let it ring
+Lost time, lost sleep, dreams feel counterfeit
+Fast money slows me down, I’m chasin’ what don’t fit
+Mask on, but my reflection still split
+
+[Prechorus]
+Look—every step I take, I feel the ground crack
+Every move I make, the shadows crawl back
+
+[Chorus]
+I’m fallin’, I’m fallin’, I’m fallin’ back again
+Prayin’ to the sky, but the ceiling won’t bend
+Tryna stay afloat, but these waves don’t end
+I’m fallin’, I’m fallin’, I’m fallin’ back again
+
+[Bridge]
+Torn pages in my story, ink smudged with regret
+Clock tickin’ louder, still ain’t found peace yet
+Voices in my head harmonize with my sweat
+Every day’s a gamble, chips stackin’ my debt
+
+Cover Art URL: https://cdn2.suno.ai/image_d08ded69-0919-49e7-abf7-fe8454ad1d3d.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Falling Back Again",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d08ded69-0919-49e7-abf7-fe8454ad1d3d",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d08ded69-0919-49e7-abf7-fe8454ad1d3d.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d08ded69-0919-49e7-abf7-fe8454ad1d3d.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d08ded69-0919-49e7-abf7-fe8454ad1d3d.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d08ded69-0919-49e7-abf7-fe8454ad1d3d.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d08ded69-0919-49e7-abf7-fe8454ad1d3d.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "tight rhythmic flow, raw, young male vocalist, bounce, tone, deep 808s, urgent but vulnerable delivery, energetic but introspective, raw confessional tone, emotional, fast triplet hi-hats, slight louisiana cadence, rap, vocal, rhythmic, occasional ad-libs, deep, southern bounce influence, raspy melodic rap-singing, expressive pitch slides, melodic emotional trap, atmospheric pads",
+    "prompt": "[Verse]\nDark nights, heavy lungs, I’m breathin’ wrong\nDemons in the backseat, tellin’ me to come along\nTwo steps forward, three steps drownin’ in the wrong\nEyes red, mirror shows a stranger wearin’ my skin\nHeart cold, burnin’ bridges, never learned to swim\nGuilt heavy as my chain, pullin’ me again\n\n[Chorus]\nI’m fallin’, I’m fallin’, I’m fallin’ back again\nPrayin’ to the sky, but the ceiling won’t bend\nTryna stay afloat, but these waves don’t end\nI’m fallin’, I’m fallin’, I’m fallin’ back again\n\n[Verse 2]\nSticky fingers, old habits grippin’ on my brain\nCaught between the fire and the flood, drownin’ in the pain\nPhone buzzin’, calls I shouldn’t answer, but I let it ring\nLost time, lost sleep, dreams feel counterfeit\nFast money slows me down, I’m chasin’ what don’t fit\nMask on, but my reflection still split\n\n[Prechorus]\nLook—every step I take, I feel the ground crack\nEvery move I make, the shadows crawl back\n\n[Chorus]\nI’m fallin’, I’m fallin’, I’m fallin’ back again\nPrayin’ to the sky, but the ceiling won’t bend\nTryna stay afloat, but these waves don’t end\nI’m fallin’, I’m fallin’, I’m fallin’ back again\n\n[Bridge]\nTorn pages in my story, ink smudged with regret\nClock tickin’ louder, still ain’t found peace yet\nVoices in my head harmonize with my sweat\nEvery day’s a gamble, chips stackin’ my debt",
+    "gpt_description_prompt": "Style/Mood:\nMelodic emotional trap, raw confessional tone, Southern bounce influence, fast triplet hi-hats, atmospheric pads, deep 808s, urgent but vulnerable delivery. Emotional tension between trying to stay focused and fighting old habits.\nVocal Style:\nYoung male vocalist, raspy melodic rap-singing, tight rhythmic flow, energetic but introspective, expressive pitch slides, occasional ad-libs (“yeah”, “uh”, “look”). Slight Louisiana cadence without imitating a specific artist.",
+    "type": "gen",
+    "duration": 96.56,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:13:40.087Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "d08ded69-0919-49e7-abf7-fe8454ad1d3d",
+    "updated_at": "2025-11-26T19:14:48.127Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rap, trap, southern hip hop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

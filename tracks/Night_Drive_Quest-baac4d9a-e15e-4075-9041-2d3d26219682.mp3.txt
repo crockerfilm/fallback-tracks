@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Night_Drive_Quest-baac4d9a-e15e-4075-9041-2d3d26219682.mp3
+Generated: 2026-05-05T18:37:56.809Z
+
+--- Track Information ---
+Title: Night Drive Quest
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Airy chill-house groove blended with hypnotic techno pulse; soft sidechained pads, rubbery bass, and crisp hi-hats. Male vocals in an almost spoken, intimate tone on the verses; chorus opens into wide reverb, octave-doubled top line, and airy “oh” stacks. Slow-burn build with filter sweeps, a short percussive break, and a dreamy synth lead in the bridge., techno
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_baac4d9a-e15e-4075-9041-2d3d26219682.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Night Drive Quest",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "baac4d9a-e15e-4075-9041-2d3d26219682",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/baac4d9a-e15e-4075-9041-2d3d26219682.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/baac4d9a-e15e-4075-9041-2d3d26219682.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/baac4d9a-e15e-4075-9041-2d3d26219682.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_baac4d9a-e15e-4075-9041-2d3d26219682.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_baac4d9a-e15e-4075-9041-2d3d26219682.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Airy chill-house groove blended with hypnotic techno pulse; soft sidechained pads, rubbery bass, and crisp hi-hats. Male vocals in an almost spoken, intimate tone on the verses; chorus opens into wide reverb, octave-doubled top line, and airy “oh” stacks. Slow-burn build with filter sweeps, a short percussive break, and a dreamy synth lead in the bridge., techno",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "chill house techno adventure",
+    "type": "gen",
+    "duration": 209.88,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-07T20:18:10.817Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "baac4d9a-e15e-4075-9041-2d3d26219682",
+    "updated_at": "2026-01-12T19:09:36.287Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "chill-house, techno",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

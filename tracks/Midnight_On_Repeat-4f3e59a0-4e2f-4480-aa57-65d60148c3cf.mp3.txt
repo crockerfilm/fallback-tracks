@@ -1,0 +1,265 @@
+Metadata for: My_Workspace-Midnight_On_Repeat-4f3e59a0-4e2f-4480-aa57-65d60148c3cf.mp3
+Generated: 2026-05-05T16:36:20.229Z
+
+--- Track Information ---
+Title: Midnight On Repeat
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Minimal trap-pop groove with tight modern drums, soft sub-bass, and airy plucks. Male vocals laid close and dry in the verses, then lush doubles and wide harmonies in the hook. Subtle reverse FX and ear-candy fills between phrases; arrangement builds from sparse to full by the final chorus.
+
+--- Lyrics ---
+[Verse 1]
+It’s late
+Phone face down
+Blue glow bleeding
+Through your blackout blinds
+
+You say
+“This year’s mine”
+But you’re scrolling
+Like it’s still rewind
+
+[Chorus]
+Midnight on repeat
+Same four walls
+Same old feed
+You keep saying “watch me leave”
+But you stay
+But you stay
+Midnight on repeat
+Heart half-charged
+Half-asleep
+You keep saving every dream
+For “one day
+One day”
+
+[Verse 2]
+Cold cup
+On your desk
+Plans written
+In the margins of a test
+
+You laugh
+At your own fear
+Talk tough
+Till the mirror clears
+
+[Chorus]
+Midnight on repeat
+Same four walls
+Same old feed
+You keep saying “watch me leave”
+But you stay
+But you stay
+Midnight on repeat
+Heart half-charged
+Half-asleep
+You keep saving every dream
+For “one day
+One day”
+
+[Bridge]
+What if “one day” is right now
+What if you stand up somehow (hey)
+Open that door just an inch
+Feel that heavy habit lift
+
+[Chorus]
+Midnight on repeat
+Same four walls
+Same old feed
+You keep saying “watch me leave”
+But you stay
+But you stay
+Midnight on repeat
+Heart half-charged
+Half-asleep
+You keep saving every dream
+For “one day
+One day”
+
+Cover Art URL: https://cdn2.suno.ai/image_4f3e59a0-4e2f-4480-aa57-65d60148c3cf.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Midnight On Repeat",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "4f3e59a0-4e2f-4480-aa57-65d60148c3cf",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/4f3e59a0-4e2f-4480-aa57-65d60148c3cf.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/4f3e59a0-4e2f-4480-aa57-65d60148c3cf.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/4f3e59a0-4e2f-4480-aa57-65d60148c3cf.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_4f3e59a0-4e2f-4480-aa57-65d60148c3cf.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_4f3e59a0-4e2f-4480-aa57-65d60148c3cf.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Minimal trap-pop groove with tight modern drums, soft sub-bass, and airy plucks. Male vocals laid close and dry in the verses, then lush doubles and wide harmonies in the hook. Subtle reverse FX and ear-candy fills between phrases; arrangement builds from sparse to full by the final chorus.",
+    "prompt": "[Verse 1]\nIt’s late\nPhone face down\nBlue glow bleeding\nThrough your blackout blinds\n\nYou say\n“This year’s mine”\nBut you’re scrolling\nLike it’s still rewind\n\n[Chorus]\nMidnight on repeat\nSame four walls\nSame old feed\nYou keep saying “watch me leave”\nBut you stay\nBut you stay\nMidnight on repeat\nHeart half-charged\nHalf-asleep\nYou keep saving every dream\nFor “one day\nOne day”\n\n[Verse 2]\nCold cup\nOn your desk\nPlans written\nIn the margins of a test\n\nYou laugh\nAt your own fear\nTalk tough\nTill the mirror clears\n\n[Chorus]\nMidnight on repeat\nSame four walls\nSame old feed\nYou keep saying “watch me leave”\nBut you stay\nBut you stay\nMidnight on repeat\nHeart half-charged\nHalf-asleep\nYou keep saving every dream\nFor “one day\nOne day”\n\n[Bridge]\nWhat if “one day” is right now\nWhat if you stand up somehow (hey)\nOpen that door just an inch\nFeel that heavy habit lift\n\n[Chorus]\nMidnight on repeat\nSame four walls\nSame old feed\nYou keep saying “watch me leave”\nBut you stay\nBut you stay\nMidnight on repeat\nHeart half-charged\nHalf-asleep\nYou keep saving every dream\nFor “one day\nOne day”",
+    "gpt_description_prompt": "modern beat, ",
+    "type": "gen",
+    "duration": 152.44,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-07T15:27:25.617Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "trap-pop, modern hip hop, electronic pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

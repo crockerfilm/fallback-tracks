@@ -1,0 +1,219 @@
+Metadata for: My_Workspace-Get_Up_Getup-e6e35756-1a03-4fc2-b8cb-d092ef54400e.mp3
+Generated: 2026-05-05T19:42:44.275Z
+
+--- Track Information ---
+Title: Get Up Getup
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: fuzzy punk guitar stabs. emotional pads contrast with raw energy. air horn accents, and a repeating chant create a 1am rave anthem., electronic, punk, breakbeat, distorted saw-bass drops, euphoric warehouse energy, electronic-punk, female vocals. house kick with heavy sidechain pumping, emotional, driving high hats, breakbeat fills
+
+--- Lyrics ---
+[Verse]
+Neon lights scream in the haze
+Shadows twist in the bassline's blaze
+Lost my voice in the smoke-filled maze
+
+[Prechorus]
+Feel it rising feel it shake
+Every pulse a tidal wave
+This is now there's no escape
+
+[Chorus]
+Get up getup air horn air horn
+Get up getup air horn air horn
+Hearts collide till the break of dawn
+
+[Verse 2]
+Sweat drips sparks ignite
+Electric veins burning through the night
+Fuzzy riffs cut sharp and tight
+
+[Prechorus]
+Feel it rising feel it break
+Every beat a heart to take
+This is chaos we create
+
+[Chorus]
+Get up getup air horn air horn
+Get up getup air horn air horn
+Lose control till the night is gone
+
+Cover Art URL: https://cdn2.suno.ai/image_e6e35756-1a03-4fc2-b8cb-d092ef54400e.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Get Up Getup",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "e6e35756-1a03-4fc2-b8cb-d092ef54400e",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/e6e35756-1a03-4fc2-b8cb-d092ef54400e.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/e6e35756-1a03-4fc2-b8cb-d092ef54400e.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/e6e35756-1a03-4fc2-b8cb-d092ef54400e.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_e6e35756-1a03-4fc2-b8cb-d092ef54400e.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_e6e35756-1a03-4fc2-b8cb-d092ef54400e.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "fuzzy punk guitar stabs. emotional pads contrast with raw energy. air horn accents, and a repeating chant create a 1am rave anthem., electronic, punk, breakbeat, distorted saw-bass drops, euphoric warehouse energy, electronic-punk, female vocals. house kick with heavy sidechain pumping, emotional, driving high hats, breakbeat fills",
+    "prompt": "[Verse]\nNeon lights scream in the haze\nShadows twist in the bassline's blaze\nLost my voice in the smoke-filled maze\n\n[Prechorus]\nFeel it rising feel it shake\nEvery pulse a tidal wave\nThis is now there's no escape\n\n[Chorus]\nGet up getup air horn air horn\nGet up getup air horn air horn\nHearts collide till the break of dawn\n\n[Verse 2]\nSweat drips sparks ignite\nElectric veins burning through the night\nFuzzy riffs cut sharp and tight\n\n[Prechorus]\nFeel it rising feel it break\nEvery beat a heart to take\nThis is chaos we create\n\n[Chorus]\nGet up getup air horn air horn\nGet up getup air horn air horn\nLose control till the night is gone",
+    "gpt_description_prompt": "Energetic electronic-punk track blending Fre d again.. and air horn. high hats Amyl & The S niffers. 138 BPM, A minor. Emotional pads, house kick, breakbeat fills, distorted saw-bass drop, and fuzzy punk guitar stabs. heavy sidechain pumping. Euphoric 1AM warehouse vibe. air horn. high hats. repeating get up getup air horn air horn air horn, female",
+    "type": "gen",
+    "duration": 178.68,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-18T20:23:15.601Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "e6e35756-1a03-4fc2-b8cb-d092ef54400e",
+    "updated_at": "2025-11-18T21:58:10.645Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electronic, punk, breakbeat",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

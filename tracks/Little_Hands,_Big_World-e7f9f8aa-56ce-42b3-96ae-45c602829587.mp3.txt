@@ -1,0 +1,222 @@
+Metadata for: My_Workspace-Little_Hands,_Big_World-e7f9f8aa-56ce-42b3-96ae-45c602829587.mp3
+Generated: 2026-05-05T16:48:08.895Z
+
+--- Track Information ---
+Title: Little Hands, Big World
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Soft, intimate indie-folk bed with fingerpicked acoustic, gentle piano accents, warm pads, subtle strings; breathy female oohs/ahhs and a few tender phrases. Starts close and hushed, swells into a gentle, hopeful lift on the family hook, then resolves to a light, airy cadence. Clean, modern mix with a soothing, comforting glow., bright, dramatic, gentle, warm, uplifting, heartfelt, pop, lyrical, clean, light, acoustic, female vocals, minimal, emotional, soft
+
+--- Lyrics ---
+[Intro]
+(ooh, ooh)
+(ahh)
+
+[Verse 1]
+Tiny feet on the kitchen floor
+Morning light on your smiling face
+Every laugh that we’re holding close
+This is our little favorite place
+
+[Chorus]
+You are my home
+Right here in my arms
+Every new day
+Growing in my heart
+(ooh-ooh)
+You are my home
+Safe in my arms
+(ahh)
+
+Cover Art URL: https://cdn2.suno.ai/image_e7f9f8aa-56ce-42b3-96ae-45c602829587.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Little Hands, Big World",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "e7f9f8aa-56ce-42b3-96ae-45c602829587",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/e7f9f8aa-56ce-42b3-96ae-45c602829587.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/e7f9f8aa-56ce-42b3-96ae-45c602829587.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/e7f9f8aa-56ce-42b3-96ae-45c602829587.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_e7f9f8aa-56ce-42b3-96ae-45c602829587.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_e7f9f8aa-56ce-42b3-96ae-45c602829587.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Soft, intimate indie-folk bed with fingerpicked acoustic, gentle piano accents, warm pads, subtle strings; breathy female oohs/ahhs and a few tender phrases. Starts close and hushed, swells into a gentle, hopeful lift on the family hook, then resolves to a light, airy cadence. Clean, modern mix with a soothing, comforting glow., bright, dramatic, gentle, warm, uplifting, heartfelt, pop, lyrical, clean, light, acoustic, female vocals, minimal, emotional, soft",
+    "prompt": "[Intro]\n(ooh, ooh)\n(ahh)\n\n[Verse 1]\nTiny feet on the kitchen floor\nMorning light on your smiling face\nEvery laugh that we’re holding close\nThis is our little favorite place\n\n[Chorus]\nYou are my home\nRight here in my arms\nEvery new day\nGrowing in my heart\n(ooh-ooh)\nYou are my home\nSafe in my arms\n(ahh)",
+    "gpt_description_prompt": "Soft, emotional indie-folk pop track for a baby/family ad (15–20 seconds). Gentle acoustic guitar, light piano, warm pads, and subtle strings. Add soft, airy female vocals (oohs/ahhs or minimal lyrical phrases). Starts intimate and builds into a warm, uplifting emotional lift, then resolves gently. Hopeful, tender, and sincere. Clean, modern production. Not dramatic, not heavy — comforting, bright, and heartfelt.",
+    "type": "gen",
+    "duration": 72.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-27T19:27:55.245Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "e7f9f8aa-56ce-42b3-96ae-45c602829587",
+    "updated_at": "2026-04-01T20:37:10.433Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie folk, folk-pop, acoustic singer-songwriter",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+Metadata for: My_Workspace-Push_Pop-cce122df-88d6-4503-a102-e8fa48c86f77.mp3
+Generated: 2026-05-05T19:18:02.039Z
+
+--- Track Information ---
+Title: Push Pop
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: “Minimal, bouncy trap. Fast, playful, confident female flow. Sparse drums, sharp rhythm, hypnotic 808 bounce. 150bpm.”
+
+--- Lyrics ---
+[Chorus]
+Look at my drip, don't drown (Okay)
+Doo-doo, push pop
+Chick want smoke, get down (Get down)
+Doo-doo, push pop
+Dude in the back, lookin' brown (Yeah)
+Doo-doo, push pop
+Now go crazy, go crazy
+Go crazy, go crazy
+Look at my drip, don't drown (Okay)
+Doo-doo, push pop
+Chick want smoke, get down (Get down)
+Doo-doo, push pop
+Dude in the back, lookin' brown (Yeah)
+Doo-doo, push pop
+Now go crazy, go crazy
+Go crazy, go crazy
+Doo-doo, push pop
+Doo-doo, push pop
+Doo-doo, push pop
+Doo-doo, push pop
+
+[Verse]
+They talkin' on me like, "She next"
+Only time they give me T-R-E-S
+Only time they tryin' to test, I'm a B-S-T
+And I mean beast, not b****, s***
+How many times I gotta flex on 'em?
+They mad I'm havin' fun and havin' sex on 'em
+If she ain't poppin' like this, then you gotta let go
+She a bird in the bed, that's a double XO, ooh
+Don't be pressin' my dude, he'll never leave me
+I don't need a crystal ball to see the future, sweetie
+Got that waist snatched, whoop, with the T-to-the-E-E
+Now the bra gettin' broke like a two-two to a three-three, mm
+It's the A to the G (A to the G)
+And the B to the R (B to the R)
+To the I to the I (To the I-I)
+I be smokin' the G, mm
+I'm lookin' too clean (Lookin' too clean)
+I'm lookin' too far (Lookin' too far)
+Baby, don't even try (Mm, mm)
+'Cause it's way out of your reach, okay
+
+[Chorus]
+Look at my drip, don't drown (Okay)
+Doo-doo, push pop
+Chick want smoke, get down (
+
+Cover Art URL: https://cdn2.suno.ai/image_cce122df-88d6-4503-a102-e8fa48c86f77.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Push Pop",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "cce122df-88d6-4503-a102-e8fa48c86f77",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/cce122df-88d6-4503-a102-e8fa48c86f77.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/cce122df-88d6-4503-a102-e8fa48c86f77.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/cce122df-88d6-4503-a102-e8fa48c86f77.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_cce122df-88d6-4503-a102-e8fa48c86f77.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_cce122df-88d6-4503-a102-e8fa48c86f77.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "“Minimal, bouncy trap. Fast, playful, confident female flow. Sparse drums, sharp rhythm, hypnotic 808 bounce. 150bpm.”",
+    "prompt": "[Chorus]\nLook at my drip, don't drown (Okay)\nDoo-doo, push pop\nChick want smoke, get down (Get down)\nDoo-doo, push pop\nDude in the back, lookin' brown (Yeah)\nDoo-doo, push pop\nNow go crazy, go crazy\nGo crazy, go crazy\nLook at my drip, don't drown (Okay)\nDoo-doo, push pop\nChick want smoke, get down (Get down)\nDoo-doo, push pop\nDude in the back, lookin' brown (Yeah)\nDoo-doo, push pop\nNow go crazy, go crazy\nGo crazy, go crazy\nDoo-doo, push pop\nDoo-doo, push pop\nDoo-doo, push pop\nDoo-doo, push pop\n\n[Verse]\nThey talkin' on me like, \"She next\"\nOnly time they give me T-R-E-S\nOnly time they tryin' to test, I'm a B-S-T\nAnd I mean beast, not b****, s***\nHow many times I gotta flex on 'em?\nThey mad I'm havin' fun and havin' sex on 'em\nIf she ain't poppin' like this, then you gotta let go\nShe a bird in the bed, that's a double XO, ooh\nDon't be pressin' my dude, he'll never leave me\nI don't need a crystal ball to see the future, sweetie\nGot that waist snatched, whoop, with the T-to-the-E-E\nNow the bra gettin' broke like a two-two to a three-three, mm\nIt's the A to the G (A to the G)\nAnd the B to the R (B to the R)\nTo the I to the I (To the I-I)\nI be smokin' the G, mm\nI'm lookin' too clean (Lookin' too clean)\nI'm lookin' too far (Lookin' too far)\nBaby, don't even try (Mm, mm)\n'Cause it's way out of your reach, okay\n\n[Chorus]\nLook at my drip, don't drown (Okay)\nDoo-doo, push pop\nChick want smoke, get down (",
+    "gpt_description_prompt": "“Fast, sassy female rap with sharp rhythmic delivery over a minimal trap beat. Playful confidence and repetitive club bounce.”",
+    "type": "gen",
+    "duration": 65.56,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:51:27.148Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "cce122df-88d6-4503-a102-e8fa48c86f77",
+    "updated_at": "2026-02-06T00:51:51.622Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": true,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "trap, hip hop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+Metadata for: My_Workspace-Dutch_TextAd_MultiPet_30_Music-34b69d82-3ac5-4767-90fc-f2f330d8478a.mp3
+Generated: 2026-05-05T18:59:44.506Z
+
+--- Track Information ---
+Title: Dutch_TextAd_MultiPet_30_Music
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: A high-energy electronic dance track with a driving beat and a prominent synth melody. The song features a consistent tempo of 128 BPM and is in the key of F minor. The primary instruments are a kick drum, snare drum, hi-hats, a deep bass synth, and a lead synth playing the main melody. The kick drum provides a four-on-the-floor rhythm, while the snare hits on beats two and four. The hi-hats play a steady eighth-note pattern. The bass synth provides a pulsating, arpeggiated line that underpins the entire track. The lead synth has a bright, slightly detuned timbre, playing a repetitive, catchy melody with a strong rhythmic feel. There are no vocals in this piece. Production elements include a moderate amount of reverb on the lead synth, a sidechain compression effect on the bass synth triggered by the kick drum, and a clean, punchy mix with a wide stereo image. The song structure is primarily loop-based, with subtle variations in synth layers and filter sweeps to maintain interest. There are no distinct chord progressions, as the harmony is implied by the bass and lead synth lines.
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_34b69d82-3ac5-4767-90fc-f2f330d8478a.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Dutch_TextAd_MultiPet_30_Music",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "34b69d82-3ac5-4767-90fc-f2f330d8478a",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/34b69d82-3ac5-4767-90fc-f2f330d8478a.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/34b69d82-3ac5-4767-90fc-f2f330d8478a.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/34b69d82-3ac5-4767-90fc-f2f330d8478a.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_34b69d82-3ac5-4767-90fc-f2f330d8478a.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_34b69d82-3ac5-4767-90fc-f2f330d8478a.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "A high-energy electronic dance track with a driving beat and a prominent synth melody. The song features a consistent tempo of 128 BPM and is in the key of F minor. The primary instruments are a kick drum, snare drum, hi-hats, a deep bass synth, and a lead synth playing the main melody. The kick drum provides a four-on-the-floor rhythm, while the snare hits on beats two and four. The hi-hats play a steady eighth-note pattern. The bass synth provides a pulsating, arpeggiated line that underpins the entire track. The lead synth has a bright, slightly detuned timbre, playing a repetitive, catchy melody with a strong rhythmic feel. There are no vocals in this piece. Production elements include a moderate amount of reverb on the lead synth, a sidechain compression effect on the bass synth triggered by the kick drum, and a clean, punchy mix with a wide stereo image. The song structure is primarily loop-based, with subtle variations in synth layers and filter sweeps to maintain interest. There are no distinct chord progressions, as the harmony is implied by the bass and lead synth lines.",
+    "prompt": "[Instrumental]",
+    "type": "upload",
+    "duration": 30.096,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-09T20:00:31.251Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "34b69d82-3ac5-4767-90fc-f2f330d8478a",
+    "updated_at": "2025-12-11T15:52:38.611Z"
+  },
+  "is_following_creator": false,
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "Electronic Dance Music, Synthwave, Instrumental",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

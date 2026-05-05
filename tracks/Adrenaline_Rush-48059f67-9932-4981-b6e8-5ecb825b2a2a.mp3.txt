@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Adrenaline_Rush-48059f67-9932-4981-b6e8-5ecb825b2a2a.mp3
+Generated: 2026-05-05T18:49:32.607Z
+
+--- Track Information ---
+Title: Adrenaline Rush
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rock, high-energy, action-packed, instrumental with powerful stomp-clap rhythms, heavy percussion, distorted guitar riffs, and modern electronic pulses driving a fast tempo. bold and gritty texture designed for extreme sports visuals., techno, electronic
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_48059f67-9932-4981-b6e8-5ecb825b2a2a.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Adrenaline Rush",
+  "play_count": 8,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "48059f67-9932-4981-b6e8-5ecb825b2a2a",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/48059f67-9932-4981-b6e8-5ecb825b2a2a.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/48059f67-9932-4981-b6e8-5ecb825b2a2a.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/48059f67-9932-4981-b6e8-5ecb825b2a2a.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_48059f67-9932-4981-b6e8-5ecb825b2a2a.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_48059f67-9932-4981-b6e8-5ecb825b2a2a.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rock, high-energy, action-packed, instrumental with powerful stomp-clap rhythms, heavy percussion, distorted guitar riffs, and modern electronic pulses driving a fast tempo. bold and gritty texture designed for extreme sports visuals., techno, electronic",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "High-energy action sports instrumental. Fast tempo. Powerful stomp-and-clap rhythm, heavy percussion, and driving drums. Gritty rock elements with distorted guitar riffs. Modern electronic and techno pulses for momentum. Big, bold, adrenaline-fueled vibe like a Red Bull extreme sports ad. Instrumental only.",
+    "type": "gen",
+    "duration": 200.52,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-19T12:41:01.486Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 8,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "48059f67-9932-4981-b6e8-5ecb825b2a2a",
+    "updated_at": "2025-12-31T17:08:32.024Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rock, techno, electronic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

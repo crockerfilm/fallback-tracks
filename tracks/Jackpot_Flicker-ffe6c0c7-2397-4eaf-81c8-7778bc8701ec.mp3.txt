@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Jackpot_Flicker-ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.mp3
+Generated: 2026-05-05T16:38:39.022Z
+
+--- Track Information ---
+Title: Jackpot Flicker
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Hyper-modern EDM stinger with sleek, glassy synths and tight sound design; airy ambient pad opens in ultra-wide stereo, joined by crisp digital ticks that evolve into a focused midrange pulse. Subtle, tight low bass underpins the groove while glitchy UI clicks ping-pong around the field. At 6 seconds a bright, full-spectrum impact blooms into a single pristine held tone that gently ducks sidechain-style under the CTA VO. Male or female VO ready, ample headroom, ultra-clean mix for broadcast and app UX., tone, light, rhythmic, ambient, soft, minimal, bright, electronic, clean
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Jackpot Flicker",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "ffe6c0c7-2397-4eaf-81c8-7778bc8701ec",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_ffe6c0c7-2397-4eaf-81c8-7778bc8701ec.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Hyper-modern EDM stinger with sleek, glassy synths and tight sound design; airy ambient pad opens in ultra-wide stereo, joined by crisp digital ticks that evolve into a focused midrange pulse. Subtle, tight low bass underpins the groove while glitchy UI clicks ping-pong around the field. At 6 seconds a bright, full-spectrum impact blooms into a single pristine held tone that gently ducks sidechain-style under the CTA VO. Male or female VO ready, ample headroom, ultra-clean mix for broadcast and app UX., tone, light, rhythmic, ambient, soft, minimal, bright, electronic, clean",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "A 10-second futuristic electronic track with a neon casino aesthetic. Begins with a soft ambient pad and digital tick sounds, then builds into a rhythmic synth pulse with light bass. Add glitchy UI-style clicks and a rising effect. At 6 seconds, hit a bright, clean impact (win cue), followed by a short sustaining tone that smoothly carries into the CTA. Minimal, sleek, and modern.\n",
+    "type": "gen",
+    "duration": 19.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-06T16:55:26.501Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "ffe6c0c7-2397-4eaf-81c8-7778bc8701ec",
+    "updated_at": "2026-04-06T16:57:45.661Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "ambient, electronic, minimal, EDM (hyper-modern EDM)",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

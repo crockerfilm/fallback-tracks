@@ -1,0 +1,283 @@
+Metadata for: My_Workspace-Sneaky_On_The_Floor-340d1ae5-e895-41ec-adae-990ff74cdadd.mp3
+Generated: 2026-05-05T16:17:47.843Z
+
+--- Track Information ---
+Title: Sneaky On The Floor
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Playful electro-funk with rubbery bass, syncopated drums, and twinkling synth leads. Male vocals with a sly, smirking delivery; tight verses, instantly catchy chant chorus. Funk guitar chops accent the pocket, with short vocoder stabs and rising filters in pre-chorus. Energy starts bouncy, peaks in a hyper-groovy second chorus, then tags out with a minimalist beat-and-bass vamp., funky, electronic, groovy
+
+--- Lyrics ---
+[Verse 1]
+You slide in late
+Glitter on your face
+Pocket full of trouble
+Smile that says "too bad"
+
+You steal my hat
+Spin it on your hand
+Lean in like a secret
+Then you never finish it (hey!)
+
+[Chorus]
+You’re so sneaky on the floor
+Tiptoe
+Take a little more
+Hands up high
+Then drop too low
+We get caught
+We still go-go
+
+You’re so sneaky on the floor
+Wrong door
+Kick it open
+Explore
+Every move a little outlaw show
+We get caught
+We still go-go
+
+[Verse 2]
+You fake goodbye
+Boogie back again
+Trip the room into
+Your little labyrinth
+
+Pocket my keys
+Hide ’em in your laugh
+Guess I’ll have to stay here
+Guess I kinda like that (oh yeah)
+
+[Chorus]
+You’re so sneaky on the floor
+Tiptoe
+Take a little more
+Hands up high
+Then drop too low
+We get caught
+We still go-go
+
+You’re so sneaky on the floor
+Wrong door
+Kick it open
+Explore
+Every move a little outlaw show
+We get caught
+We still go-go
+
+[Bridge]
+Who turned all the halos off?
+Who taught you that crooked walk?
+If this is a trap
+I’m locked
+Throw away the key
+Don’t stop
+
+[Chorus]
+You’re so sneaky on the floor
+Tiptoe
+Take a little more
+Hands up high
+Then drop too low
+We get caught
+We still go-go
+
+You’re so sneaky on the floor
+Wrong door
+Kick it open
+Explore
+Every move a little outlaw show
+We get caught
+We still go-go (go-go)
+
+Cover Art URL: https://cdn2.suno.ai/image_340d1ae5-e895-41ec-adae-990ff74cdadd.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Sneaky On The Floor",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "340d1ae5-e895-41ec-adae-990ff74cdadd",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/340d1ae5-e895-41ec-adae-990ff74cdadd.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/340d1ae5-e895-41ec-adae-990ff74cdadd.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/340d1ae5-e895-41ec-adae-990ff74cdadd.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_340d1ae5-e895-41ec-adae-990ff74cdadd.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_340d1ae5-e895-41ec-adae-990ff74cdadd.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Playful electro-funk with rubbery bass, syncopated drums, and twinkling synth leads. Male vocals with a sly, smirking delivery; tight verses, instantly catchy chant chorus. Funk guitar chops accent the pocket, with short vocoder stabs and rising filters in pre-chorus. Energy starts bouncy, peaks in a hyper-groovy second chorus, then tags out with a minimalist beat-and-bass vamp., funky, electronic, groovy",
+    "prompt": "[Verse 1]\nYou slide in late\nGlitter on your face\nPocket full of trouble\nSmile that says \"too bad\"\n\nYou steal my hat\nSpin it on your hand\nLean in like a secret\nThen you never finish it (hey!)\n\n[Chorus]\nYou’re so sneaky on the floor\nTiptoe\nTake a little more\nHands up high\nThen drop too low\nWe get caught\nWe still go-go\n\nYou’re so sneaky on the floor\nWrong door\nKick it open\nExplore\nEvery move a little outlaw show\nWe get caught\nWe still go-go\n\n[Verse 2]\nYou fake goodbye\nBoogie back again\nTrip the room into\nYour little labyrinth\n\nPocket my keys\nHide ’em in your laugh\nGuess I’ll have to stay here\nGuess I kinda like that (oh yeah)\n\n[Chorus]\nYou’re so sneaky on the floor\nTiptoe\nTake a little more\nHands up high\nThen drop too low\nWe get caught\nWe still go-go\n\nYou’re so sneaky on the floor\nWrong door\nKick it open\nExplore\nEvery move a little outlaw show\nWe get caught\nWe still go-go\n\n[Bridge]\nWho turned all the halos off?\nWho taught you that crooked walk?\nIf this is a trap\nI’m locked\nThrow away the key\nDon’t stop\n\n[Chorus]\nYou’re so sneaky on the floor\nTiptoe\nTake a little more\nHands up high\nThen drop too low\nWe get caught\nWe still go-go\n\nYou’re so sneaky on the floor\nWrong door\nKick it open\nExplore\nEvery move a little outlaw show\nWe get caught\nWe still go-go (go-go)",
+    "gpt_description_prompt": "funky groovy danceable electronic mischievous",
+    "type": "gen",
+    "duration": 182.08,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-10T16:27:59.543Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "340d1ae5-e895-41ec-adae-990ff74cdadd",
+    "updated_at": "2026-04-13T20:00:48.701Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electro-funk, funky, electronic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

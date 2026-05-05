@@ -1,0 +1,297 @@
+Metadata for: My_Workspace-Lobby_Drifting-a95b531e-7f7c-4685-bf1b-767366829112.mp3
+Generated: 2026-05-05T16:36:56.653Z
+
+--- Track Information ---
+Title: Lobby Drifting
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Verse 1]
+Buttoned shirt
+Badge on a string
+Thumb on the floor light
+Watching it blink
+
+Half-sipped coffee
+Cooling in my hand
+Names on the directory
+I don't understand
+
+[Chorus]
+We’re just lobby drifting
+Up and down
+Slow shifting
+Breathing in that borrowed time
+Soft as humming in the tiles
+We’re just lobby drifting
+Tiny lives cross
+Then thinning
+You and me for seven floors
+Then the doors
+Slide wide
+
+[Verse 2]
+Scuffed gray carpet
+Mirrors on the side
+Your glance bounces
+Off mine
+Then hides
+
+Yesterday’s weather
+Folded in my sleeve
+Plans for forever
+Parked at level three
+
+[Chorus]
+We’re just lobby drifting
+Up and down
+Slow shifting
+Breathing in that borrowed time
+Soft as humming in the tiles
+We’re just lobby drifting
+Tiny lives cross
+Then thinning
+You and me for seven floors
+Then the doors
+Slide wide
+
+--- Lyrics ---
+[Verse 1]
+Buttoned shirt
+Badge on a string
+Thumb on the floor light
+Watching it blink
+
+Half-sipped coffee
+Cooling in my hand
+Names on the directory
+I don't understand
+
+[Chorus]
+We’re just lobby drifting
+Up and down
+Slow shifting
+Breathing in that borrowed time
+Soft as humming in the tiles
+We’re just lobby drifting
+Tiny lives cross
+Then thinning
+You and me for seven floors
+Then the doors
+Slide wide
+
+[Verse 2]
+Scuffed gray carpet
+Mirrors on the side
+Your glance bounces
+Off mine
+Then hides
+
+Yesterday’s weather
+Folded in my sleeve
+Plans for forever
+Parked at level three
+
+[Chorus]
+We’re just lobby drifting
+Up and down
+Slow shifting
+Breathing in that borrowed time
+Soft as humming in the tiles
+We’re just lobby drifting
+Tiny lives cross
+Then thinning
+You and me for seven floors
+Then the doors
+Slide wide
+
+Cover Art URL: https://cdn2.suno.ai/image_a95b531e-7f7c-4685-bf1b-767366829112.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Lobby Drifting",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "a95b531e-7f7c-4685-bf1b-767366829112",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/a95b531e-7f7c-4685-bf1b-767366829112.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a95b531e-7f7c-4685-bf1b-767366829112.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/a95b531e-7f7c-4685-bf1b-767366829112.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_a95b531e-7f7c-4685-bf1b-767366829112.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_a95b531e-7f7c-4685-bf1b-767366829112.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Verse 1]\nButtoned shirt\nBadge on a string\nThumb on the floor light\nWatching it blink\n\nHalf-sipped coffee\nCooling in my hand\nNames on the directory\nI don't understand\n\n[Chorus]\nWe’re just lobby drifting\nUp and down\nSlow shifting\nBreathing in that borrowed time\nSoft as humming in the tiles\nWe’re just lobby drifting\nTiny lives cross\nThen thinning\nYou and me for seven floors\nThen the doors\nSlide wide\n\n[Verse 2]\nScuffed gray carpet\nMirrors on the side\nYour glance bounces\nOff mine\nThen hides\n\nYesterday’s weather\nFolded in my sleeve\nPlans for forever\nParked at level three\n\n[Chorus]\nWe’re just lobby drifting\nUp and down\nSlow shifting\nBreathing in that borrowed time\nSoft as humming in the tiles\nWe’re just lobby drifting\nTiny lives cross\nThen thinning\nYou and me for seven floors\nThen the doors\nSlide wide",
+    "history": [
+      {
+        "infill": false,
+        "stem_from_id": "21b13ffe-129a-42a1-a263-d08119f12614",
+        "stem_task": "two",
+        "stem_type_group_name": "Two",
+        "id": "21b13ffe-129a-42a1-a263-d08119f12614",
+        "source": "web",
+        "stem_type_id": 91,
+        "type": "gen"
+      }
+    ],
+    "stem_from_id": "21b13ffe-129a-42a1-a263-d08119f12614",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "21b13ffe-129a-42a1-a263-d08119f12614",
+    "type": "gen",
+    "duration": 164.44,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-06T23:13:25.079Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

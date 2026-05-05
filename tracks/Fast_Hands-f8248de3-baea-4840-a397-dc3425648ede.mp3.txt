@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Fast_Hands-f8248de3-baea-4840-a397-dc3425648ede.mp3
+Generated: 2026-05-05T16:54:49.012Z
+
+--- Track Information ---
+Title: Fast Hands
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Glossy commercial pop bed with tight, snappy drums, rounded warm bass groove, and slick percussive synth stabs. A minimal mallet-style lead teases a subtle two-note hook, weaving in and out to leave space for voices. Occasional reverse swells and filtered risers mark section changes, while soft plucks and muted piano chords add motion. Ideal for fast-cut social clips, maintaining steady energy without crowding the midrange., pop, rhythmic, warm
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_f8248de3-baea-4840-a397-dc3425648ede.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Fast Hands",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "f8248de3-baea-4840-a397-dc3425648ede",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/f8248de3-baea-4840-a397-dc3425648ede.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/f8248de3-baea-4840-a397-dc3425648ede.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/f8248de3-baea-4840-a397-dc3425648ede.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_f8248de3-baea-4840-a397-dc3425648ede.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_f8248de3-baea-4840-a397-dc3425648ede.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "funk, Glossy commercial pop bed with tight, snappy drums, rounded warm bass groove, and slick percussive synth stabs. A minimal mallet-style lead teases a subtle two-note hook, weaving in and out to leave space for voices. Occasional reverse swells and filtered risers mark section changes, while soft plucks and muted piano chords add motion. Ideal for fast-cut social clips, maintaining steady energy without crowding the midrange., pop, rhythmic, warm",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Modern pop-commercial instrumental, snappy beat, warm bass groove, sleek rhythmic energy, subtle earworm hook, ideal for fast-cut social media ads with multiple creators talking, engaging but not distracting, no vocals",
+    "type": "gen",
+    "duration": 126.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-20T18:35:14.752Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "f8248de3-baea-4840-a397-dc3425648ede",
+    "updated_at": "2026-03-20T18:35:36.164Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funk, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

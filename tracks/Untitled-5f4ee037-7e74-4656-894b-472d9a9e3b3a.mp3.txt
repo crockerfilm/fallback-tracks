@@ -1,0 +1,199 @@
+Metadata for: My_Workspace-Untitled-5f4ee037-7e74-4656-894b-472d9a9e3b3a.mp3
+Generated: 2026-05-05T18:25:01.966Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Style Prompt
+
+Country pop ballad, soft rock, yearning, emotional piano, slide guitar, pedal steel, acoustic guitar strumming, mid-tempo, sentimental, late night vibe, female duet, melodic, 108 bpm.
+
+Block 2: Structure & Lyrics (Buford Parody)
+
+[Intro] (Melodic piano riff with slide guitar, melancholic and pretty)
+
+[Verse] Picture perfect patties scattered in my mind. Reaching for the app cause I can't fight the grind.
+
+[Chorus] It's a quarter after one. I'm starving now and I need that bun. Said I wouldn't eat. But I lost all control, it's the savory treat. And I don't know how I can do without. I just need that Combo now.
+
+--- Lyrics ---
+It's a quarter after one. I'm starving now and I need that bun. Said I wouldn't eat. But I lost all control, it's the savory treat. And I don't know how I can do without. I just need that Combo now.
+
+Cover Art URL: https://cdn2.suno.ai/image_5f4ee037-7e74-4656-894b-472d9a9e3b3a.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5f4ee037-7e74-4656-894b-472d9a9e3b3a",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5f4ee037-7e74-4656-894b-472d9a9e3b3a.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5f4ee037-7e74-4656-894b-472d9a9e3b3a.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5f4ee037-7e74-4656-894b-472d9a9e3b3a.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5f4ee037-7e74-4656-894b-472d9a9e3b3a.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5f4ee037-7e74-4656-894b-472d9a9e3b3a.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Style Prompt\n\nCountry pop ballad, soft rock, yearning, emotional piano, slide guitar, pedal steel, acoustic guitar strumming, mid-tempo, sentimental, late night vibe, female duet, melodic, 108 bpm.\n\nBlock 2: Structure & Lyrics (Buford Parody)\n\n[Intro] (Melodic piano riff with slide guitar, melancholic and pretty)\n\n[Verse] Picture perfect patties scattered in my mind. Reaching for the app cause I can't fight the grind.\n\n[Chorus] It's a quarter after one. I'm starving now and I need that bun. Said I wouldn't eat. But I lost all control, it's the savory treat. And I don't know how I can do without. I just need that Combo now.",
+    "prompt": "It's a quarter after one. I'm starving now and I need that bun. Said I wouldn't eat. But I lost all control, it's the savory treat. And I don't know how I can do without. I just need that Combo now.",
+    "type": "gen",
+    "duration": 59,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-20T15:25:03.115Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5f4ee037-7e74-4656-894b-472d9a9e3b3a",
+    "updated_at": "2026-01-22T21:07:11.559Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "country pop, soft rock",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

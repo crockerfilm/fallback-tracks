@@ -1,0 +1,199 @@
+Metadata for: My_Workspace-Endless_Groove-f60a9d25-88e2-4b87-a962-5dc390a68f76.mp3
+Generated: 2026-05-05T19:30:33.425Z
+
+--- Track Information ---
+Title: Endless Groove
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: bass-driven with syncopated guitar riffs and tight drum patterns, groovy, funky, rhythmic
+
+--- Lyrics ---
+[Instrumental Intro]
+A bassline deep it starts to slide
+Drums hit sharp a funky stride
+Guitar flicks quick like sparks collide
+
+[Groove Loop]
+Bass pops low it moves the ground
+Snare snaps tight with a crisp rebound
+Guitar riffs dance they spin around
+This groove don’t stop it’s always sound
+
+Cover Art URL: https://cdn2.suno.ai/image_f60a9d25-88e2-4b87-a962-5dc390a68f76.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Endless Groove",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "f60a9d25-88e2-4b87-a962-5dc390a68f76",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/f60a9d25-88e2-4b87-a962-5dc390a68f76.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/f60a9d25-88e2-4b87-a962-5dc390a68f76.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/f60a9d25-88e2-4b87-a962-5dc390a68f76.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_f60a9d25-88e2-4b87-a962-5dc390a68f76.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_f60a9d25-88e2-4b87-a962-5dc390a68f76.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "bass-driven with syncopated guitar riffs and tight drum patterns, groovy, funky, rhythmic",
+    "prompt": "[Instrumental Intro]\nA bassline deep it starts to slide\nDrums hit sharp a funky stride\nGuitar flicks quick like sparks collide\n\n[Groove Loop]\nBass pops low it moves the ground\nSnare snaps tight with a crisp rebound\nGuitar riffs dance they spin around\nThis groove don’t stop it’s always sound",
+    "gpt_description_prompt": "Create a 12-second loopable groovy background",
+    "type": "gen",
+    "duration": 65.28,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-21T15:03:05.879Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "f60a9d25-88e2-4b87-a962-5dc390a68f76",
+    "updated_at": "2025-11-21T22:25:45.681Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

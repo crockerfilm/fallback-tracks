@@ -1,0 +1,263 @@
+Metadata for: My_Workspace-Sleeping_In_Your_Old_T‑Shirt-a51a6562-08c0-4273-bd6e-2799e47d59b8.mp3
+Generated: 2026-05-05T16:41:24.398Z
+
+--- Track Information ---
+Title: Sleeping In Your Old T‑Shirt
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Dreamy lo-fi indie pop with intimate, breathy male vocals right on the mic, gentle acoustic fingerpicking and warm round bass. Sparse, mid-tempo groove with brushed hits and soft snaps, wrapped in airy ambient pads and a halo of reverb. Verses stay close and confessional; choruses bloom with doubled vocals and subtle background harmonies for a nostalgic, calm glow., breathy, indie pop, ambient, lo-fi, pop, nostalgic, male vocals, warm, soft, acoustic, minimal, gentle, emotional
+
+--- Lyrics ---
+[Verse 1]
+Found your heartbeat
+On a blue and white screen
+Tiny flicker
+Inside everything
+
+Washed the mugs up
+Left one on the shelf for you
+Folded laundry
+Pulled my old shirt over too
+
+[Chorus]
+I’ve been sleeping in your old T‑shirt
+Making room on my side of the bed
+Talking out loud to the quiet
+Like you already heard what I said (yeah)
+Every radiator whisper
+Feels like it’s humming your name
+I’m scared and I’m so ready
+Nothing’s gonna be the same
+
+[Verse 2]
+Tracked the weeks down
+Little dots across the fridge
+Circle Sundays
+Like a homemade pilgrimage
+
+Cleared a drawer out
+For the things you’re gonna bring
+Tiny socks that
+I can’t believe are real things
+
+[Chorus]
+I’ve been sleeping in your old T‑shirt
+Making room on my side of the bed
+Talking out loud to the quiet
+Like you already heard what I said (oh)
+Every radiator whisper
+Feels like it’s humming your name
+I’m scared and I’m so ready
+Nothing’s gonna be the same
+
+[Bridge]
+If you get my crooked nose
+Or the way I overthink
+Hope you get their easy laugh
+How they dance in the kitchen sink (mm)
+If I ever lose my words
+When you’re crying in the dark
+I’ll just hold you
+Let my shaking arms be your start
+
+[Chorus]
+I’ve been sleeping in your old T‑shirt
+Making room on my side of the bed
+Talking out loud to the quiet
+Like you already heard what I said
+Every radiator whisper
+Feels like it’s humming your name
+I’m scared and I’m so ready
+Nothing’s gonna be the same
+
+Cover Art URL: https://cdn2.suno.ai/image_a51a6562-08c0-4273-bd6e-2799e47d59b8.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Sleeping In Your Old T‑Shirt",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "a51a6562-08c0-4273-bd6e-2799e47d59b8",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/a51a6562-08c0-4273-bd6e-2799e47d59b8.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a51a6562-08c0-4273-bd6e-2799e47d59b8.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/a51a6562-08c0-4273-bd6e-2799e47d59b8.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_a51a6562-08c0-4273-bd6e-2799e47d59b8.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_a51a6562-08c0-4273-bd6e-2799e47d59b8.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Dreamy lo-fi indie pop with intimate, breathy male vocals right on the mic, gentle acoustic fingerpicking and warm round bass. Sparse, mid-tempo groove with brushed hits and soft snaps, wrapped in airy ambient pads and a halo of reverb. Verses stay close and confessional; choruses bloom with doubled vocals and subtle background harmonies for a nostalgic, calm glow., breathy, indie pop, ambient, lo-fi, pop, nostalgic, male vocals, warm, soft, acoustic, minimal, gentle, emotional",
+    "prompt": "[Verse 1]\nFound your heartbeat\nOn a blue and white screen\nTiny flicker\nInside everything\n\nWashed the mugs up\nLeft one on the shelf for you\nFolded laundry\nPulled my old shirt over too\n\n[Chorus]\nI’ve been sleeping in your old T‑shirt\nMaking room on my side of the bed\nTalking out loud to the quiet\nLike you already heard what I said (yeah)\nEvery radiator whisper\nFeels like it’s humming your name\nI’m scared and I’m so ready\nNothing’s gonna be the same\n\n[Verse 2]\nTracked the weeks down\nLittle dots across the fridge\nCircle Sundays\nLike a homemade pilgrimage\n\nCleared a drawer out\nFor the things you’re gonna bring\nTiny socks that\nI can’t believe are real things\n\n[Chorus]\nI’ve been sleeping in your old T‑shirt\nMaking room on my side of the bed\nTalking out loud to the quiet\nLike you already heard what I said (oh)\nEvery radiator whisper\nFeels like it’s humming your name\nI’m scared and I’m so ready\nNothing’s gonna be the same\n\n[Bridge]\nIf you get my crooked nose\nOr the way I overthink\nHope you get their easy laugh\nHow they dance in the kitchen sink (mm)\nIf I ever lose my words\nWhen you’re crying in the dark\nI’ll just hold you\nLet my shaking arms be your start\n\n[Chorus]\nI’ve been sleeping in your old T‑shirt\nMaking room on my side of the bed\nTalking out loud to the quiet\nLike you already heard what I said\nEvery radiator whisper\nFeels like it’s humming your name\nI’m scared and I’m so ready\nNothing’s gonna be the same",
+    "gpt_description_prompt": "mid energy indie pop, dreamy lo-fi bedroom pop, intimate breathy male vocals close to the mic short phrases talking about expectin a baby, gentle acoustic guitar fingerpicking, warm bass, subtle ambient pads, minimal percussion, emotional and reflective mood, soft reverb, airy and spacious mix, mid to fast tempo, nostalgic and calm vibe",
+    "type": "gen",
+    "duration": 229.2,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-02T21:51:09.700Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "a51a6562-08c0-4273-bd6e-2799e47d59b8",
+    "updated_at": "2026-04-21T13:12:01.266Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

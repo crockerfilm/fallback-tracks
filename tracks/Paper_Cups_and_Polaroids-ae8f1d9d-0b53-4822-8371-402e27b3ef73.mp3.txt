@@ -1,0 +1,276 @@
+Metadata for: My_Workspace-Paper_Cups_and_Polaroids-ae8f1d9d-0b53-4822-8371-402e27b3ef73.mp3
+Generated: 2026-05-05T16:43:34.791Z
+
+--- Track Information ---
+Title: Paper Cups and Polaroids
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Warm lo-fi indie ballad with intimate breathy female vocals, slightly brisk tempo; soft tape hiss and vinyl crackle under everything. Gentle palm‑muted acoustic guitar sets a rhythmic pulse, brushed snare and soft clicks for light percussion. Piano blooms in the pre-chorus and chorus with warm, detuned chords; subtle pad swells in the background. Choruses lift with doubled vocals and airy harmonies, then verses pull back to a near-whisper confessional. Overall arc drifts from wistful to quietly hopeful, ending on a lingering guitar and piano cadence., lo-fi, nostalgic, acoustic, rhythmic, emotional, breathy, light, gentle, soft
+
+--- Lyrics ---
+[Verse 1]
+Old sweater on the back of your chair
+Dust dancing in the mid-day air
+We left June in a paper cup
+Lipstick rings and the steam still up
+
+[Pre-Chorus]
+You said
+“Someday
+This will feel small”
+Fridge light hums down the hallway wall
+I still trace it like a fault line
+Shaking in the soft of my mind
+
+[Chorus]
+Paper cups and Polaroids
+Little lives inside the noise
+I replay the way we laughed for nothing (for nothing)
+Every faded photograph
+Holds a second we can’t have
+But it still feels like you’re here or something
+I get lost in the low-fi of our past
+And it hurts
+But I kinda want it to last
+
+[Verse 2]
+Train ticket in a cracked notebook
+Coffee stain on the page you took
+You wrote
+“Call when your sky turns grey”
+Then you folded up and moved away
+
+[Pre-Chorus]
+I keep finding you in quiet rooms
+Your name folded in the dark perfume
+Of all the almosts we never tried
+Floating like a song in my side
+
+[Chorus]
+Paper cups and Polaroids
+Little lives inside the noise
+I replay the way we laughed for nothing (oh, nothing)
+Every faded photograph
+Holds a second we can’t have
+But it still feels like you’re here or something
+I get lost in the low-fi of our past
+And it hurts
+But I kinda want it to last
+
+[Bridge]
+Maybe I’ll meet you in another July
+New city
+Same sky
+You’ll say
+“You look just like yourself”
+And I’ll smile
+“I kept you on my shelf”
+
+[Chorus]
+Paper cups and Polaroids
+All the ache inside the joy
+I still hear us saying “stay for one more” (one more)
+Every faded photograph
+Lets me lay my head right back
+In the echo of a life I cared for
+I get lost in the low-fi of our past
+And I think I’m finally learning
+How to let it last
+
+Cover Art URL: https://cdn2.suno.ai/image_ae8f1d9d-0b53-4822-8371-402e27b3ef73.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Paper Cups and Polaroids",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "ae8f1d9d-0b53-4822-8371-402e27b3ef73",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/ae8f1d9d-0b53-4822-8371-402e27b3ef73.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/ae8f1d9d-0b53-4822-8371-402e27b3ef73.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/ae8f1d9d-0b53-4822-8371-402e27b3ef73.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_ae8f1d9d-0b53-4822-8371-402e27b3ef73.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_ae8f1d9d-0b53-4822-8371-402e27b3ef73.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Warm lo-fi indie ballad with intimate breathy female vocals, slightly brisk tempo; soft tape hiss and vinyl crackle under everything. Gentle palm‑muted acoustic guitar sets a rhythmic pulse, brushed snare and soft clicks for light percussion. Piano blooms in the pre-chorus and chorus with warm, detuned chords; subtle pad swells in the background. Choruses lift with doubled vocals and airy harmonies, then verses pull back to a near-whisper confessional. Overall arc drifts from wistful to quietly hopeful, ending on a lingering guitar and piano cadence., lo-fi, nostalgic, acoustic, rhythmic, emotional, breathy, light, gentle, soft",
+    "prompt": "[Verse 1]\nOld sweater on the back of your chair\nDust dancing in the mid-day air\nWe left June in a paper cup\nLipstick rings and the steam still up\n\n[Pre-Chorus]\nYou said\n“Someday\nThis will feel small”\nFridge light hums down the hallway wall\nI still trace it like a fault line\nShaking in the soft of my mind\n\n[Chorus]\nPaper cups and Polaroids\nLittle lives inside the noise\nI replay the way we laughed for nothing (for nothing)\nEvery faded photograph\nHolds a second we can’t have\nBut it still feels like you’re here or something\nI get lost in the low-fi of our past\nAnd it hurts\nBut I kinda want it to last\n\n[Verse 2]\nTrain ticket in a cracked notebook\nCoffee stain on the page you took\nYou wrote\n“Call when your sky turns grey”\nThen you folded up and moved away\n\n[Pre-Chorus]\nI keep finding you in quiet rooms\nYour name folded in the dark perfume\nOf all the almosts we never tried\nFloating like a song in my side\n\n[Chorus]\nPaper cups and Polaroids\nLittle lives inside the noise\nI replay the way we laughed for nothing (oh, nothing)\nEvery faded photograph\nHolds a second we can’t have\nBut it still feels like you’re here or something\nI get lost in the low-fi of our past\nAnd it hurts\nBut I kinda want it to last\n\n[Bridge]\nMaybe I’ll meet you in another July\nNew city\nSame sky\nYou’ll say\n“You look just like yourself”\nAnd I’ll smile\n“I kept you on my shelf”\n\n[Chorus]\nPaper cups and Polaroids\nAll the ache inside the joy\nI still hear us saying “stay for one more” (one more)\nEvery faded photograph\nLets me lay my head right back\nIn the echo of a life I cared for\nI get lost in the low-fi of our past\nAnd I think I’m finally learning\nHow to let it last",
+    "gpt_description_prompt": "Slightly faster tempo, add a gentle rhythmic pulse with light percussion, keep intimate breathy vocals, acoustic guitar and piano. Maintain nostalgic, emotional, lo-fi warmth with soft tape texture. More flow and uplift, but still soft and not high energy.",
+    "type": "gen",
+    "duration": 206.6,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "playlist_id": "00000000-0000-0000-0000-000000000000",
+    "playlist_clip_ids": [
+      "26509882-f720-44aa-864d-061d27bcd896"
+    ],
+    "task": "playlist_condition",
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-01T18:10:58.445Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "ae8f1d9d-0b53-4822-8371-402e27b3ef73",
+    "updated_at": "2026-04-01T20:26:08.238Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie folk, lo-fi, acoustic ballad",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

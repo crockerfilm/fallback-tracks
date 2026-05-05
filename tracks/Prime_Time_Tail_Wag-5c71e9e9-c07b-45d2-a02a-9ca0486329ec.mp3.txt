@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Prime_Time_Tail_Wag-5c71e9e9-c07b-45d2-a02a-9ca0486329ec.mp3
+Generated: 2026-05-05T16:11:37.131Z
+
+--- Track Information ---
+Title: Prime Time Tail Wag
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Snappy, feel-good pop groove built around bright muted guitars and a bouncy bass line. Tight drums with crisp snares and playful percussion keep it moving; brief brass stabs and glock-style plucks add sparkle. Mid-song breakdown strips to claps and bass then ramps back into a big, confident hook. Polished, modern commercial mix, easy loop points for editors.
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_5c71e9e9-c07b-45d2-a02a-9ca0486329ec.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Prime Time Tail Wag",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5c71e9e9-c07b-45d2-a02a-9ca0486329ec",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5c71e9e9-c07b-45d2-a02a-9ca0486329ec.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5c71e9e9-c07b-45d2-a02a-9ca0486329ec.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5c71e9e9-c07b-45d2-a02a-9ca0486329ec.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5c71e9e9-c07b-45d2-a02a-9ca0486329ec.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5c71e9e9-c07b-45d2-a02a-9ca0486329ec.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Snappy, feel-good pop groove built around bright muted guitars and a bouncy bass line. Tight drums with crisp snares and playful percussion keep it moving; brief brass stabs and glock-style plucks add sparkle. Mid-song breakdown strips to claps and bass then ramps back into a big, confident hook. Polished, modern commercial mix, easy loop points for editors.",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "instrumental song for a dog food ad, upbeat but not childish",
+    "type": "gen",
+    "duration": 64.16,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-15T20:45:14.158Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5c71e9e9-c07b-45d2-a02a-9ca0486329ec",
+    "updated_at": "2026-04-15T20:55:05.035Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "pop, funk-pop, upbeat groove",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

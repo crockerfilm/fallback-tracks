@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Valentine_In_Slow_Motion-debe6732-1208-4d3b-94ac-6209ae9c4184.mp3
+Generated: 2026-05-05T18:27:06.658Z
+
+--- Track Information ---
+Title: Valentine In Slow Motion
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Soft jazz quartet with brushed drums, upright bass, and warm electric piano. Male vocals close to the mic, almost conversational. Sax fills answer vocal phrases. Verses stay intimate and sparse; chorus blooms with wider chords and gentle backing “oohs.” Laid-back swing pocket, late-night lounge energy with a tender, modern touch., jazzy, soft
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_debe6732-1208-4d3b-94ac-6209ae9c4184.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Valentine In Slow Motion",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "debe6732-1208-4d3b-94ac-6209ae9c4184",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/debe6732-1208-4d3b-94ac-6209ae9c4184.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/debe6732-1208-4d3b-94ac-6209ae9c4184.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/debe6732-1208-4d3b-94ac-6209ae9c4184.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_debe6732-1208-4d3b-94ac-6209ae9c4184.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_debe6732-1208-4d3b-94ac-6209ae9c4184.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "funk, Soft jazz quartet with brushed drums, upright bass, and warm electric piano. Male vocals close to the mic, almost conversational. Sax fills answer vocal phrases. Verses stay intimate and sparse; chorus blooms with wider chords and gentle backing “oohs.” Laid-back swing pocket, late-night lounge energy with a tender, modern touch., jazzy, soft",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "soft kinda groove or jazzy song for valentines day",
+    "type": "gen",
+    "duration": 191,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-16T15:23:41.852Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "debe6732-1208-4d3b-94ac-6209ae9c4184",
+    "updated_at": "2026-01-16T15:55:20.625Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "jazz, soft, lounge",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

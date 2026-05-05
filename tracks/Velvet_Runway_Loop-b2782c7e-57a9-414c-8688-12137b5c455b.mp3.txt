@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Velvet_Runway_Loop-b2782c7e-57a9-414c-8688-12137b5c455b.mp3
+Generated: 2026-05-05T18:47:18.995Z
+
+--- Track Information ---
+Title: Velvet Runway Loop
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rap, Mid-tempo pop/hip-hop crossover bed for luxury beauty content: tight, clean drums with a gentle sidechain pulse, warm round bass, glassy plucks and silky pads. Light pitched vocal chops as accents, never full phrases, arranged in a smooth A–B loop that evolves with subtle filter moves, extra percussion layers, and ear-candy FX. Refined, confident, feminine energy—perfect for transitions, GRWMs, and product close-ups, always moving forward without any heavy drops or harsh peaks., pop, light, hip-hop, edm, steady, refined, vocal, beats, warm, clean, bounce
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_b2782c7e-57a9-414c-8688-12137b5c455b.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet Runway Loop",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "b2782c7e-57a9-414c-8688-12137b5c455b",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/b2782c7e-57a9-414c-8688-12137b5c455b.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/b2782c7e-57a9-414c-8688-12137b5c455b.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/b2782c7e-57a9-414c-8688-12137b5c455b.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_b2782c7e-57a9-414c-8688-12137b5c455b.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_b2782c7e-57a9-414c-8688-12137b5c455b.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rap, Mid-tempo pop/hip-hop crossover bed for luxury beauty content: tight, clean drums with a gentle sidechain pulse, warm round bass, glassy plucks and silky pads. Light pitched vocal chops as accents, never full phrases, arranged in a smooth A–B loop that evolves with subtle filter moves, extra percussion layers, and ear-candy FX. Refined, confident, feminine energy—perfect for transitions, GRWMs, and product close-ups, always moving forward without any heavy drops or harsh peaks., pop, light, hip-hop, edm, steady, refined, vocal, beats, warm, clean, bounce",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Mid-tempo pop instrumental with subtle hip-hop and modern fashion-house energy. Clean, punchy drums with a steady groove, light bounce, and forward motion. Warm bass, crisp percussion, glossy synths, and polished textures. Confident, feminine, and high-end — luxury beauty brand TikTok vibe with energy. More upbeat than chill, but still refined and aesthetic. No big drops, no aggressive beats, no club or EDM feel. Light vocal chops only, loop-friendly for short-form content.",
+    "type": "gen",
+    "duration": 177.48,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-29T13:40:12.485Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "b2782c7e-57a9-414c-8688-12137b5c455b",
+    "updated_at": "2025-12-31T17:07:46.968Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "hip hop, pop, edm",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

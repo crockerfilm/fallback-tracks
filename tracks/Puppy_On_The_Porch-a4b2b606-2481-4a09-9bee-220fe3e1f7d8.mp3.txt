@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Puppy_On_The_Porch-a4b2b606-2481-4a09-9bee-220fe3e1f7d8.mp3
+Generated: 2026-05-05T16:25:39.447Z
+
+--- Track Information ---
+Title: Puppy On The Porch
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rock, Laid-back indie rock with breezy clean guitars, lazy rimshot drums, and warm bass; male vocals sitting close and intimate. Verses stay mellow and spacious, chorus swells with doubled vocals and simple harmonic pads. Light percussion and subtle oooh backing lines in the hook; overall calm, sun-drenched, and gently rocking midtempo groove.
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_a4b2b606-2481-4a09-9bee-220fe3e1f7d8.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Puppy On The Porch",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "a4b2b606-2481-4a09-9bee-220fe3e1f7d8",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/a4b2b606-2481-4a09-9bee-220fe3e1f7d8.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a4b2b606-2481-4a09-9bee-220fe3e1f7d8.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/a4b2b606-2481-4a09-9bee-220fe3e1f7d8.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_a4b2b606-2481-4a09-9bee-220fe3e1f7d8.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_a4b2b606-2481-4a09-9bee-220fe3e1f7d8.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "rock, Laid-back indie rock with breezy clean guitars, lazy rimshot drums, and warm bass; male vocals sitting close and intimate. Verses stay mellow and spacious, chorus swells with doubled vocals and simple harmonic pads. Light percussion and subtle oooh backing lines in the hook; overall calm, sun-drenched, and gently rocking midtempo groove.",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Puppy, animated, dog, calm, chill, drums, rock\n",
+    "type": "gen",
+    "duration": 68.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-10T05:43:30.889Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "a4b2b606-2481-4a09-9bee-220fe3e1f7d8",
+    "updated_at": "2026-04-14T00:40:17.049Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie rock, rock, mellow/sun-drenched indie pop-rock",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

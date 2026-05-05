@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Rock_Your_World,_Man-bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.mp3
+Generated: 2026-05-05T16:10:54.657Z
+
+--- Track Information ---
+Title: Rock Your World, Man
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rock, Laid-back indie rock groove with lazy drums, warm bass, and sun-faded electric guitars. Male vocals half-sung, half-spoken on the verses; choruses open with stacked gang shouts and a fuzzier rhythm guitar. Slight crunch on the mix, loose and playful, like a backyard jam that slowly turns into a singalong anthem., world
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Rock Your World, Man",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "rock, Laid-back indie rock groove with lazy drums, warm bass, and sun-faded electric guitars. Male vocals half-sung, half-spoken on the verses; choruses open with stacked gang shouts and a fuzzier rhythm guitar. Slight crunch on the mix, loose and playful, like a backyard jam that slowly turns into a singalong anthem., world",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "ROCK YOUR WORLD MAN CHILL",
+    "type": "gen",
+    "duration": 64.44,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-17T02:05:37.362Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "bedd6dc1-ebcf-4a92-8f9d-fa3c58b15dd0",
+    "updated_at": "2026-04-20T16:15:56.032Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie rock, rock, singalong anthem",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

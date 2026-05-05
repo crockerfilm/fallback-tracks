@@ -1,0 +1,339 @@
+Metadata for: My_Workspace-Little_Heart_on_the_Way-885c8d03-3661-4425-8f79-2a497d770d00.mp3
+Generated: 2026-05-05T16:41:10.190Z
+
+--- Track Information ---
+Title: Little Heart on the Way
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Verse 1]
+There’s a drawer with tiny socks
+Folded like a secret note
+Name lists on a crumpled page
+Circle one
+Then change my mind
+Talking to an empty room
+Tracing stars where paint’s still white
+Learning how to wait for you
+In the quiet of the night
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way
+
+[Verse 2]
+I get tired at 3 p.m
+Cry at every halfway song
+Google things at 2 a.m
+Then I breathe and carry on
+Show you to the ultrasound
+Tiny wave
+A grain of light
+Didn’t know that I could feel
+So much wonder
+So much fright
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way
+
+[Bridge]
+Will you like the morning rain?
+Will you dance in kitchen light? (oh)
+I will learn your every shade
+Every fear and every fight
+If I ever lose my ground
+Promise you I’ll stay and try
+You’re the reason I slow down
+You’re the reason I arrive
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way (on the way)
+Little heart
+It’s okay
+You can take your time to be
+I’m right here
+Just waiting
+Waiting
+Come find me
+
+--- Lyrics ---
+[Verse 1]
+There’s a drawer with tiny socks
+Folded like a secret note
+Name lists on a crumpled page
+Circle one
+Then change my mind
+Talking to an empty room
+Tracing stars where paint’s still white
+Learning how to wait for you
+In the quiet of the night
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way
+
+[Verse 2]
+I get tired at 3 p.m
+Cry at every halfway song
+Google things at 2 a.m
+Then I breathe and carry on
+Show you to the ultrasound
+Tiny wave
+A grain of light
+Didn’t know that I could feel
+So much wonder
+So much fright
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way
+
+[Bridge]
+Will you like the morning rain?
+Will you dance in kitchen light? (oh)
+I will learn your every shade
+Every fear and every fight
+If I ever lose my ground
+Promise you I’ll stay and try
+You’re the reason I slow down
+You’re the reason I arrive
+
+[Chorus]
+Little heart on the way
+I don’t know your face
+But I hum your name anyway
+Little hands
+Someday
+Reaching for my sleeve
+You’re already changing me
+Little heart on the way (on the way)
+Little heart
+It’s okay
+You can take your time to be
+I’m right here
+Just waiting
+Waiting
+Come find me
+
+Cover Art URL: https://cdn2.suno.ai/image_885c8d03-3661-4425-8f79-2a497d770d00.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Little Heart on the Way",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "885c8d03-3661-4425-8f79-2a497d770d00",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/885c8d03-3661-4425-8f79-2a497d770d00.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/885c8d03-3661-4425-8f79-2a497d770d00.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/885c8d03-3661-4425-8f79-2a497d770d00.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_885c8d03-3661-4425-8f79-2a497d770d00.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_885c8d03-3661-4425-8f79-2a497d770d00.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Verse 1]\nThere’s a drawer with tiny socks\nFolded like a secret note\nName lists on a crumpled page\nCircle one\nThen change my mind\nTalking to an empty room\nTracing stars where paint’s still white\nLearning how to wait for you\nIn the quiet of the night\n\n[Chorus]\nLittle heart on the way\nI don’t know your face\nBut I hum your name anyway\nLittle hands\nSomeday\nReaching for my sleeve\nYou’re already changing me\nLittle heart on the way\n\n[Verse 2]\nI get tired at 3 p.m\nCry at every halfway song\nGoogle things at 2 a.m\nThen I breathe and carry on\nShow you to the ultrasound\nTiny wave\nA grain of light\nDidn’t know that I could feel\nSo much wonder\nSo much fright\n\n[Chorus]\nLittle heart on the way\nI don’t know your face\nBut I hum your name anyway\nLittle hands\nSomeday\nReaching for my sleeve\nYou’re already changing me\nLittle heart on the way\n\n[Bridge]\nWill you like the morning rain?\nWill you dance in kitchen light? (oh)\nI will learn your every shade\nEvery fear and every fight\nIf I ever lose my ground\nPromise you I’ll stay and try\nYou’re the reason I slow down\nYou’re the reason I arrive\n\n[Chorus]\nLittle heart on the way\nI don’t know your face\nBut I hum your name anyway\nLittle hands\nSomeday\nReaching for my sleeve\nYou’re already changing me\nLittle heart on the way (on the way)\nLittle heart\nIt’s okay\nYou can take your time to be\nI’m right here\nJust waiting\nWaiting\nCome find me",
+    "history": [
+      {
+        "infill": false,
+        "stem_from_id": "9ab196d6-4a95-4817-9237-6f1441be0fe0",
+        "stem_task": "two",
+        "stem_type_group_name": "Two",
+        "id": "9ab196d6-4a95-4817-9237-6f1441be0fe0",
+        "source": "web",
+        "stem_type_id": 91,
+        "type": "gen"
+      }
+    ],
+    "stem_from_id": "9ab196d6-4a95-4817-9237-6f1441be0fe0",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "9ab196d6-4a95-4817-9237-6f1441be0fe0",
+    "type": "gen",
+    "duration": 211.4,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-02T23:49:25.054Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 2,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

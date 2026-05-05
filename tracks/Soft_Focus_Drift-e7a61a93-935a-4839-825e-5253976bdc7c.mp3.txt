@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Soft_Focus_Drift-e7a61a93-935a-4839-825e-5253976bdc7c.mp3
+Generated: 2026-05-05T18:44:51.019Z
+
+--- Track Information ---
+Title: Soft Focus Drift
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Soft, pillowy synth pads with slow-moving chords and gentle sidechain sway. Female humming sits like a distant aura—reverb-heavy, airy, almost wordless choir. Sub-bass is round and subtle; light percussive ticks and distant shakers give slow-medium pulse. Occasional filtered noise swells and mellow plucks add motion. Arrangement evolves by adding/removing layers, staying minimal, soothing, and modern—perfect under ASMR and close-up sound design., slow, gentle, soft, ambient, soothing, minimal
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_e7a61a93-935a-4839-825e-5253976bdc7c.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Soft Focus Drift",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "e7a61a93-935a-4839-825e-5253976bdc7c",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/e7a61a93-935a-4839-825e-5253976bdc7c.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/e7a61a93-935a-4839-825e-5253976bdc7c.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/e7a61a93-935a-4839-825e-5253976bdc7c.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_e7a61a93-935a-4839-825e-5253976bdc7c.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_e7a61a93-935a-4839-825e-5253976bdc7c.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Soft, pillowy synth pads with slow-moving chords and gentle sidechain sway. Female humming sits like a distant aura—reverb-heavy, airy, almost wordless choir. Sub-bass is round and subtle; light percussive ticks and distant shakers give slow-medium pulse. Occasional filtered noise swells and mellow plucks add motion. Arrangement evolves by adding/removing layers, staying minimal, soothing, and modern—perfect under ASMR and close-up sound design., slow, gentle, soft, ambient, soothing, minimal",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Ambient chill track with gentle female humming as a textural element.\nSlow-medium tempo, floaty and relaxed.\nSoft synth pads, subtle movement, minimal structure.\nSoothing, vibey, modern.\nPerfect for ASMR-style visuals and sensory sound design.",
+    "type": "gen",
+    "duration": 154.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-12-30T14:24:07.112Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "e7a61a93-935a-4839-825e-5253976bdc7c",
+    "updated_at": "2025-12-30T14:24:29.138Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "ambient, minimal",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+Metadata for: My_Workspace-Untitled-9c60b5bc-631d-43bd-bae7-f6afcd3e1176.mp3
+Generated: 2026-05-05T16:02:05.393Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rock, southern rock, folk rock, roots rock, alternative rock, indie rock, electric
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_9c60b5bc-631d-43bd-bae7-f6afcd3e1176.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "9c60b5bc-631d-43bd-bae7-f6afcd3e1176",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/9c60b5bc-631d-43bd-bae7-f6afcd3e1176.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/9c60b5bc-631d-43bd-bae7-f6afcd3e1176.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/9c60b5bc-631d-43bd-bae7-f6afcd3e1176.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_9c60b5bc-631d-43bd-bae7-f6afcd3e1176.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_9c60b5bc-631d-43bd-bae7-f6afcd3e1176.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "rock, southern rock, folk rock, roots rock, alternative rock, indie rock, electric",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Driving heartland rock instrumental, distorted electric guitar riff palm-muted, pounding four-on-the-floor kick drum, big reverbed snare, hammond organ underneath, aggressive tambourine, power chords building, Springsteen / Tom Petty / Kings of Leon feel, 120 BPM, anthemic and unapologetic, American work ethic energy, stadium-sized, no vocals, instrumental",
+    "type": "gen",
+    "duration": 123.16,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false,
+    "artist_reference_warning": {
+      "artist_to_tag_mapping": {
+        "kings of leon": [
+          "Alternative Rock",
+          "Indie Rock",
+          "Southern Rock"
+        ],
+        "tom petty": [
+          "Rock",
+          "Heartland Rock",
+          "Americana",
+          "Roots Rock",
+          "Folk Rock"
+        ]
+      },
+      "modified_prompt": "driving heartland rock instrumental distorted electric guitar riff palm muted pounding four on the floor kick drum big reverbed snare hammond organ underneath aggressive tambourine power chords building springsteen Rock, Heartland Rock, Americana, Roots Rock, Folk Rock Alternative Rock, Indie Rock, Southern Rock feel 120 bpm anthemic and unapologetic american work ethic energy stadium sized no vocals instrumental"
+    }
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-24T20:17:11.502Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "9c60b5bc-631d-43bd-bae7-f6afcd3e1176",
+    "updated_at": "2026-04-27T17:22:15.835Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

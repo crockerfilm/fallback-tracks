@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Spicy_Crave_Hit-6a3f1758-d6a2-4551-b8f5-173358e26810.mp3
+Generated: 2026-05-05T18:24:01.615Z
+
+--- Track Information ---
+Title: Spicy Crave Hit
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: rap, Bouncy pop/hip-hop bed at medium-fast tempo, tight sidechained synth bass locking with a clean, clicky trap-ish groove. Crisp claps and rimshots on top of a punchy kick, playful vocal chop stabs for hook moments, and bright plucky keys outlining a simple two-chord loop. Energy ramps quickly from bar one, ideal for a 10-second hit: instant drop, snappy stops for food shots, and a final rising filter sweep to a tasty tag., hip-hop, pop
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_6a3f1758-d6a2-4551-b8f5-173358e26810.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Spicy Crave Hit",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "6a3f1758-d6a2-4551-b8f5-173358e26810",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/6a3f1758-d6a2-4551-b8f5-173358e26810.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/6a3f1758-d6a2-4551-b8f5-173358e26810.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/6a3f1758-d6a2-4551-b8f5-173358e26810.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_6a3f1758-d6a2-4551-b8f5-173358e26810.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_6a3f1758-d6a2-4551-b8f5-173358e26810.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "rap, Bouncy pop/hip-hop bed at medium-fast tempo, tight sidechained synth bass locking with a clean, clicky trap-ish groove. Crisp claps and rimshots on top of a punchy kick, playful vocal chop stabs for hook moments, and bright plucky keys outlining a simple two-chord loop. Energy ramps quickly from bar one, ideal for a 10-second hit: instant drop, snappy stops for food shots, and a final rising filter sweep to a tasty tag., hip-hop, pop",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Upbeat modern pop/hip-hop instrumental for a 10-second social video about a spicy chicken sandwich. Tempo medio-rápido, groove pegajoso, bajo marcado y percusión limpia. Vibe crave-forward, fun, street-food energy",
+    "type": "gen",
+    "duration": 118.88,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-20T17:19:28.494Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "6a3f1758-d6a2-4551-b8f5-173358e26810",
+    "updated_at": "2026-01-21T18:58:49.662Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rap, pop, trap",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

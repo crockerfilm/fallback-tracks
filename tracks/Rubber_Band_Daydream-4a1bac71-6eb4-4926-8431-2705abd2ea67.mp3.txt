@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Rubber_Band_Daydream-4a1bac71-6eb4-4926-8431-2705abd2ea67.mp3
+Generated: 2026-05-05T16:47:25.220Z
+
+--- Track Information ---
+Title: Rubber Band Daydream
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Hyper-funky lo-fi jam, swung and bouncy. Crunchy, off-kilter drums and rubbery synth bass lock a tight pocket; chopped Rhodes and bright, syncopated keys chatter on top. Filtered guitars flicker in and out with techy FX sweeps and bitcrushed fills. Arrangement jumps quickly into dense, clappy chorus sections with sparkling arps, then snaps back to stripped drums-and-bass grooves for playful, danceable resets., lo-fi, funky, minimal, playful, groovy, bright
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_4a1bac71-6eb4-4926-8431-2705abd2ea67.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Rubber Band Daydream",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "4a1bac71-6eb4-4926-8431-2705abd2ea67",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/4a1bac71-6eb4-4926-8431-2705abd2ea67.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/4a1bac71-6eb4-4926-8431-2705abd2ea67.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/4a1bac71-6eb4-4926-8431-2705abd2ea67.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_4a1bac71-6eb4-4926-8431-2705abd2ea67.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_4a1bac71-6eb4-4926-8431-2705abd2ea67.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "funk, Hyper-funky lo-fi jam, swung and bouncy. Crunchy, off-kilter drums and rubbery synth bass lock a tight pocket; chopped Rhodes and bright, syncopated keys chatter on top. Filtered guitars flicker in and out with techy FX sweeps and bitcrushed fills. Arrangement jumps quickly into dense, clappy chorus sections with sparkling arps, then snaps back to stripped drums-and-bass grooves for playful, danceable resets., lo-fi, funky, minimal, playful, groovy, bright",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Energetic, whimsica, Hyper-funky lo-fi beat built on crunchy swung drums, rubbery synth bass, and chopped Rhodes stabs, instrumental, with bright, syncopated keys and filtered guitar licks weaving in and out, Arrangement ramps quickly from a tight, minimal groove into a festive, crowded chorus section with layered claps and sparkling arps, then strips back to pocketed drums and bass for resets, Modern, techy FX sweeps and bitcrushed fills keep the energy fast, playful, and danceable, groovy",
+    "type": "gen",
+    "duration": 136.56,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-30T16:13:52.158Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "4a1bac71-6eb4-4926-8431-2705abd2ea67",
+    "updated_at": "2026-04-01T20:19:38.276Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funky, lo-fi, hyper-funky (lo-fi)",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

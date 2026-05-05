@@ -1,0 +1,219 @@
+Metadata for: My_Workspace-Neon_Heartbeat-1ea197f4-ac96-49f2-acdf-ef9730f36518.mp3
+Generated: 2026-05-05T19:48:53.298Z
+
+--- Track Information ---
+Title: Neon Heartbeat
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: synthwave with pulsating basslines and shimmering synth leads, electronic, high-energy
+
+--- Lyrics ---
+[Verse]
+Neon shadows paint the street
+Flickering signs where the dreamers meet
+Pulse is rising skip the beat
+
+[Chorus]
+Feel the neon heartbeat glow glow glow
+Under the lights we lose control control
+Dance until the static owns your soul soul
+Feel the neon heartbeat glow glow glow
+
+[Verse 2]
+Wires hum like whispered fire
+City breathes electric desire
+Chasing colors higher higher
+
+[Prechorus]
+Every spark ignites the sky
+Close your eyes let the night comply
+
+[Chorus]
+Feel the neon heartbeat glow glow glow
+Under the lights we lose control control
+Dance until the static owns your soul soul
+Feel the neon heartbeat glow glow glow
+
+[Bridge]
+Laser beams cut through the haze
+Time dissolves in the endless maze
+Echoes loop in endless phrase
+
+Cover Art URL: https://cdn2.suno.ai/image_1ea197f4-ac96-49f2-acdf-ef9730f36518.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Neon Heartbeat",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "1ea197f4-ac96-49f2-acdf-ef9730f36518",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/1ea197f4-ac96-49f2-acdf-ef9730f36518.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/1ea197f4-ac96-49f2-acdf-ef9730f36518.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/1ea197f4-ac96-49f2-acdf-ef9730f36518.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_1ea197f4-ac96-49f2-acdf-ef9730f36518.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_1ea197f4-ac96-49f2-acdf-ef9730f36518.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "synthwave with pulsating basslines and shimmering synth leads, electronic, high-energy",
+    "prompt": "[Verse]\nNeon shadows paint the street\nFlickering signs where the dreamers meet\nPulse is rising skip the beat\n\n[Chorus]\nFeel the neon heartbeat glow glow glow\nUnder the lights we lose control control\nDance until the static owns your soul soul\nFeel the neon heartbeat glow glow glow\n\n[Verse 2]\nWires hum like whispered fire\nCity breathes electric desire\nChasing colors higher higher\n\n[Prechorus]\nEvery spark ignites the sky\nClose your eyes let the night comply\n\n[Chorus]\nFeel the neon heartbeat glow glow glow\nUnder the lights we lose control control\nDance until the static owns your soul soul\nFeel the neon heartbeat glow glow glow\n\n[Bridge]\nLaser beams cut through the haze\nTime dissolves in the endless maze\nEchoes loop in endless phrase",
+    "gpt_description_prompt": " pump up haüs vibes with synthwave",
+    "type": "gen",
+    "duration": 208.88,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-17T19:56:05.466Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "1ea197f4-ac96-49f2-acdf-ef9730f36518",
+    "updated_at": "2025-11-17T20:07:37.769Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

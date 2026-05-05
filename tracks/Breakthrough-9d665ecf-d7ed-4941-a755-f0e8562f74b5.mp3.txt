@@ -1,0 +1,224 @@
+Metadata for: My_Workspace-Breakthrough-9d665ecf-d7ed-4941-a755-f0e8562f74b5.mp3
+Generated: 2026-05-05T18:15:35.711Z
+
+--- Track Information ---
+Title: Breakthrough
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: anthemic, cinematic, electronic, video ads, immediate hook, short structured sections, confident, uplifting, modern, bold, emotionally powerful, electronic, uplifting
+
+--- Lyrics ---
+[Intro]
+Momentum
+Keep the momentum
+Momentum
+Keep the momentum
+
+[Verse 1]
+Got a vision
+It's loud and clear
+My team
+And we're gonna persevere
+It's my moment
+It's right here
+And we're on our way
+It's a breakthrough
+
+[Chorus]
+Breakthrough
+Breakthrough
+Breakthrough
+It's a breakthrough
+
+[Verse 2]
+There's no stopping me
+I'm on a roll
+Got my heart and my head and my soul in control
+I've been working for so long
+And I'm on my way
+It's a breakthrough
+
+[Chorus]
+Breakthrough
+Breakthrough
+Breakthrough
+It's a breakthrough
+
+[Bridge]
+Momentum
+Keep the momentum
+Momentum
+Keep the momentum
+
+Cover Art URL: https://cdn2.suno.ai/image_9d665ecf-d7ed-4941-a755-f0e8562f74b5.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Breakthrough",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "9d665ecf-d7ed-4941-a755-f0e8562f74b5",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/9d665ecf-d7ed-4941-a755-f0e8562f74b5.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/9d665ecf-d7ed-4941-a755-f0e8562f74b5.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/9d665ecf-d7ed-4941-a755-f0e8562f74b5.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_9d665ecf-d7ed-4941-a755-f0e8562f74b5.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_9d665ecf-d7ed-4941-a755-f0e8562f74b5.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "anthemic, cinematic, electronic, video ads, immediate hook, short structured sections, confident, uplifting, modern, bold, emotionally powerful, electronic, uplifting",
+    "prompt": "[Intro]\nMomentum\nKeep the momentum\nMomentum\nKeep the momentum\n\n[Verse 1]\nGot a vision\nIt's loud and clear\nMy team\nAnd we're gonna persevere\nIt's my moment\nIt's right here\nAnd we're on our way\nIt's a breakthrough\n\n[Chorus]\nBreakthrough\nBreakthrough\nBreakthrough\nIt's a breakthrough\n\n[Verse 2]\nThere's no stopping me\nI'm on a roll\nGot my heart and my head and my soul in control\nI've been working for so long\nAnd I'm on my way\nIt's a breakthrough\n\n[Chorus]\nBreakthrough\nBreakthrough\nBreakthrough\nIt's a breakthrough\n\n[Bridge]\nMomentum\nKeep the momentum\nMomentum\nKeep the momentum",
+    "gpt_description_prompt": "Anthemic cinematic electronic song for video ads with vocals. Immediate hook, short structured sections, confident uplifting lyrics about momentum and breakthrough. Modern, bold, emotionally powerful.\n",
+    "type": "gen",
+    "duration": 92.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-27T19:01:21.485Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electronic, cinematic, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

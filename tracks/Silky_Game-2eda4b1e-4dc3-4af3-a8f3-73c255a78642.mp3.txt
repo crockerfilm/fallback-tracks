@@ -1,0 +1,260 @@
+Metadata for: My_Workspace-Silky_Game-2eda4b1e-4dc3-4af3-a8f3-73c255a78642.mp3
+Generated: 2026-05-05T19:19:33.445Z
+
+--- Track Information ---
+Title: Silky Game
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: warm, slow, rap, deep silky male vocals in a slow rolling pocket, soulful, soulful/jazzy chords and warm thick bass, smooth, 90s east coast mellow boom‑bap at 85 bpm, jazzy, mellow, smooth classy boss‑like vibe with flirtatious swagger ready for radio, male vocals, classic, deep, crisp snares with subtle swing
+
+--- Lyrics ---
+[Intro]
+Uh
+real calm with it
+deep tone
+room tilt when I talk my digits
+soul food chords in the background
+bassline grinnin
+shorty stare stuck in the moment
+clock still spinnin
+
+[Chorus]
+Silky game
+cool water in a gold frame
+mellow 90s rap in the slow lane
+deep baritone
+talk smooth till your phone flame
+yeah you feel that
+you gon’ know my whole name
+Silky game
+boom‑bap on a soul train
+calm, cool, confident
+no cold chain
+just charm, big presence in a small space
+you slide close
+I just lean, never chase
+
+[Verse 1]
+Low voice in your ear
+old movie in a new year
+you laugh, lil snare in the back hit clear
+sweatpants fly
+no logo
+still boss there
+she orbit this aura
+no force there
+Eyes say “don’t rush”
+I don’t hurry none
+slow roll conversation
+kinda curry tongue
+sweet, then heat
+then the humor run
+make your friend hit the group chat
+“girl, I’m done”
+Corner booth king
+no crown on
+just a brown skin glow
+get the sound on
+808 hug knees, yeah it drown wrong
+you forget your ex name when the round come
+
+[Verse 2]
+Voice pour smooth on the boom‑bap
+silk on stone when the groove slap
+you bite that lip when the bass clap
+say you only stay ’til two
+then you move that
+Three-thirty, still here, still gigglin
+straw in your drink do a lil wigglin
+you talk ’bout work
+I talk ’bout discipline
+how I never chase
+only choose who I’m interest in
+She say “you too calm, you don’t sweat?”
+I say “I don’t gamble on a sure bet”
+you already tug on the chain that I don’t wear
+hands on my chest
+say you feel that air
+
+[Outro]
+Mellow
+
+Cover Art URL: https://cdn2.suno.ai/image_2eda4b1e-4dc3-4af3-a8f3-73c255a78642.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Silky Game",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "2eda4b1e-4dc3-4af3-a8f3-73c255a78642",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/2eda4b1e-4dc3-4af3-a8f3-73c255a78642.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/2eda4b1e-4dc3-4af3-a8f3-73c255a78642.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/2eda4b1e-4dc3-4af3-a8f3-73c255a78642.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_2eda4b1e-4dc3-4af3-a8f3-73c255a78642.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_2eda4b1e-4dc3-4af3-a8f3-73c255a78642.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "warm, slow, rap, deep silky male vocals in a slow rolling pocket, soulful, soulful/jazzy chords and warm thick bass, smooth, 90s east coast mellow boom‑bap at 85 bpm, jazzy, mellow, smooth classy boss‑like vibe with flirtatious swagger ready for radio, male vocals, classic, deep, crisp snares with subtle swing",
+    "prompt": "[Intro]\nUh\nreal calm with it\ndeep tone\nroom tilt when I talk my digits\nsoul food chords in the background\nbassline grinnin\nshorty stare stuck in the moment\nclock still spinnin\n\n[Chorus]\nSilky game\ncool water in a gold frame\nmellow 90s rap in the slow lane\ndeep baritone\ntalk smooth till your phone flame\nyeah you feel that\nyou gon’ know my whole name\nSilky game\nboom‑bap on a soul train\ncalm, cool, confident\nno cold chain\njust charm, big presence in a small space\nyou slide close\nI just lean, never chase\n\n[Verse 1]\nLow voice in your ear\nold movie in a new year\nyou laugh, lil snare in the back hit clear\nsweatpants fly\nno logo\nstill boss there\nshe orbit this aura\nno force there\nEyes say “don’t rush”\nI don’t hurry none\nslow roll conversation\nkinda curry tongue\nsweet, then heat\nthen the humor run\nmake your friend hit the group chat\n“girl, I’m done”\nCorner booth king\nno crown on\njust a brown skin glow\nget the sound on\n808 hug knees, yeah it drown wrong\nyou forget your ex name when the round come\n\n[Verse 2]\nVoice pour smooth on the boom‑bap\nsilk on stone when the groove slap\nyou bite that lip when the bass clap\nsay you only stay ’til two\nthen you move that\nThree-thirty, still here, still gigglin\nstraw in your drink do a lil wigglin\nyou talk ’bout work\nI talk ’bout discipline\nhow I never chase\nonly choose who I’m interest in\nShe say “you too calm, you don’t sweat?”\nI say “I don’t gamble on a sure bet”\nyou already tug on the chain that I don’t wear\nhands on my chest\nsay you feel that air\n\n[Outro]\nMellow",
+    "gpt_description_prompt": "“85 BPM mellow 90s rap. Deep baritone voice with slow, rolling, charismatic flow. Smooth boom-bap beat with soulful chords and thick bass. Calm, cool, confident energy with flirtatious swagger.”“Classic 90s East Coast groove at 85 BPM. Deep silky male vocals, relaxed pocket, big presence. Jazzy chords, warm bass, crisp snares. Smooth, classy, boss-like vibe.”",
+    "type": "gen",
+    "duration": 130.84,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:29:46.474Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "2eda4b1e-4dc3-4af3-a8f3-73c255a78642",
+    "updated_at": "2025-11-26T19:31:19.843Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rap, boom-bap, jazz rap",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

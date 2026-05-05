@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Soft_Morning_Glow-9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.mp3
+Generated: 2026-05-05T16:42:49.672Z
+
+--- Track Information ---
+Title: Soft Morning Glow
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: folk, Soft-focus lo-fi groove, 90 BPM. Light acoustic guitar plucks and soft Rhodes chords over brushed, lazy percussion and a round, low-key bass. Occasionally weave in distant female vocal hums as texture, drenched in reverb and tucked behind the groove. Keep the mix airy and uncluttered; let tiny incidental noises and subtle vinyl hiss give it an intimate, lived-in feel., harsh, clean, electronic, minimal, acoustic, lo-fi, gentle, soft, light, warm, vocal, natural
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Soft Morning Glow",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "folk, Soft-focus lo-fi groove, 90 BPM. Light acoustic guitar plucks and soft Rhodes chords over brushed, lazy percussion and a round, low-key bass. Occasionally weave in distant female vocal hums as texture, drenched in reverb and tucked behind the groove. Keep the mix airy and uncluttered; let tiny incidental noises and subtle vinyl hiss give it an intimate, lived-in feel., harsh, clean, electronic, minimal, acoustic, lo-fi, gentle, soft, light, warm, vocal, natural",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Soft, minimal, chill track with an organic, lifestyle feel. Light acoustic elements (muted guitar or soft keys), gentle lo-fi percussion, and a warm subtle bass. Tempo around 85–95 BPM. The mood should feel effortless, calm, and intimate — like a natural skincare routine or a candid moment between friends. No harsh electronic sounds, no heavy drops. Keep it airy, clean, and understated. Optional very soft female vocal hums or chops for a modern touch. The track should feel authentic, cozy",
+    "type": "gen",
+    "duration": 106.72,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-02T12:49:53.709Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "9a3852ae-c0c0-4eca-a3b3-f5cf316fdc79",
+    "updated_at": "2026-04-02T12:50:13.351Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "lo-fi, folk, electronic minimalism",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

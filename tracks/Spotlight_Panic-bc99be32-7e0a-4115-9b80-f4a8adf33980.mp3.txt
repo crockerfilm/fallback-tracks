@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Spotlight_Panic-bc99be32-7e0a-4115-9b80-f4a8adf33980.mp3
+Generated: 2026-05-05T15:51:38.501Z
+
+--- Track Information ---
+Title: Spotlight Panic
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Reality-TV orchestral pop with punchy staccato hits, tense snare rolls, risers, dramatic string swells, bold brass stabs, and rhythmic percussion; verse builds fast with clipped motives, sudden stop-time breaks, and suspenseful dropouts for comic timing; chorus slams in with full brass, low strings, and glossy layered impacts, then a bridge strips to ticking percussion and a single ominous chord before the final overblown finish. Bright, polished, theatrical mix with huge transient snap and playful high-drama flair., rhythmic, playful, dramatic, minimal, drama
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_bc99be32-7e0a-4115-9b80-f4a8adf33980.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Spotlight Panic",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "bc99be32-7e0a-4115-9b80-f4a8adf33980",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/bc99be32-7e0a-4115-9b80-f4a8adf33980.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/bc99be32-7e0a-4115-9b80-f4a8adf33980.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/bc99be32-7e0a-4115-9b80-f4a8adf33980.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_bc99be32-7e0a-4115-9b80-f4a8adf33980.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_bc99be32-7e0a-4115-9b80-f4a8adf33980.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Reality-TV orchestral pop with punchy staccato hits, tense snare rolls, risers, dramatic string swells, bold brass stabs, and rhythmic percussion; verse builds fast with clipped motives, sudden stop-time breaks, and suspenseful dropouts for comic timing; chorus slams in with full brass, low strings, and glossy layered impacts, then a bridge strips to ticking percussion and a single ominous chord before the final overblown finish. Bright, polished, theatrical mix with huge transient snap and playful high-drama flair., rhythmic, playful, dramatic, minimal, drama",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Instrumental only. Dramatic, over-the-top reality TV style track with exaggerated tension and flair. Punchy hits, risers, dramatic strings, bold brass stabs, and rhythmic percussion. Fast builds, sudden stops, and suspenseful drops for comedic timing. Extra, flashy, and theatrical — high drama but playful and slightly ironic. Polished TV production feel. Not subtle, not minimal — big, bold, and attention-grabbing.",
+    "type": "gen",
+    "duration": 52.76,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-05-05T14:12:32.831Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "bc99be32-7e0a-4115-9b80-f4a8adf33980",
+    "updated_at": "2026-05-05T14:17:05.567Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "orchestral pop, cinematic, theatrical",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

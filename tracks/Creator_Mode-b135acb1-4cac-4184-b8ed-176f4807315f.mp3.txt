@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Creator_Mode-b135acb1-4cac-4184-b8ed-176f4807315f.mp3
+Generated: 2026-05-05T16:54:13.555Z
+
+--- Track Information ---
+Title: Creator Mode
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Sleek percussive pop groove with tight sidechained bass and crisp drum programming, subtle pluck and pad layers weaving a minimalist hook. Energy starts cool and controlled, then builds through filtered risers, glitchy fills, and syncopated percussion for a stylish modern montage feel. Short form-friendly structure with clear sections, ear-grabbing drops, and polished male-leaning top-line synth timbre used as a hook in place of vocals., warm, deep, pop, stylish
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_b135acb1-4cac-4184-b8ed-176f4807315f.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Creator Mode",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "b135acb1-4cac-4184-b8ed-176f4807315f",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/b135acb1-4cac-4184-b8ed-176f4807315f.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/b135acb1-4cac-4184-b8ed-176f4807315f.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/b135acb1-4cac-4184-b8ed-176f4807315f.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_b135acb1-4cac-4184-b8ed-176f4807315f.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_b135acb1-4cac-4184-b8ed-176f4807315f.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "funk, Sleek percussive pop groove with tight sidechained bass and crisp drum programming, subtle pluck and pad layers weaving a minimalist hook. Energy starts cool and controlled, then builds through filtered risers, glitchy fills, and syncopated percussion for a stylish modern montage feel. Short form-friendly structure with clear sections, ear-grabbing drops, and polished male-leaning top-line synth timbre used as a hook in place of vocals., warm, deep, pop, stylish",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Cool percussive pop groove, crisp beat, deep warm bass, restrained synth texture, subtle earworm rhythm, stylish and current, made for quick-cut creator montage videos on TikTok, catchy without sounding childish or artificial, no vocals",
+    "type": "gen",
+    "duration": 129.68,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-20T18:44:38.844Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "b135acb1-4cac-4184-b8ed-176f4807315f",
+    "updated_at": "2026-03-26T15:44:25.882Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funk, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

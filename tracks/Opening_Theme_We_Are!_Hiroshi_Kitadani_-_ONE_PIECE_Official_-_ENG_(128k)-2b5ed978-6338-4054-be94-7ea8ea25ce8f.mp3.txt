@@ -1,0 +1,208 @@
+Metadata for: My_Workspace-Opening_Theme_We_Are!_Hiroshi_Kitadani_-_ONE_PIECE_Official_-_ENG_(128k)-2b5ed978-6338-4054-be94-7ea8ea25ce8f.mp3
+Generated: 2026-05-05T17:01:52.629Z
+
+--- Track Information ---
+Title: Opening Theme We Are! Hiroshi Kitadani - ONE PIECE Official - ENG (128k)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: High-energy J-Pop and anime opening theme featuring a driving rock foundation and orchestral brass accents. The track opens with a dramatic spoken word narration over a cinematic orchestral swell, transitioning into a fast-paced 4/4 rhythm at approximately 168 BPM. The instrumentation consists of distorted electric guitars playing power chords and rhythmic riffs, a prominent slap bass, and a punchy drum kit with frequent crash cymbal hits. A bright brass section provides melodic stabs and counter-melodies throughout the chorus. The male vocals are powerful and melodic, utilizing a wide range with occasional grit and enthusiastic delivery. The harmonic structure follows a typical J-Pop progression with frequent modulations and suspended chords to maintain tension. Production is polished with a wide stereo field, light reverb on the vocals, and a compressed, radio-ready mix.
+
+--- Lyrics ---
+[Intro]
+(Spoken Narration)
+
+[Chorus]
+Arittake no yume wo kakiatsume
+Sagashimono sagashi ni yuku no sa
+One Piece
+
+[Verse 1]
+Rashinban nante juutai no moto
+Netsu ni ukasare kaji wo toru no sa
+Hokori kabutteta takara no chizu mo
+Tashikameta no nara densetsu ja nai
+
+[Pre-Chorus]
+Kojinteki na arashi wa dareka no
+バイオリズム (Baiorizumu) nokatte
+Omoisu sugoseba ii
+
+[Chorus]
+Arittake no yume wo kakiatsume
+Sagashimono sagashi ni yuku no sa
+Poketto no coin, soreto You wanna be my friend?
+We are, We are on the cruise! We are!
+
+Cover Art URL: https://cdn2.suno.ai/image_2b5ed978-6338-4054-be94-7ea8ea25ce8f.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Opening Theme We Are! Hiroshi Kitadani - ONE PIECE Official - ENG (128k)",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "2b5ed978-6338-4054-be94-7ea8ea25ce8f",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/2b5ed978-6338-4054-be94-7ea8ea25ce8f.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/2b5ed978-6338-4054-be94-7ea8ea25ce8f.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/2b5ed978-6338-4054-be94-7ea8ea25ce8f.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_2b5ed978-6338-4054-be94-7ea8ea25ce8f.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_2b5ed978-6338-4054-be94-7ea8ea25ce8f.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "High-energy J-Pop and anime opening theme featuring a driving rock foundation and orchestral brass accents. The track opens with a dramatic spoken word narration over a cinematic orchestral swell, transitioning into a fast-paced 4/4 rhythm at approximately 168 BPM. The instrumentation consists of distorted electric guitars playing power chords and rhythmic riffs, a prominent slap bass, and a punchy drum kit with frequent crash cymbal hits. A bright brass section provides melodic stabs and counter-melodies throughout the chorus. The male vocals are powerful and melodic, utilizing a wide range with occasional grit and enthusiastic delivery. The harmonic structure follows a typical J-Pop progression with frequent modulations and suspended chords to maintain tension. Production is polished with a wide stereo field, light reverb on the vocals, and a compressed, radio-ready mix.",
+    "prompt": "[Intro]\n(Spoken Narration)\n\n[Chorus]\nArittake no yume wo kakiatsume\nSagashimono sagashi ni yuku no sa\nOne Piece\n\n[Verse 1]\nRashinban nante juutai no moto\nNetsu ni ukasare kaji wo toru no sa\nHokori kabutteta takara no chizu mo\nTashikameta no nara densetsu ja nai\n\n[Pre-Chorus]\nKojinteki na arashi wa dareka no\nバイオリズム (Baiorizumu) nokatte\nOmoisu sugoseba ii\n\n[Chorus]\nArittake no yume wo kakiatsume\nSagashimono sagashi ni yuku no sa\nPoketto no coin, soreto You wanna be my friend?\nWe are, We are on the cruise! We are!",
+    "type": "upload",
+    "duration": 110.06258503401361,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-19T01:50:01.898Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "2b5ed978-6338-4054-be94-7ea8ea25ce8f",
+    "updated_at": "2026-03-19T21:08:28.752Z"
+  },
+  "is_following_creator": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "J-Pop, Anime Opening, Adventure Rock",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+Metadata for: My_Workspace-Your_Name-acfb3c07-f75c-41d6-8d97-833a74f9e841.mp3
+Generated: 2026-05-05T15:52:08.765Z
+
+--- Track Information ---
+Title: Your Name
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: dance, EDM, house, dance-pop, electro house style dance pop anthem with a massive chorus and shimmering synth arpeggios driving four on the floor kick with punchy sidechain compression and bright lead synths female vocals with an r b influenced delivery over a euphoric buildup energetic radio ready production, electro house, pop, edm, dance pop, bright, female vocals
+
+--- Lyrics ---
+[Verse]
+Yeah
+If I said it
+Then I meant it
+Ain't no playin'
+You ain't with it
+Know you say you independent
+But I'm sayin'
+"Go and get it"
+And you want it
+And you need it
+And I'm tellin' you to see it
+Yeah
+You feel it
+Can't conceal it
+No deceivin'
+Gotta keep it
+Yeah
+
+[Chorus]
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+Oh
+Baby
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+
+[Post-Chorus]
+Yeah
+You got me like
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+Oh
+Baby
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+Oh
+Baby
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+
+[Bridge]
+Just tell me your name
+Your name
+I need you now
+I can't let you go
+[Outro]
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+Oh
+Baby
+Your name
+Is the only thing I wanna know
+Just tell me your name
+I need you now
+I can't let you go
+
+Cover Art URL: https://cdn2.suno.ai/image_acfb3c07-f75c-41d6-8d97-833a74f9e841.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Your Name",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "acfb3c07-f75c-41d6-8d97-833a74f9e841",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/acfb3c07-f75c-41d6-8d97-833a74f9e841.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/acfb3c07-f75c-41d6-8d97-833a74f9e841.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/acfb3c07-f75c-41d6-8d97-833a74f9e841.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_acfb3c07-f75c-41d6-8d97-833a74f9e841.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_acfb3c07-f75c-41d6-8d97-833a74f9e841.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "dance, EDM, house, dance-pop, electro house style dance pop anthem with a massive chorus and shimmering synth arpeggios driving four on the floor kick with punchy sidechain compression and bright lead synths female vocals with an r b influenced delivery over a euphoric buildup energetic radio ready production, electro house, pop, edm, dance pop, bright, female vocals",
+    "prompt": "[Verse]\nYeah\nIf I said it\nThen I meant it\nAin't no playin'\nYou ain't with it\nKnow you say you independent\nBut I'm sayin'\n\"Go and get it\"\nAnd you want it\nAnd you need it\nAnd I'm tellin' you to see it\nYeah\nYou feel it\nCan't conceal it\nNo deceivin'\nGotta keep it\nYeah\n\n[Chorus]\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\nOh\nBaby\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\n\n[Post-Chorus]\nYeah\nYou got me like\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\nOh\nBaby\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\nOh\nBaby\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\n\n[Bridge]\nJust tell me your name\nYour name\nI need you now\nI can't let you go\n[Outro]\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go\nOh\nBaby\nYour name\nIs the only thing I wanna know\nJust tell me your name\nI need you now\nI can't let you go",
+    "gpt_description_prompt": "Calvin Harris-style dance-pop anthem with a massive chorus and shimmering synth arpeggios. Driving four-on-the-floor kick with punchy sidechain compression and bright lead synths. Female vocals with an R&B-influenced delivery over a euphoric buildup. Energetic, radio-ready production.",
+    "type": "gen",
+    "duration": 188.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false,
+    "artist_reference_warning": {
+      "artist_to_tag_mapping": {
+        "calvin harris": [
+          "EDM",
+          "house",
+          "dance-pop",
+          "electro house"
+        ]
+      },
+      "modified_prompt": "EDM, house, dance-pop, electro house style dance pop anthem with a massive chorus and shimmering synth arpeggios driving four on the floor kick with punchy sidechain compression and bright lead synths female vocals with an r b influenced delivery over a euphoric buildup energetic radio ready production"
+    }
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-05-04T15:01:27.900Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "acfb3c07-f75c-41d6-8d97-833a74f9e841",
+    "updated_at": "2026-05-04T15:06:40.833Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electro house, EDM, dance-pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

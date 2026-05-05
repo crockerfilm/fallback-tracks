@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Velvet_Jackpot-7d439c69-fbd4-4a25-932e-de51710571fa.mp3
+Generated: 2026-05-05T16:38:45.142Z
+
+--- Track Information ---
+Title: Velvet Jackpot
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Modern lounge jazz cue built around soft, clustered piano voicings and a round upright bass walking in half-time; brushed high-hats, hand-played percussion, and finger snaps add a relaxed sway. A faint, glassy synth shimmer sits wide in the stereo field, blooming briefly into a tasteful, bell-like “win” accent at the midpoint, then tightening into a short, confident cadence—perfect for a warm, luxurious call-to-action sting., uplifting, gentle, smooth, light, clean, electronic, jazzy, soft, warm
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_7d439c69-fbd4-4a25-932e-de51710571fa.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet Jackpot",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "7d439c69-fbd4-4a25-932e-de51710571fa",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/7d439c69-fbd4-4a25-932e-de51710571fa.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/7d439c69-fbd4-4a25-932e-de51710571fa.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/7d439c69-fbd4-4a25-932e-de51710571fa.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_7d439c69-fbd4-4a25-932e-de51710571fa.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_7d439c69-fbd4-4a25-932e-de51710571fa.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "funk, Modern lounge jazz cue built around soft, clustered piano voicings and a round upright bass walking in half-time; brushed high-hats, hand-played percussion, and finger snaps add a relaxed sway. A faint, glassy synth shimmer sits wide in the stereo field, blooming briefly into a tasteful, bell-like “win” accent at the midpoint, then tightening into a short, confident cadence—perfect for a warm, luxurious call-to-action sting., uplifting, gentle, smooth, light, clean, electronic, jazzy, soft, warm",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "A 10-second modern jazzy casino track with a smooth, luxurious feel. Start with soft piano chords and a subtle upright bass groove, layered with light percussion and finger snaps. Add a gentle electronic shimmer to keep it modern. At around 5–6 seconds, introduce a small uplifting accent (like a win moment), then resolve into a clean, confident ending for a call-to-action. Warm, classy, and not too fast.\n",
+    "type": "gen",
+    "duration": 71.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-06T16:54:08.828Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "7d439c69-fbd4-4a25-932e-de51710571fa",
+    "updated_at": "2026-04-21T18:08:23.116Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "modern lounge jazz, funk, electronic lounge",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

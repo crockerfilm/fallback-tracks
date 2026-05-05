@@ -1,0 +1,210 @@
+Metadata for: My_Workspace-Untitled-dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.mp3
+Generated: 2026-05-05T16:46:46.270Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Funk-pop / soft electro-pop, 105–112 BPM, designed as a premium background track for a luxury haircare advertisement.
+
+Smooth, minimal groove with subtle percussion, soft four-on-the-floor kick, delicate shaker textures, and refined snap/clap layers. Warm bass, elegant electric piano or muted guitar, and silky, atmospheric synth pads with shimmering high-end details.
+
+Add light reverb and delay for a spacious, expensive feel. Keep transitions smooth and fluid, avoiding anything too punchy or aggressive.
+
+Structure: soft, intimate intro → quick but seamless lift into a steady, sophisticated groove → consistent and polished energy → clean, graceful outro.
+
+Mood: sensual, elegant, confident, and luxurious — like a high-end perfume or premium beauty commercial.
+
+
+
+
+Cover Art URL: https://cdn2.suno.ai/image_dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "dfce37b4-f7ba-4aa5-a61b-db94e24abe8c",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_dfce37b4-f7ba-4aa5-a61b-db94e24abe8c.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Funk-pop / soft electro-pop, 105–112 BPM, designed as a premium background track for a luxury haircare advertisement.\n\nSmooth, minimal groove with subtle percussion, soft four-on-the-floor kick, delicate shaker textures, and refined snap/clap layers. Warm bass, elegant electric piano or muted guitar, and silky, atmospheric synth pads with shimmering high-end details.\n\nAdd light reverb and delay for a spacious, expensive feel. Keep transitions smooth and fluid, avoiding anything too punchy or aggressive.\n\nStructure: soft, intimate intro → quick but seamless lift into a steady, sophisticated groove → consistent and polished energy → clean, graceful outro.\n\nMood: sensual, elegant, confident, and luxurious — like a high-end perfume or premium beauty commercial.\n\n",
+    "prompt": "",
+    "type": "gen",
+    "duration": 81.24,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-31T13:15:11.248Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "dfce37b4-f7ba-4aa5-a61b-db94e24abe8c",
+    "updated_at": "2026-04-02T19:51:28.363Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funk-pop, electro-pop, lounge pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

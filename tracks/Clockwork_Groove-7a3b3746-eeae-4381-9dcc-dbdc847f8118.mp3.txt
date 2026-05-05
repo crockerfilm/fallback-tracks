@@ -1,0 +1,210 @@
+Metadata for: My_Workspace-Clockwork_Groove-7a3b3746-eeae-4381-9dcc-dbdc847f8118.mp3
+Generated: 2026-05-05T19:30:30.069Z
+
+--- Track Information ---
+Title: Clockwork Groove
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: electronic, minimalist, percussive, rhythmic
+
+--- Lyrics ---
+[Instrumental Intro]
+Tick tick click snap
+Drums tap like a heartbeat slap
+Synths pulse tight like a rubber band snap
+
+[Main Loop]
+Metallic chimes with a digital glow
+Bassline syncs like a pendulum flow
+Short and sharp like a clock in tow
+
+[Bridge Loop]
+High-pitched beeps like a signal's trail
+Shuffling hi-hats
+A mechanical tale
+No long echoes no reverb veil
+
+[Outro Loop]
+Tick tick click snap
+Repeats fade
+Then the track falls flat
+Time resets and the groove comes back
+
+Cover Art URL: https://cdn2.suno.ai/image_7a3b3746-eeae-4381-9dcc-dbdc847f8118.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Clockwork Groove",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "7a3b3746-eeae-4381-9dcc-dbdc847f8118",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/7a3b3746-eeae-4381-9dcc-dbdc847f8118.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/7a3b3746-eeae-4381-9dcc-dbdc847f8118.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/7a3b3746-eeae-4381-9dcc-dbdc847f8118.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_7a3b3746-eeae-4381-9dcc-dbdc847f8118.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_7a3b3746-eeae-4381-9dcc-dbdc847f8118.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "electronic, minimalist, percussive, rhythmic",
+    "prompt": "[Instrumental Intro]\nTick tick click snap\nDrums tap like a heartbeat slap\nSynths pulse tight like a rubber band snap\n\n[Main Loop]\nMetallic chimes with a digital glow\nBassline syncs like a pendulum flow\nShort and sharp like a clock in tow\n\n[Bridge Loop]\nHigh-pitched beeps like a signal's trail\nShuffling hi-hats\nA mechanical tale\nNo long echoes no reverb veil\n\n[Outro Loop]\nTick tick click snap\nRepeats fade\nThen the track falls flat\nTime resets and the groove comes back",
+    "gpt_description_prompt": "12 seconds, loopable, no vocals, no long reverb tails",
+    "type": "gen",
+    "duration": 59.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-21T15:21:46.621Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "7a3b3746-eeae-4381-9dcc-dbdc847f8118",
+    "updated_at": "2025-11-21T20:56:42.186Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

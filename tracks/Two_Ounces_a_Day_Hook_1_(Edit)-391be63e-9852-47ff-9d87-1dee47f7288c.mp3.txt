@@ -1,0 +1,189 @@
+Metadata for: My_Workspace-Two_Ounces_a_Day_Hook_1_(Edit)-391be63e-9852-47ff-9d87-1dee47f7288c.mp3
+Generated: 2026-05-05T16:40:06.891Z
+
+--- Track Information ---
+Title: Two Ounces a Day Hook 1 (Edit)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad
+
+--- Lyrics ---
+and gravy
+For a label that don't make amends.
+
+[Chorus]
+Just a little orange shot every morning,
+Two ounces, two seconds, that's all.
+Support your cholesterol, keep on living.
+Don't let the worry take the wheel.
+Take the shot. Live your life.
+Pass the plate to your husband or wife.
+Dose for Cholesterol — plant-centered and real.
+Two ounces a day, and you're good for the meal.
+
+
+Cover Art URL: https://cdn2.suno.ai/image_391be63e-9852-47ff-9d87-1dee47f7288c.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Two Ounces a Day Hook 1 (Edit)",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "391be63e-9852-47ff-9d87-1dee47f7288c",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/391be63e-9852-47ff-9d87-1dee47f7288c.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/391be63e-9852-47ff-9d87-1dee47f7288c.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/391be63e-9852-47ff-9d87-1dee47f7288c.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_391be63e-9852-47ff-9d87-1dee47f7288c.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_391be63e-9852-47ff-9d87-1dee47f7288c.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad",
+    "prompt": "and gravy\nFor a label that don't make amends.\n\n[Chorus]\nJust a little orange shot every morning,\nTwo ounces, two seconds, that's all.\nSupport your cholesterol, keep on living.\nDon't let the worry take the wheel.\nTake the shot. Live your life.\nPass the plate to your husband or wife.\nDose for Cholesterol — plant-centered and real.\nTwo ounces a day, and you're good for the meal.\n",
+    "edited_clip_id": "903aef21-af02-40f9-9eb4-b44923425d3b",
+    "type": "edit_v3_export",
+    "duration": 71.65820833333333,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "can_remix": true,
+    "is_remix": false,
+    "studio_project_id": "44a6c22d-bde1-4615-8668-d466496d4270",
+    "studio_project_version_id": "9a1ee71f-518e-4673-9cff-555dc5e4aa05",
+    "studio_project_start_beats": -1.0121929136234684,
+    "studio_project_end_beats": 100.50357658515908,
+    "has_stem": false,
+    "uses_latest_model": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-03T18:12:56.465Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "391be63e-9852-47ff-9d87-1dee47f7288c",
+    "updated_at": "2026-04-03T18:16:38.113Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "classic country, traditional country, country ballad",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

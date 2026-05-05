@@ -1,0 +1,279 @@
+Metadata for: My_Workspace-Millennial_Dream-3a9fbbdf-efb7-44aa-a98e-e75295b6e142.mp3
+Generated: 2026-05-05T15:54:36.360Z
+
+--- Track Information ---
+Title: Millennial Dream
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop, whimsical pop, vintage synths, nostalgic
+
+--- Lyrics ---
+[Intro]
+He was a frat bro
+She was an art hoe
+Can I make it any more obvious?
+We went to Coachella
+On our parents' dime
+To the tune of "Feel Good Inc
+" we fell in love in line
+
+[Verse 1]
+I said
+"Do you like FIDLAR? Me too
+And I'm pretty sure
+That you remind me of Adam Driver"
+We were young and in love
+White and unemployed
+And it's hard not to laugh
+When he said he has a trust fund
+I said
+"Yeah
+That's dumb"
+But he told me that I am the only one
+The good guy
+The hot girl
+It's a wild world
+He's a nerd
+But he's rich
+
+[Pre-Chorus]
+Myspace on the moon
+He's been cheating
+He's been cheating
+In the bedroom
+
+[Chorus]
+'Cause we were all living in a millennial dream
+Spending all our parents' money on some self-esteem
+"Well
+I've always wanted to be a designer
+I love shoes
+It's a job
+Right?"
+All the right opinions
+None of the means
+God bless being born in the nineties
+So I wrote this song about it
+Do you wanna hear it?
+Of course you do
+You're one of us
+[Verse 2]
+I am the worst case of being a clichè
+I am everything that I try to hate
+In my selfie
+In my online shopping cart
+On my Tumblr page
+I am the worst case of being a clichè
+A Zoomer who only dates millennials
+One day
+I know they'll say
+"That used to be cool
+And now
+It sucks"
+
+[Pre-Chorus]
+Myspace on the moon
+He's been cheating
+He's been cheating
+In the bedroom
+
+[Chorus]
+'Cause we were all living in a millennial dream
+Spending all our parents' money on some self-esteem
+"Well
+I've always wanted to be a designer
+I love shoes
+It's a job
+Right?"
+All the right opinions
+None of the means
+God bless being born in the nineties
+So I wrote this song about it
+Do you wanna hear it?
+Of course you do
+You're one of us
+
+Cover Art URL: https://cdn2.suno.ai/image_3a9fbbdf-efb7-44aa-a98e-e75295b6e142.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Millennial Dream",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "3a9fbbdf-efb7-44aa-a98e-e75295b6e142",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/3a9fbbdf-efb7-44aa-a98e-e75295b6e142.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/3a9fbbdf-efb7-44aa-a98e-e75295b6e142.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/3a9fbbdf-efb7-44aa-a98e-e75295b6e142.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_3a9fbbdf-efb7-44aa-a98e-e75295b6e142.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_3a9fbbdf-efb7-44aa-a98e-e75295b6e142.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "pop, whimsical pop, vintage synths, nostalgic",
+    "prompt": "[Intro]\nHe was a frat bro\nShe was an art hoe\nCan I make it any more obvious?\nWe went to Coachella\nOn our parents' dime\nTo the tune of \"Feel Good Inc\n\" we fell in love in line\n\n[Verse 1]\nI said\n\"Do you like FIDLAR? Me too\nAnd I'm pretty sure\nThat you remind me of Adam Driver\"\nWe were young and in love\nWhite and unemployed\nAnd it's hard not to laugh\nWhen he said he has a trust fund\nI said\n\"Yeah\nThat's dumb\"\nBut he told me that I am the only one\nThe good guy\nThe hot girl\nIt's a wild world\nHe's a nerd\nBut he's rich\n\n[Pre-Chorus]\nMyspace on the moon\nHe's been cheating\nHe's been cheating\nIn the bedroom\n\n[Chorus]\n'Cause we were all living in a millennial dream\nSpending all our parents' money on some self-esteem\n\"Well\nI've always wanted to be a designer\nI love shoes\nIt's a job\nRight?\"\nAll the right opinions\nNone of the means\nGod bless being born in the nineties\nSo I wrote this song about it\nDo you wanna hear it?\nOf course you do\nYou're one of us\n[Verse 2]\nI am the worst case of being a clichè\nI am everything that I try to hate\nIn my selfie\nIn my online shopping cart\nOn my Tumblr page\nI am the worst case of being a clichè\nA Zoomer who only dates millennials\nOne day\nI know they'll say\n\"That used to be cool\nAnd now\nIt sucks\"\n\n[Pre-Chorus]\nMyspace on the moon\nHe's been cheating\nHe's been cheating\nIn the bedroom\n\n[Chorus]\n'Cause we were all living in a millennial dream\nSpending all our parents' money on some self-esteem\n\"Well\nI've always wanted to be a designer\nI love shoes\nIt's a job\nRight?\"\nAll the right opinions\nNone of the means\nGod bless being born in the nineties\nSo I wrote this song about it\nDo you wanna hear it?\nOf course you do\nYou're one of us",
+    "gpt_description_prompt": "cringey millenial pop",
+    "type": "gen",
+    "duration": 174.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-05-01T14:22:19.355Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

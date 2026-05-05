@@ -1,0 +1,229 @@
+Metadata for: My_Workspace-Untitled-69ffe133-00c4-4d6b-b3ea-927994aadd90.mp3
+Generated: 2026-05-05T17:00:28.145Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop
+
+--- Lyrics ---
+Verse 1
+Woke up feeling kinda slow today
+Body saying “maybe change your ways”
+Too much sugar, too much late-night fries
+My joints and my stomach starting to organize
+Then a little box shows up at my door
+Fresh food, colors I’ve never seen before
+Salmon, greens, berries on ice
+Suddenly dinner’s looking real nice
+Pre-Chorus
+Turn the heat down, take it slow
+Feed the body what it needs to glow
+Chorus
+Cool the fire, feel the glow
+Hungryroot got the food I need to go
+Healthy fats and fiber flow
+Every bite saying “let’s go slow”
+No stress cooking, no long route
+Anti-inflammatory with Hungryroot
+Verse 2
+Turmeric dancing in the pan tonight
+Olive oil shining in the kitchen light
+Avocado slices, greens on a plate
+Dinner looking like a wellness update
+Used to stare at the fridge at half past six
+Now I’ve got meals that actually fix
+Ten minute magic, flavor so loud
+Even my gut feeling proud
+Pre-Chorus
+Turn the heat down, take it slow
+Feed the body what it needs to glow
+Chorus
+Cool the fire, feel the glow
+Hungryroot got the food I need to go
+Healthy fats and fiber flow
+Every bite saying “let’s go slow”
+No stress cooking, no long route
+Anti-inflammatory with Hungryroot
+Bridge
+Less inflammation, more celebration
+Dinner time turned into a vacation
+Good food rhythm in every bite
+Hungryroot got my body feeling right
+Final Chorus
+Cool the fire, feel the glow
+Hungryroot got the food I need to go
+Easy meals that help me reboot
+Anti-inflammatory with Hungryroot
+
+
+Cover Art URL: https://cdn2.suno.ai/image_69ffe133-00c4-4d6b-b3ea-927994aadd90.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "69ffe133-00c4-4d6b-b3ea-927994aadd90",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/69ffe133-00c4-4d6b-b3ea-927994aadd90.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/69ffe133-00c4-4d6b-b3ea-927994aadd90.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/69ffe133-00c4-4d6b-b3ea-927994aadd90.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_69ffe133-00c4-4d6b-b3ea-927994aadd90.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_69ffe133-00c4-4d6b-b3ea-927994aadd90.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "pop",
+    "prompt": "Verse 1\nWoke up feeling kinda slow today\nBody saying “maybe change your ways”\nToo much sugar, too much late-night fries\nMy joints and my stomach starting to organize\nThen a little box shows up at my door\nFresh food, colors I’ve never seen before\nSalmon, greens, berries on ice\nSuddenly dinner’s looking real nice\nPre-Chorus\nTurn the heat down, take it slow\nFeed the body what it needs to glow\nChorus\nCool the fire, feel the glow\nHungryroot got the food I need to go\nHealthy fats and fiber flow\nEvery bite saying “let’s go slow”\nNo stress cooking, no long route\nAnti-inflammatory with Hungryroot\nVerse 2\nTurmeric dancing in the pan tonight\nOlive oil shining in the kitchen light\nAvocado slices, greens on a plate\nDinner looking like a wellness update\nUsed to stare at the fridge at half past six\nNow I’ve got meals that actually fix\nTen minute magic, flavor so loud\nEven my gut feeling proud\nPre-Chorus\nTurn the heat down, take it slow\nFeed the body what it needs to glow\nChorus\nCool the fire, feel the glow\nHungryroot got the food I need to go\nHealthy fats and fiber flow\nEvery bite saying “let’s go slow”\nNo stress cooking, no long route\nAnti-inflammatory with Hungryroot\nBridge\nLess inflammation, more celebration\nDinner time turned into a vacation\nGood food rhythm in every bite\nHungryroot got my body feeling right\nFinal Chorus\nCool the fire, feel the glow\nHungryroot got the food I need to go\nEasy meals that help me reboot\nAnti-inflammatory with Hungryroot\n",
+    "type": "gen",
+    "duration": 143.76,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-19T20:13:25.779Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

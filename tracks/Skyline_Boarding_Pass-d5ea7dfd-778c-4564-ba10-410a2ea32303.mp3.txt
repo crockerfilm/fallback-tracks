@@ -1,0 +1,190 @@
+Metadata for: My_Workspace-Skyline_Boarding_Pass-d5ea7dfd-778c-4564-ba10-410a2ea32303.mp3
+Generated: 2026-05-05T17:05:27.954Z
+
+--- Track Information ---
+Title: Skyline Boarding Pass
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: funk, Upbeat corporate-cinematic bed at ~114 BPM: bright, syncopated piano arpeggios lead over crisp pop kit, gentle tom pulses, and hand percussion. Light, wide strings carry long chords and simple soaring motifs; subtle plucks and warm sidechained pads add modern shine. Smooth sectional lifts every 8 bars—extra layers, tambourine, and octave pianos—while low impacts and reverse swells connect phrases. Always forward-moving, premium, and optimistic, perfect under voiceover., uplifting, inspiring, orchestral, bright, smooth, electronic, rhythmic, dramatic, motivating, light, stylish, steady, exciting
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_d5ea7dfd-778c-4564-ba10-410a2ea32303.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Skyline Boarding Pass",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d5ea7dfd-778c-4564-ba10-410a2ea32303",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d5ea7dfd-778c-4564-ba10-410a2ea32303.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d5ea7dfd-778c-4564-ba10-410a2ea32303.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d5ea7dfd-778c-4564-ba10-410a2ea32303.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d5ea7dfd-778c-4564-ba10-410a2ea32303.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d5ea7dfd-778c-4564-ba10-410a2ea32303.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "funk, Upbeat corporate-cinematic bed at ~114 BPM: bright, syncopated piano arpeggios lead over crisp pop kit, gentle tom pulses, and hand percussion. Light, wide strings carry long chords and simple soaring motifs; subtle plucks and warm sidechained pads add modern shine. Smooth sectional lifts every 8 bars—extra layers, tambourine, and octave pianos—while low impacts and reverse swells connect phrases. Always forward-moving, premium, and optimistic, perfect under voiceover., uplifting, inspiring, orchestral, bright, smooth, electronic, rhythmic, dramatic, motivating, light, stylish, steady, exciting",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Upbeat cinematic travel music with a modern corporate sound, energetic and inspiring mood. Bright piano melodies, rhythmic percussion, light orchestral strings, and subtle electronic textures. A steady driving groove around 110–118 BPM that feels exciting and optimistic throughout the track. The music should feel like a premium travel brand film, stylish and motivating, with smooth builds and flowing energy rather than dramatic drops. Consistent uplifting rhythm, polished production, cinematic",
+    "type": "gen",
+    "duration": 132.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-15T15:04:24.732Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "d5ea7dfd-778c-4564-ba10-410a2ea32303",
+    "updated_at": "2026-04-16T17:14:57.897Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+Metadata for: My_Workspace-Sad_Little_Life-1abacaf2-791a-481b-93ee-813781f37867.mp3
+Generated: 2026-05-05T17:57:58.272Z
+
+--- Track Information ---
+Title: Sad Little Life
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop, ultra-minimal alt-pop, cold synths, deep sub bass, slow bounce, detached male vocal, numb late-night energy, vocal, slow, bounce, deep, minimal
+
+--- Lyrics ---
+[Verse]
+Hope you're happy
+'Cause I know you're not
+And I know it 'cause you said you're happy
+Yeah it's all I've got
+Hope you're happy
+With your brand new job
+And I know it 'cause you said you're happy
+And you said you got it all
+
+[Pre-Chorus]
+All I wanted was to hold you
+But all I wanted never worked out
+And now we're stuck in your apartment
+We should be sleeping
+We should be sleeping
+
+[Chorus]
+What a sad little life
+What a sad little life
+What a sad little life
+What a sad little life
+What a sad little life
+What a sad little life
+What a sad little life
+What a sad little life
+
+Cover Art URL: https://cdn2.suno.ai/image_1abacaf2-791a-481b-93ee-813781f37867.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Sad Little Life",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "1abacaf2-791a-481b-93ee-813781f37867",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/1abacaf2-791a-481b-93ee-813781f37867.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/1abacaf2-791a-481b-93ee-813781f37867.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/1abacaf2-791a-481b-93ee-813781f37867.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_1abacaf2-791a-481b-93ee-813781f37867.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_1abacaf2-791a-481b-93ee-813781f37867.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "pop, ultra-minimal alt-pop, cold synths, deep sub bass, slow bounce, detached male vocal, numb late-night energy, vocal, slow, bounce, deep, minimal",
+    "prompt": "[Verse]\nHope you're happy\n'Cause I know you're not\nAnd I know it 'cause you said you're happy\nYeah it's all I've got\nHope you're happy\nWith your brand new job\nAnd I know it 'cause you said you're happy\nAnd you said you got it all\n\n[Pre-Chorus]\nAll I wanted was to hold you\nBut all I wanted never worked out\nAnd now we're stuck in your apartment\nWe should be sleeping\nWe should be sleeping\n\n[Chorus]\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life\nWhat a sad little life",
+    "gpt_description_prompt": "Ultra-minimal alt-pop, cold synths, deep sub bass, slow bounce, detached male vocal, numb late-night energy",
+    "type": "gen",
+    "duration": 82.76,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-10T17:53:00.093Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "1abacaf2-791a-481b-93ee-813781f37867",
+    "updated_at": "2026-02-20T19:24:52.920Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "pop, ultra-minimal alt-pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

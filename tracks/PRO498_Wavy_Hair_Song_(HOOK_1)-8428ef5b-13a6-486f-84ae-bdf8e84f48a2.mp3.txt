@@ -1,0 +1,189 @@
+Metadata for: My_Workspace-PRO498_Wavy_Hair_Song_(HOOK_1)-8428ef5b-13a6-486f-84ae-bdf8e84f48a2.mp3
+Generated: 2026-05-05T17:28:44.354Z
+
+--- Track Information ---
+Title: PRO498 Wavy Hair Song (HOOK 1)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: If it’s straight when it’s wet, then it’s frizzy when it’s dry…
+Girl, that’s not random. Those are waves in disguise.Waves can look straight when they’re not cared for right,
+Different patterns need moisture and balance to come to life.
+That’s when I took the Prose quiz and finally did it right,
+They ask about your hair, your scalp, your climate, your diet.
+My formula’s moisturizing, but never weighs me down,
+It lifts up my volume, lets my real texture bounce.Now my waves have shape, definition, shine,
+Turns out they were always there, I just needed the right design.
+Stop guessing your hair type. Don’t waste another day,
+Get 60% off Prose now and let your waves lead the way.
+
+--- Lyrics ---
+If it’s straight when it’s wet, then it’s frizzy when it’s dry…
+Girl, that’s not random. Those are waves in disguise.Waves can look straight when they’re not cared for right,
+Different patterns need moisture and balance to come to life.
+That’s when I took the Prose quiz and finally did it right,
+They ask about your hair, your scalp, your climate, your diet.
+My formula’s moisturizing, but never weighs me down,
+It lifts up my volume, lets my real texture bounce.Now my waves have shape, definition, shine,
+Turns out they were always there, I just needed the right design.
+Stop guessing your hair type. Don’t waste another day,
+Get 60% off Prose now and let your waves lead the way.
+
+Cover Art URL: https://cdn2.suno.ai/image_8428ef5b-13a6-486f-84ae-bdf8e84f48a2.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "PRO498 Wavy Hair Song (HOOK 1)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "8428ef5b-13a6-486f-84ae-bdf8e84f48a2",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/8428ef5b-13a6-486f-84ae-bdf8e84f48a2.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/8428ef5b-13a6-486f-84ae-bdf8e84f48a2.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/8428ef5b-13a6-486f-84ae-bdf8e84f48a2.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_8428ef5b-13a6-486f-84ae-bdf8e84f48a2.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_8428ef5b-13a6-486f-84ae-bdf8e84f48a2.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "",
+    "negative_tags": "",
+    "prompt": "If it’s straight when it’s wet, then it’s frizzy when it’s dry…\nGirl, that’s not random. Those are waves in disguise.Waves can look straight when they’re not cared for right,\nDifferent patterns need moisture and balance to come to life.\nThat’s when I took the Prose quiz and finally did it right,\nThey ask about your hair, your scalp, your climate, your diet.\nMy formula’s moisturizing, but never weighs me down,\nIt lifts up my volume, lets my real texture bounce.Now my waves have shape, definition, shine,\nTurns out they were always there, I just needed the right design.\nStop guessing your hair type. Don’t waste another day,\nGet 60% off Prose now and let your waves lead the way.",
+    "type": "studio_export",
+    "duration": 52.01325,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "can_remix": true,
+    "is_remix": false,
+    "studio_project_id": "5322bc30-5995-4edd-abfa-f48b35b759b4",
+    "studio_project_version_id": "a5202501-04bf-40ae-8e7b-d0910236801a",
+    "studio_project_start_beats": -1.1976701381965427,
+    "studio_project_end_beats": 98.49436660431385,
+    "has_stem": false,
+    "video_is_stale": true,
+    "uses_latest_model": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-02T18:11:25.171Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

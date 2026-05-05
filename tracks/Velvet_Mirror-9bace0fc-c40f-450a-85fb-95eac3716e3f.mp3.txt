@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Velvet_Mirror-9bace0fc-c40f-450a-85fb-95eac3716e3f.mp3
+Generated: 2026-05-05T17:37:49.657Z
+
+--- Track Information ---
+Title: Velvet Mirror
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: jazz, Silky jazz-pop groove for a chic salon, female vocals. Soft brushed drums and warm upright bass keep it upbeat yet elegant; electric piano chords shimmer under a lazy-melodic trumpet that slips in for a gentle solo after the first chorus. Light percussion and airy background “doo” harmonies lift the hook while the bass walks more playfully in the second half, ending on a smooth, held vocal note and fading horn ad-lib., soft, pop
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_9bace0fc-c40f-450a-85fb-95eac3716e3f.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet Mirror",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "9bace0fc-c40f-450a-85fb-95eac3716e3f",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/9bace0fc-c40f-450a-85fb-95eac3716e3f.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/9bace0fc-c40f-450a-85fb-95eac3716e3f.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/9bace0fc-c40f-450a-85fb-95eac3716e3f.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_9bace0fc-c40f-450a-85fb-95eac3716e3f.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_9bace0fc-c40f-450a-85fb-95eac3716e3f.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "jazz, Silky jazz-pop groove for a chic salon, female vocals. Soft brushed drums and warm upright bass keep it upbeat yet elegant; electric piano chords shimmer under a lazy-melodic trumpet that slips in for a gentle solo after the first chorus. Light percussion and airy background “doo” harmonies lift the hook while the bass walks more playfully in the second half, ending on a smooth, held vocal note and fading horn ad-lib., soft, pop",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "fashion luxy pop for a hair salon, jazz and soft pop vibes with a upbeat bass and trumpet soft solo",
+    "type": "gen",
+    "duration": 194.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-23T16:08:52.342Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "9bace0fc-c40f-450a-85fb-95eac3716e3f",
+    "updated_at": "2026-02-24T22:58:50.062Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "jazz, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

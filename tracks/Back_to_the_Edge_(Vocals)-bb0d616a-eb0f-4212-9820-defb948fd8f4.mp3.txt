@@ -1,0 +1,263 @@
+Metadata for: My_Workspace-Back_to_the_Edge_(Vocals)-bb0d616a-eb0f-4212-9820-defb948fd8f4.mp3
+Generated: 2026-05-05T19:16:18.260Z
+
+--- Track Information ---
+Title: Back to the Edge (Vocals)
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Verse]
+Pace ain't steady, my mind keep racin'
+Heart full of cracks, ain't no time for replacin'
+Every step forward, old ghosts pull me back
+The mirror talkin’ crazy, reflection attack
+
+Late nights bleedin', the past still callin'
+Phone full of numbers, but ain't no one stallin'
+Habit got claws, it scratchin' my name
+I pray to the sky, but the clouds throw blame
+
+[Prechorus]
+Caught between fightin’ and fallin' again
+This ain't survival, this feel like pretend
+
+[Chorus]
+Back to the edge, I’m close to the fire
+Feet on the wire, my soul feelin’ tired
+Back to the edge, where the dark meets the day
+Tryin’ to break free, but I’m stuck in the gray
+
+[Verse 2]
+Ash on the carpet, dreams in the ashtray
+Chasin' that high, but the fall always halfway
+Mama said pray, but my hands stay dirty
+Clock tick fast, but my soul feelin’ thirty
+
+Fake smiles crowded, the real ones gone
+I’m singin' for a life that don’t match my song
+Pills in the bottle, lies in the text
+Every bad choice, I’m still chasin' the next
+
+--- Lyrics ---
+[Verse]
+Pace ain't steady, my mind keep racin'
+Heart full of cracks, ain't no time for replacin'
+Every step forward, old ghosts pull me back
+The mirror talkin’ crazy, reflection attack
+
+Late nights bleedin', the past still callin'
+Phone full of numbers, but ain't no one stallin'
+Habit got claws, it scratchin' my name
+I pray to the sky, but the clouds throw blame
+
+[Prechorus]
+Caught between fightin’ and fallin' again
+This ain't survival, this feel like pretend
+
+[Chorus]
+Back to the edge, I’m close to the fire
+Feet on the wire, my soul feelin’ tired
+Back to the edge, where the dark meets the day
+Tryin’ to break free, but I’m stuck in the gray
+
+[Verse 2]
+Ash on the carpet, dreams in the ashtray
+Chasin' that high, but the fall always halfway
+Mama said pray, but my hands stay dirty
+Clock tick fast, but my soul feelin’ thirty
+
+Fake smiles crowded, the real ones gone
+I’m singin' for a life that don’t match my song
+Pills in the bottle, lies in the text
+Every bad choice, I’m still chasin' the next
+
+Cover Art URL: https://cdn2.suno.ai/image_bb0d616a-eb0f-4212-9820-defb948fd8f4.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Back to the Edge (Vocals)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "bb0d616a-eb0f-4212-9820-defb948fd8f4",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/bb0d616a-eb0f-4212-9820-defb948fd8f4.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/bb0d616a-eb0f-4212-9820-defb948fd8f4.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/bb0d616a-eb0f-4212-9820-defb948fd8f4.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_bb0d616a-eb0f-4212-9820-defb948fd8f4.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_bb0d616a-eb0f-4212-9820-defb948fd8f4.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Verse]\nPace ain't steady, my mind keep racin'\nHeart full of cracks, ain't no time for replacin'\nEvery step forward, old ghosts pull me back\nThe mirror talkin’ crazy, reflection attack\n\nLate nights bleedin', the past still callin'\nPhone full of numbers, but ain't no one stallin'\nHabit got claws, it scratchin' my name\nI pray to the sky, but the clouds throw blame\n\n[Prechorus]\nCaught between fightin’ and fallin' again\nThis ain't survival, this feel like pretend\n\n[Chorus]\nBack to the edge, I’m close to the fire\nFeet on the wire, my soul feelin’ tired\nBack to the edge, where the dark meets the day\nTryin’ to break free, but I’m stuck in the gray\n\n[Verse 2]\nAsh on the carpet, dreams in the ashtray\nChasin' that high, but the fall always halfway\nMama said pray, but my hands stay dirty\nClock tick fast, but my soul feelin’ thirty\n\nFake smiles crowded, the real ones gone\nI’m singin' for a life that don’t match my song\nPills in the bottle, lies in the text\nEvery bad choice, I’m still chasin' the next",
+    "history": [
+      {
+        "id": "52734479-8c63-4bed-8132-10e21f80df17",
+        "type": "gen",
+        "infill": false,
+        "source": "web",
+        "stem_task": "two",
+        "stem_from_id": "52734479-8c63-4bed-8132-10e21f80df17",
+        "stem_type_id": 91,
+        "stem_type_group_name": "Two"
+      }
+    ],
+    "stem_from_id": "52734479-8c63-4bed-8132-10e21f80df17",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "52734479-8c63-4bed-8132-10e21f80df17",
+    "type": "gen",
+    "duration": 90.28,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-28T13:49:54.557Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

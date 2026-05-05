@@ -1,0 +1,223 @@
+Metadata for: My_Workspace-Velvet_Nights-0e476fb0-b8b5-4301-ac32-029fc1ed0838.mp3
+Generated: 2026-05-05T19:19:30.387Z
+
+--- Track Information ---
+Title: Velvet Nights
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: warm, slow, rap, soulful, thick bass, 85 bpm, deep baritone male vocals, smooth, confident and charismatic, smooth boom-bap beat, crisp snares, jazzy, mellow, male vocals, classic, 90s mellow rap, deep, jazzy chords
+
+--- Lyrics ---
+[Verse]
+City lights drip gold, streets paved in velvet
+Cigars in the air, smell it, ain't hard to sell it
+Cooler than the breeze when it whispers through alleys
+Money talks louder than the horns in the valleys
+
+My stride got a rhythm, my words got a sway
+Pockets fat, I’m the bank where the interest lay
+Dice roll in the dark, shadows lean on the wall
+Even silence here got swagger, stand tall
+
+[Chorus]
+Velvet nights, they roll so smooth
+Every step I take, got nothing to prove
+Crisp snares snapping, chords hum the mood
+Velvet nights, yeah, they groove, they groove
+
+[Verse 2]
+Slicker than oil spills, charm thick as molasses
+Eyes cut sharper than designer glasses
+Chessboard moves, play the long game in silence
+Enemies dance, they don’t want the violence
+
+Every syllable's silk, each pause is gold
+Even my stillness got stories untold
+Ladies' eyes follow, they know I’m the type
+Velvet nights, slow burn, a flame in the night
+
+[Bridge]
+Bassline walking, heartbeat steady
+World’s on my back, and I’m calm, I'm ready
+Chords like whispers, they echo my tone
+On these velvet nights, I’m a king on my throne
+
+Cover Art URL: https://cdn2.suno.ai/image_0e476fb0-b8b5-4301-ac32-029fc1ed0838.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet Nights",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "0e476fb0-b8b5-4301-ac32-029fc1ed0838",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/0e476fb0-b8b5-4301-ac32-029fc1ed0838.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/0e476fb0-b8b5-4301-ac32-029fc1ed0838.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/0e476fb0-b8b5-4301-ac32-029fc1ed0838.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_0e476fb0-b8b5-4301-ac32-029fc1ed0838.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_0e476fb0-b8b5-4301-ac32-029fc1ed0838.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "warm, slow, rap, soulful, thick bass, 85 bpm, deep baritone male vocals, smooth, confident and charismatic, smooth boom-bap beat, crisp snares, jazzy, mellow, male vocals, classic, 90s mellow rap, deep, jazzy chords",
+    "prompt": "[Verse]\nCity lights drip gold, streets paved in velvet\nCigars in the air, smell it, ain't hard to sell it\nCooler than the breeze when it whispers through alleys\nMoney talks louder than the horns in the valleys\n\nMy stride got a rhythm, my words got a sway\nPockets fat, I’m the bank where the interest lay\nDice roll in the dark, shadows lean on the wall\nEven silence here got swagger, stand tall\n\n[Chorus]\nVelvet nights, they roll so smooth\nEvery step I take, got nothing to prove\nCrisp snares snapping, chords hum the mood\nVelvet nights, yeah, they groove, they groove\n\n[Verse 2]\nSlicker than oil spills, charm thick as molasses\nEyes cut sharper than designer glasses\nChessboard moves, play the long game in silence\nEnemies dance, they don’t want the violence\n\nEvery syllable's silk, each pause is gold\nEven my stillness got stories untold\nLadies' eyes follow, they know I’m the type\nVelvet nights, slow burn, a flame in the night\n\n[Bridge]\nBassline walking, heartbeat steady\nWorld’s on my back, and I’m calm, I'm ready\nChords like whispers, they echo my tone\nOn these velvet nights, I’m a king on my throne",
+    "gpt_description_prompt": "“85 BPM mellow 90s rap. Deep baritone voice with slow, rolling, charismatic flow. Smooth boom-bap beat with soulful chords and thick bass. Calm, cool, confident energy with flirtatious swagger.”“Classic 90s East Coast groove at 85 BPM. Deep silky male vocals, relaxed pocket, big presence. Jazzy chords, warm bass, crisp snares. Smooth, classy, boss-like vibe.”",
+    "type": "gen",
+    "duration": 113.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:29:46.474Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "0e476fb0-b8b5-4301-ac32-029fc1ed0838",
+    "updated_at": "2025-12-03T20:11:42.859Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "rap, boom-bap, jazz rap",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

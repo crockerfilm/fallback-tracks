@@ -1,0 +1,216 @@
+Metadata for: My_Workspace-Untitled-7a0b012b-1db5-4cc3-833b-b27a51de7759.mp3
+Generated: 2026-05-05T18:29:48.253Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt:  (SMOOTH LATIN / CHILL HOUSE)
+
+--- Lyrics ---
+[Verse 1]
+Late lunch, long day, I know the weight
+It lingers when the pace won’t break
+I don’t need a big change tonight
+Just want the feeling to sit right
+[Pre-Chorus]
+Let it move, let it go
+Find the rhythm, find the flow
+[Chorus]
+I want it easy, I want it light
+A little Dose and I’m alright
+After the meal, I take it slow
+Help me find that steady flow
+I want it easy, not a fight
+Just smooth again, just right
+A little Dose, and we’re back in line
+Easy, light, every time
+[Verse 2]
+Not chasing perfect, just less heavy
+More “I’m good,” more “I’m ready”
+Keep the day from feeling stuck
+Keep it moving, keep the luck
+[Bridge]
+Quiet help, in the background
+No big speech, no loud sound
+Just a little support that shows up
+[Final Chorus]
+I want it easy, I want it light… (repeat)
+
+
+Cover Art URL: https://cdn2.suno.ai/image_7a0b012b-1db5-4cc3-833b-b27a51de7759.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "7a0b012b-1db5-4cc3-833b-b27a51de7759",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/7a0b012b-1db5-4cc3-833b-b27a51de7759.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/7a0b012b-1db5-4cc3-833b-b27a51de7759.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/7a0b012b-1db5-4cc3-833b-b27a51de7759.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_7a0b012b-1db5-4cc3-833b-b27a51de7759.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_7a0b012b-1db5-4cc3-833b-b27a51de7759.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": " (SMOOTH LATIN / CHILL HOUSE)",
+    "prompt": "[Verse 1]\nLate lunch, long day, I know the weight\nIt lingers when the pace won’t break\nI don’t need a big change tonight\nJust want the feeling to sit right\n[Pre-Chorus]\nLet it move, let it go\nFind the rhythm, find the flow\n[Chorus]\nI want it easy, I want it light\nA little Dose and I’m alright\nAfter the meal, I take it slow\nHelp me find that steady flow\nI want it easy, not a fight\nJust smooth again, just right\nA little Dose, and we’re back in line\nEasy, light, every time\n[Verse 2]\nNot chasing perfect, just less heavy\nMore “I’m good,” more “I’m ready”\nKeep the day from feeling stuck\nKeep it moving, keep the luck\n[Bridge]\nQuiet help, in the background\nNo big speech, no loud sound\nJust a little support that shows up\n[Final Chorus]\nI want it easy, I want it light… (repeat)\n",
+    "type": "gen",
+    "duration": 142.4,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-14T18:22:42.744Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "7a0b012b-1db5-4cc3-833b-b27a51de7759",
+    "updated_at": "2026-01-15T18:03:19Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

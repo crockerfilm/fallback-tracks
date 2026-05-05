@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Silk_Glow_Loop-f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.mp3
+Generated: 2026-05-05T18:38:07.057Z
+
+--- Track Information ---
+Title: Silk Glow Loop
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop, Mid-tempo modern R&B / chill pop groove, glossy and minimal. Warm sidechained pads, soft round bass, and a tight, cushioned drum pocket keep it swaying. Subtle plucked guitar and glassy synth sprinkles glide in and out; filtered noise swells and reverse FX give a moisturizing, silky wash. Arrangement stays loop-friendly with gentle 8-bar builds and drops, always polished and premium, perfect for luxury skincare visuals., clean, groovy, light, warm, sensual, smooth, r&b, fresh, soft
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Silk Glow Loop",
+  "play_count": 7,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "f4e15d27-1edf-4351-90a7-e2f2f1fd3c58",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_f4e15d27-1edf-4351-90a7-e2f2f1fd3c58.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "pop, Mid-tempo modern R&B / chill pop groove, glossy and minimal. Warm sidechained pads, soft round bass, and a tight, cushioned drum pocket keep it swaying. Subtle plucked guitar and glassy synth sprinkles glide in and out; filtered noise swells and reverse FX give a moisturizing, silky wash. Arrangement stays loop-friendly with gentle 8-bar builds and drops, always polished and premium, perfect for luxury skincare visuals., clean, groovy, light, warm, sensual, smooth, r&b, fresh, soft",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Trendy, vibey instrumental background music for a luxury body butter ad. Warm and silky mood, modern R&B / chill pop inspired. Smooth groovy beat, soft bass, subtle guitar or synth textures, airy pads, light percussion. Feels moisturizing, sensual, confident, and fresh. Mid-tempo, polished, premium commercial sound. No vocals. Clean mix, loop-friendly, perfect for beauty and skincare advertising.",
+    "type": "gen",
+    "duration": 119.88,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-06T20:11:30.347Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 7,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "f4e15d27-1edf-4351-90a7-e2f2f1fd3c58",
+    "updated_at": "2026-01-08T01:45:15.507Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "pop, R&B",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

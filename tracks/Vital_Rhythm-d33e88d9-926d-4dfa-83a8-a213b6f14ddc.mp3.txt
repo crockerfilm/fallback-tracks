@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Vital_Rhythm-d33e88d9-926d-4dfa-83a8-a213b6f14ddc.mp3
+Generated: 2026-05-05T17:42:44.703Z
+
+--- Track Information ---
+Title: Vital Rhythm
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Glossy contemporary wellness bed with a steady heartbeat-like low-end pulse, minimal hi-hat ticks, and crisp, tiny percussion clicks. Soft felt piano stabs add precise accents, while airy, high-end synth pads create a scientific, premium sheen. Sub-bass stays calm and confident, with subtle filtered sweeps between sections for motion. Ideal loopable structure for commercial VO: consistent groove, understated builds, and professional, clean mix choices that always support clarity., steady, emotional, soft, ambient, clean, minimal
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_d33e88d9-926d-4dfa-83a8-a213b6f14ddc.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Vital Rhythm",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d33e88d9-926d-4dfa-83a8-a213b6f14ddc",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d33e88d9-926d-4dfa-83a8-a213b6f14ddc.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d33e88d9-926d-4dfa-83a8-a213b6f14ddc.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d33e88d9-926d-4dfa-83a8-a213b6f14ddc.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d33e88d9-926d-4dfa-83a8-a213b6f14ddc.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d33e88d9-926d-4dfa-83a8-a213b6f14ddc.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Glossy contemporary wellness bed with a steady heartbeat-like low-end pulse, minimal hi-hat ticks, and crisp, tiny percussion clicks. Soft felt piano stabs add precise accents, while airy, high-end synth pads create a scientific, premium sheen. Sub-bass stays calm and confident, with subtle filtered sweeps between sections for motion. Ideal loopable structure for commercial VO: consistent groove, understated builds, and professional, clean mix choices that always support clarity., steady, emotional, soft, ambient, clean, minimal",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Instrumental only, no vocals. Modern, sleek commercial track for a heart health supplement. Trendy but serious and trustworthy. Steady heartbeat-inspired bass pulse, clean minimal percussion, soft piano accents, subtle ambient synth textures. Polished, premium, scientific wellness vibe. Confident, calm, professional. Not cinematic, not emotional, not aggressive.",
+    "type": "gen",
+    "duration": 163.96,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-17T23:56:57.238Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "d33e88d9-926d-4dfa-83a8-a213b6f14ddc",
+    "updated_at": "2026-02-19T13:30:16.906Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "ambient, minimal",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

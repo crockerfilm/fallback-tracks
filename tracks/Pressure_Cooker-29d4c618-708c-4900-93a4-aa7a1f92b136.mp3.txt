@@ -1,0 +1,221 @@
+Metadata for: My_Workspace-Pressure_Cooker-29d4c618-708c-4900-93a4-aa7a1f92b136.mp3
+Generated: 2026-05-05T19:20:00.565Z
+
+--- Track Information ---
+Title: Pressure Cooker
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: raw, tone, layered vocal harmonies. quick transitions between singing and rapping. warm reverb, heartfelt, soft, rap, heavy 808s, skittering hi-hats, emotional tension, melodic pain-rap, vocal, emotional tone. loose louisiana cadence. instrumentation: minor-key piano loop, 155bpm. melodic rap-singing with a raspy, emotional, emotional pitch bends. occasional soft ad-libs for texture.
+
+--- Lyrics ---
+[Verse]
+Pressure cooking, steam rising from my soul, mmh
+Hands gripping tight, world trying to take control, look
+My shadow fights my steps, dragging through the coals
+Staring in the mirror, see the cracks, I’m whole
+
+Late nights, demons creeping like a slow jam
+Heart heavy, trying to float, but I got no plan
+A tightrope walk, no net, no hand
+Screaming at the void, only echoes stand
+
+[Prechorus]
+Mmh… they don’t see what’s under my skin
+Yeah… I’m fighting battles they’ll never win
+
+[Chorus]
+Pressure cooker, I’m boiling inside
+World too cold, but I’m burning alive
+Trying to stand tall, but the weight’s on my spine
+Every scar I carry tells me I’ll survive
+
+Pressure cooker, yeah, ready to blow
+They can’t see it, they don’t need to know
+I keep climbing, even when it’s slow
+Pressure builds diamonds, I’m starting to glow
+
+[Verse 2]
+Momma called, said, “Baby, don’t lose your light”
+But the streets got claws, trying to snatch my fight
+Trauma in my chest, can’t sleep at night
+Ghosts in my past, whisper wrong from right
+
+Cover Art URL: https://cdn2.suno.ai/image_29d4c618-708c-4900-93a4-aa7a1f92b136.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Pressure Cooker",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "29d4c618-708c-4900-93a4-aa7a1f92b136",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/29d4c618-708c-4900-93a4-aa7a1f92b136.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/29d4c618-708c-4900-93a4-aa7a1f92b136.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/29d4c618-708c-4900-93a4-aa7a1f92b136.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_29d4c618-708c-4900-93a4-aa7a1f92b136.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_29d4c618-708c-4900-93a4-aa7a1f92b136.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "raw, tone, layered vocal harmonies. quick transitions between singing and rapping. warm reverb, heartfelt, soft, rap, heavy 808s, skittering hi-hats, emotional tension, melodic pain-rap, vocal, emotional tone. loose louisiana cadence. instrumentation: minor-key piano loop, 155bpm. melodic rap-singing with a raspy, emotional, emotional pitch bends. occasional soft ad-libs for texture.",
+    "prompt": "[Verse]\nPressure cooking, steam rising from my soul, mmh\nHands gripping tight, world trying to take control, look\nMy shadow fights my steps, dragging through the coals\nStaring in the mirror, see the cracks, I’m whole\n\nLate nights, demons creeping like a slow jam\nHeart heavy, trying to float, but I got no plan\nA tightrope walk, no net, no hand\nScreaming at the void, only echoes stand\n\n[Prechorus]\nMmh… they don’t see what’s under my skin\nYeah… I’m fighting battles they’ll never win\n\n[Chorus]\nPressure cooker, I’m boiling inside\nWorld too cold, but I’m burning alive\nTrying to stand tall, but the weight’s on my spine\nEvery scar I carry tells me I’ll survive\n\nPressure cooker, yeah, ready to blow\nThey can’t see it, they don’t need to know\nI keep climbing, even when it’s slow\nPressure builds diamonds, I’m starting to glow\n\n[Verse 2]\nMomma called, said, “Baby, don’t lose your light”\nBut the streets got claws, trying to snatch my fight\nTrauma in my chest, can’t sleep at night\nGhosts in my past, whisper wrong from right",
+    "gpt_description_prompt": "155bpm\nGenre & Mood:\nMelodic pain-rap with emotional tension. Raw, personal, reflective. A mix of vulnerability and defiance. A young artist trying to stay focused while battling trauma, impulses, and pressure.\nVocal Style:\nMelodic rap-singing with a slightly raspy, emotional tone. Loose Louisiana cadence without imitating any specific artist. Quick switches between singing and rapping. Occasional soft ad-libs (“yeah…”, “mmh…”, “look”). Expressive pitch bends, heartfelt delivery.\n",
+    "type": "gen",
+    "duration": 86.48,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:23:06.821Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "29d4c618-708c-4900-93a4-aa7a1f92b136",
+    "updated_at": "2025-11-26T19:25:10.625Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "melodic rap, pain rap, hip hop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

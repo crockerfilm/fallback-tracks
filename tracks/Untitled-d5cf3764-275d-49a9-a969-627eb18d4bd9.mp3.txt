@@ -1,0 +1,244 @@
+Metadata for: My_Workspace-Untitled-d5cf3764-275d-49a9-a969-627eb18d4bd9.mp3
+Generated: 2026-05-05T16:46:12.321Z
+
+--- Track Information ---
+Title: Untitled
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Upbeat funk-pop / pop electronic, 118–124 BPM, designed as a catchy background track for a haircare video.
+
+Duration: around 2 minutes (120 seconds).
+
+Energetic groove with a punchy but clean kick, snappy claps, syncopated shaker patterns, and light rhythmic percussion. Bright plucky synths, playful melodies, subtle bass groove, and occasional guitar accents.
+
+Start with a quick, attention-grabbing intro (first 2–3 seconds), then transition into a steady, engaging rhythm.
+
+Develop the track over time with subtle variations every 15–20 seconds (adding/removing elements, small melodic changes) to keep it interesting without overpowering.
+
+Maintain consistent energy throughout, suitable for voiceover. Avoid heavy drops.
+
+Structure: short intro → main groove → evolving sections → slight breakdown → final groove → smooth outro.
+
+Mood: fun, fresh, confident, and modern.
+
+
+Cover Art URL: https://cdn2.suno.ai/image_d5cf3764-275d-49a9-a969-627eb18d4bd9.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Untitled",
+  "play_count": 6,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "d5cf3764-275d-49a9-a969-627eb18d4bd9",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/d5cf3764-275d-49a9-a969-627eb18d4bd9.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/d5cf3764-275d-49a9-a969-627eb18d4bd9.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/d5cf3764-275d-49a9-a969-627eb18d4bd9.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_d5cf3764-275d-49a9-a969-627eb18d4bd9.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_d5cf3764-275d-49a9-a969-627eb18d4bd9.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Upbeat funk-pop / pop electronic, 118–124 BPM, designed as a catchy background track for a haircare video.\n\nDuration: around 2 minutes (120 seconds).\n\nEnergetic groove with a punchy but clean kick, snappy claps, syncopated shaker patterns, and light rhythmic percussion. Bright plucky synths, playful melodies, subtle bass groove, and occasional guitar accents.\n\nStart with a quick, attention-grabbing intro (first 2–3 seconds), then transition into a steady, engaging rhythm.\n\nDevelop the track over time with subtle variations every 15–20 seconds (adding/removing elements, small melodic changes) to keep it interesting without overpowering.\n\nMaintain consistent energy throughout, suitable for voiceover. Avoid heavy drops.\n\nStructure: short intro → main groove → evolving sections → slight breakdown → final groove → smooth outro.\n\nMood: fun, fresh, confident, and modern.",
+    "prompt": "",
+    "history": [
+      {
+        "infill": false,
+        "id": "5758fac1-a00b-43fc-ba9b-8c8ce674b14c",
+        "source": "web",
+        "type": "gen",
+        "continue_at": 17.92
+      }
+    ],
+    "edited_clip_id": "5758fac1-a00b-43fc-ba9b-8c8ce674b14c",
+    "continue_at": 17.92,
+    "type": "gen",
+    "duration": 39,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "extend",
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "secondary_badges": [
+      {
+        "display_name": "Extend 1",
+        "icon_key": "part",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-31T13:27:43.682Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 6,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "d5cf3764-275d-49a9-a969-627eb18d4bd9",
+    "updated_at": "2026-04-30T20:23:33.272Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "funk-pop, pop electronic, upbeat dance-pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Rise_Above-035ad978-7281-4375-83de-cc0668c3a75b.mp3
+Generated: 2026-05-05T19:57:15.477Z
+
+--- Track Information ---
+Title: Rise Above
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: gospel, soul, gospel-inspired harmonies, head-nodding, jazzy chords, boom bap drums, 2000s hip hop feel, uplifting, classic hip hop groove, bassline, hip hop, chopped soul samples, uplifting mood, vinyl crackle, warm bassline, warm, jazz, soulful hip hop, soulful, jazzy, classic
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_035ad978-7281-4375-83de-cc0668c3a75b.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Rise Above",
+  "play_count": 4,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "035ad978-7281-4375-83de-cc0668c3a75b",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/035ad978-7281-4375-83de-cc0668c3a75b.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/035ad978-7281-4375-83de-cc0668c3a75b.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/035ad978-7281-4375-83de-cc0668c3a75b.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_035ad978-7281-4375-83de-cc0668c3a75b.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_035ad978-7281-4375-83de-cc0668c3a75b.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "gospel, soul, gospel-inspired harmonies, head-nodding, jazzy chords, boom bap drums, 2000s hip hop feel, uplifting, classic hip hop groove, bassline, hip hop, chopped soul samples, uplifting mood, vinyl crackle, warm bassline, warm, jazz, soulful hip hop, soulful, jazzy, classic",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "soulful hip hop, chopped soul samples, boom bap drums, vinyl crackle, jazzy chords, warm bassline, gospel-inspired harmonies, classic hip hop groove, uplifting mood, 2000s hip hop feel, head-nodding",
+    "type": "gen",
+    "duration": 109.08,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-13T01:42:12.140Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 4,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "035ad978-7281-4375-83de-cc0668c3a75b",
+    "updated_at": "2025-11-14T20:19:12.443Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "gospel, soul, hip hop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

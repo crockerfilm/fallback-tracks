@@ -1,0 +1,359 @@
+Metadata for: My_Workspace-Friendship,_Inhaler_(Vocals)-6a56e705-833f-4a12-a32d-05764050bbb1.mp3
+Generated: 2026-05-05T17:52:27.645Z
+
+--- Track Information ---
+Title: Friendship, Inhaler (Vocals)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Verse]
+I just gotta have a good time
+But you're really not my type
+Not even for the night
+You should stick with your side chick
+I'ma tell you what I like
+'Cause I only got one life
+You can stay in line
+This is what you can't provide
+[Pre-Chorus]
+I like bad boys
+Hood boys
+Boys with tattoos
+Men who drive a fast car
+Who just don't lose
+Men who got their own thing
+Who just stay true
+I like bad boys
+Hood boys
+Boys with tattoos
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+
+[Verse 2]
+Yeah
+I got a friend who's a good guy
+You could really be his type
+Maybe for the night
+You should go and have a good time
+[Pre-Chorus]
+He likes good girls
+Sweet girls
+Girls with a dog
+Women who are all his
+Who don't need to talk
+Women who can help him find his heart
+It was lost
+He likes good girls
+Sweet girls
+Girls with a dog
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+
+[Pre-Chorus]
+I like bad boys
+Hood boys
+Boys with tattoos
+Men who drive a fast car
+Who just don't lose
+Men who got their own thing
+Who just stay true
+I like bad boys
+Hood boys
+Boys with tattoos
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+
+--- Lyrics ---
+[Verse]
+I just gotta have a good time
+But you're really not my type
+Not even for the night
+You should stick with your side chick
+I'ma tell you what I like
+'Cause I only got one life
+You can stay in line
+This is what you can't provide
+[Pre-Chorus]
+I like bad boys
+Hood boys
+Boys with tattoos
+Men who drive a fast car
+Who just don't lose
+Men who got their own thing
+Who just stay true
+I like bad boys
+Hood boys
+Boys with tattoos
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+
+[Verse 2]
+Yeah
+I got a friend who's a good guy
+You could really be his type
+Maybe for the night
+You should go and have a good time
+[Pre-Chorus]
+He likes good girls
+Sweet girls
+Girls with a dog
+Women who are all his
+Who don't need to talk
+Women who can help him find his heart
+It was lost
+He likes good girls
+Sweet girls
+Girls with a dog
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+
+[Pre-Chorus]
+I like bad boys
+Hood boys
+Boys with tattoos
+Men who drive a fast car
+Who just don't lose
+Men who got their own thing
+Who just stay true
+I like bad boys
+Hood boys
+Boys with tattoos
+
+[Chorus]
+And it goes like
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+Hey
+
+Cover Art URL: https://cdn2.suno.ai/image_6a56e705-833f-4a12-a32d-05764050bbb1.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Friendship, Inhaler (Vocals)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "6a56e705-833f-4a12-a32d-05764050bbb1",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/6a56e705-833f-4a12-a32d-05764050bbb1.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/6a56e705-833f-4a12-a32d-05764050bbb1.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/6a56e705-833f-4a12-a32d-05764050bbb1.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_6a56e705-833f-4a12-a32d-05764050bbb1.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_6a56e705-833f-4a12-a32d-05764050bbb1.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Verse]\nI just gotta have a good time\nBut you're really not my type\nNot even for the night\nYou should stick with your side chick\nI'ma tell you what I like\n'Cause I only got one life\nYou can stay in line\nThis is what you can't provide\n[Pre-Chorus]\nI like bad boys\nHood boys\nBoys with tattoos\nMen who drive a fast car\nWho just don't lose\nMen who got their own thing\nWho just stay true\nI like bad boys\nHood boys\nBoys with tattoos\n\n[Chorus]\nAnd it goes like\nHey\nHey\nHey\nHey\n\n[Verse 2]\nYeah\nI got a friend who's a good guy\nYou could really be his type\nMaybe for the night\nYou should go and have a good time\n[Pre-Chorus]\nHe likes good girls\nSweet girls\nGirls with a dog\nWomen who are all his\nWho don't need to talk\nWomen who can help him find his heart\nIt was lost\nHe likes good girls\nSweet girls\nGirls with a dog\n\n[Chorus]\nAnd it goes like\nHey\nHey\nHey\nHey\nHey\nHey\nHey\nHey\n\n[Pre-Chorus]\nI like bad boys\nHood boys\nBoys with tattoos\nMen who drive a fast car\nWho just don't lose\nMen who got their own thing\nWho just stay true\nI like bad boys\nHood boys\nBoys with tattoos\n\n[Chorus]\nAnd it goes like\nHey\nHey\nHey\nHey\nHey\nHey\nHey\nHey",
+    "history": [
+      {
+        "id": "f3c1fc17-097d-4fd5-9d6c-ce0605179816",
+        "type": "gen",
+        "infill": false,
+        "source": "web",
+        "stem_task": "two",
+        "stem_from_id": "f3c1fc17-097d-4fd5-9d6c-ce0605179816",
+        "stem_type_id": 91,
+        "stem_type_group_name": "Two"
+      }
+    ],
+    "stem_from_id": "f3c1fc17-097d-4fd5-9d6c-ce0605179816",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "f3c1fc17-097d-4fd5-9d6c-ce0605179816",
+    "type": "gen",
+    "duration": 119.72,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-10T19:55:13.285Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 2,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+Metadata for: My_Workspace-Replace_00_00-00_22_(02_13_PM_Apr_03)-e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.mp3
+Generated: 2026-05-05T16:40:03.250Z
+
+--- Track Information ---
+Title: Replace 00:00-00:22 (02:13 PM Apr 03)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad
+
+--- Lyrics ---
+and gravy
+For a label that don't make amends.
+
+Cover Art URL: https://cdn2.suno.ai/image_e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Replace 00:00-00:22 (02:13 PM Apr 03)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "e087cd1c-9d21-4059-b7f2-89f0f9c5ee14",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_e087cd1c-9d21-4059-b7f2-89f0f9c5ee14.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "classic country, traditional country, acoustic guitar, steel guitar, fiddle, brushed snare, slow tempo, warm vocals, lived-in delivery, slight gravel, conversational, intimate, americana, singer-songwriter, storytelling, southern, nostalgic, heartfelt, rootsy, organic production, subtle bass, midrange focus, light reverb, no pop gloss, 72 BPM, country ballad",
+    "prompt": "and gravy\nFor a label that don't make amends.\n\n[Chorus]\nJust a little orange shot every morning,\nTwo ounces, two seconds, that's all.\nSupport your cholesterol, keep on living.\nDon't let the worry take the wheel.\nT",
+    "history": [
+      {
+        "infill_context_end_s": 68.47920833333333,
+        "infill": true,
+        "infill_lyrics": "and gravy\nFor a label that don't make amends.",
+        "infill_req_duration_s": 23.36,
+        "source": "web",
+        "type": "rendered_context_window",
+        "infill_end_s": 45.92,
+        "include_history_s": 22.56,
+        "infill_start_s": 22.56,
+        "lyrics_updated": false,
+        "infill_dur_s": 23.36,
+        "infill_context_start_s": 0,
+        "id": "2f78cf90-8f26-4aed-a607-25c43e30c29d",
+        "include_future_s": 22.56
+      }
+    ],
+    "edited_clip_id": "2f78cf90-8f26-4aed-a607-25c43e30c29d",
+    "lyrics_updated": false,
+    "type": "gen",
+    "duration": 84.12,
+    "refund_credits": false,
+    "stream": true,
+    "infill": true,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "make_instrumental": false,
+    "task": "infill",
+    "infill_lyrics": "and gravy\nFor a label that don't make amends.",
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "override_future_clip_id": "903aef21-af02-40f9-9eb4-b44923425d3b",
+    "override_future_start_seconds": 36.26408228066475,
+    "studio_project_start_beats": -33.012192913623466,
+    "studio_project_end_beats": 64,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "secondary_badges": [
+      {
+        "display_name": "Section",
+        "icon_key": "section",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-03T18:13:30.216Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "classic country, traditional country, country ballad",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

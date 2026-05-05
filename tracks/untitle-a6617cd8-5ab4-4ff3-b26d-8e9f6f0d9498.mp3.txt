@@ -1,0 +1,199 @@
+Metadata for: My_Workspace-untitle-a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.mp3
+Generated: 2026-05-05T16:40:56.895Z
+
+--- Track Information ---
+Title: untitle
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Hard rock with heavy metal influences. Distorted electric guitars play palm-muted chugging riffs and power chords. A high-gain lead guitar performs a fast, technical solo featuring rapid alternate picking, legato runs, and wide vibrato. The bass guitar follows the root notes of the guitar riffs with a gritty, overdriven tone. Acoustic drums feature a prominent double-kick pedal pattern, a sharp snare crack, and frequent crash cymbal accents. 140 BPM. E minor. 4/4 time signature.
+
+--- Lyrics ---
+[Instrumental]
+
+[Intro]
+[distorted electric guitar chugging riff, double-kick drums]
+
+[Main Theme]
+[harmonized power chords, driving drum beat]
+
+[Guitar Solo]
+[high-gain lead guitar enters, rapid alternate picking, wah-wah pedal effect]
+[pinch harmonics, dive bombs]
+
+[Outro]
+[sustained power chord, final drum fill, cymbal crash]
+
+Cover Art URL: https://cdn2.suno.ai/image_a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "untitle",
+  "play_count": 5,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498.jpeg",
+  "major_model_version": "",
+  "model_name": "chirp-chirp",
+  "metadata": {
+    "tags": "Hard rock with heavy metal influences. Distorted electric guitars play palm-muted chugging riffs and power chords. A high-gain lead guitar performs a fast, technical solo featuring rapid alternate picking, legato runs, and wide vibrato. The bass guitar follows the root notes of the guitar riffs with a gritty, overdriven tone. Acoustic drums feature a prominent double-kick pedal pattern, a sharp snare crack, and frequent crash cymbal accents. 140 BPM. E minor. 4/4 time signature.",
+    "prompt": "[Instrumental]\n\n[Intro]\n[distorted electric guitar chugging riff, double-kick drums]\n\n[Main Theme]\n[harmonized power chords, driving drum beat]\n\n[Guitar Solo]\n[high-gain lead guitar enters, rapid alternate picking, wah-wah pedal effect]\n[pinch harmonics, dive bombs]\n\n[Outro]\n[sustained power chord, final drum fill, cymbal crash]",
+    "type": "upload",
+    "duration": 9.219270833333333,
+    "has_vocal": true,
+    "can_publish_with_vocal": true,
+    "is_audio_upload_tos_accepted": true,
+    "can_remix": true,
+    "is_remix": false,
+    "has_stem": false,
+    "video_is_stale": true,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Upload",
+        "icon_key": "uploaded",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ]
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-03T12:49:26.799Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 5,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "a6617cd8-5ab4-4ff3-b26d-8e9f6f0d9498",
+    "updated_at": "2026-04-03T20:40:15.944Z"
+  },
+  "is_following_creator": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "hard rock, heavy metal, guitar solo",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

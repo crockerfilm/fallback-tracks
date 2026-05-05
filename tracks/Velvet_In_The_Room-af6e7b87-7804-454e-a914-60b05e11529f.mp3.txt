@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Velvet_In_The_Room-af6e7b87-7804-454e-a914-60b05e11529f.mp3
+Generated: 2026-05-05T17:36:01.641Z
+
+--- Track Information ---
+Title: Velvet In The Room
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Silky midtempo R&B-pop groove at 92 BPM; warm Rhodes chords, soft sub bass and brushed snares under sultry female vocals. Verses stay intimate with close-mic whispers and subtle string pads, chorus blooms with stacked harmonies, twinkling bells, and a graceful top-line hook. Light guitar flourishes and airy reverb give a luxe, champagne-at-midnight sheen.
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_af6e7b87-7804-454e-a914-60b05e11529f.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet In The Room",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "af6e7b87-7804-454e-a914-60b05e11529f",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/af6e7b87-7804-454e-a914-60b05e11529f.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/af6e7b87-7804-454e-a914-60b05e11529f.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/af6e7b87-7804-454e-a914-60b05e11529f.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_af6e7b87-7804-454e-a914-60b05e11529f.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_af6e7b87-7804-454e-a914-60b05e11529f.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "Silky midtempo R&B-pop groove at 92 BPM; warm Rhodes chords, soft sub bass and brushed snares under sultry female vocals. Verses stay intimate with close-mic whispers and subtle string pads, chorus blooms with stacked harmonies, twinkling bells, and a graceful top-line hook. Light guitar flourishes and airy reverb give a luxe, champagne-at-midnight sheen.",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Fancy elegant women",
+    "type": "gen",
+    "duration": 188,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-24T20:16:37.486Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "af6e7b87-7804-454e-a914-60b05e11529f",
+    "updated_at": "2026-03-04T18:58:47.873Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "R&B, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

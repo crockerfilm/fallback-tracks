@@ -1,0 +1,281 @@
+Metadata for: My_Workspace-Out_of_Your_League-285fc02c-c38e-474a-9569-25f59f86c727.mp3
+Generated: 2026-05-05T18:22:06.756Z
+
+--- Track Information ---
+Title: Out of Your League
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: dance, high-energy pop banger, female vocals, confident, flirty, club-ready, driving bass, punchy drums, glossy synths, fast tempo, big hook, chant-worthy refrain, pop, vocal, playful
+
+--- Lyrics ---
+[Intro]
+(Oh)
+
+[Verse 1]
+Sippin' out the bottle with the label peeled (Oh)
+I've been out here
+Girl
+Just keepin' it real
+One day
+Maybe you could be my world
+But right now
+I'm just on the hunt
+I don't even care if you're in love
+I don't even care if you're a dove
+I don't even care if you're the one
+
+[Pre-Chorus]
+'Cause I can't wait
+Can't wait
+Can't wait
+No
+I can't wait
+Can't wait
+Can't wait
+[Chorus]
+For you to go
+I think you need to go (Oh)
+I know you love me
+But it's out of your control
+I know you're in my body
+And it's hard to let it go (Oh)
+I know you want me
+But I'm out of your league
+And I can't wait
+Can't wait
+Can't wait (Oh)
+No
+I can't wait
+Can't wait
+Can't wait
+Oh
+I can't wait
+Can't wait
+Can't wait (Oh)
+I know you want me
+But I'm out of your league
+
+[Verse 2]
+In the club
+And now you're actin' all tough
+All your boys
+And now you're callin' my bluff
+I got other girls who sayin' it's love
+But right now
+I'm just havin' fun
+We can talk about it when I'm done
+We can have a drink when you're of age
+But right now
+I'm on the main stage
+
+[Pre-Chorus]
+And I can't wait
+Can't wait
+Can't wait
+Oh
+I can't wait
+Can't wait
+Can't wait
+
+[Chorus]
+For you to go
+I think you need to go (Oh)
+I know you love me
+But it's out of your control
+I know you're in my body
+And it's hard to let it go (Oh)
+I know you want me
+But I'm out of your league
+And I can't wait
+Can't wait
+Can't wait (Oh)
+No
+I can't wait
+Can't wait
+Can't wait
+Oh
+I can't wait
+Can't wait
+Can't wait (Oh)
+I know you want me
+But I'm out of your league
+
+Cover Art URL: https://cdn2.suno.ai/image_285fc02c-c38e-474a-9569-25f59f86c727.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Out of Your League",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "285fc02c-c38e-474a-9569-25f59f86c727",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/285fc02c-c38e-474a-9569-25f59f86c727.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/285fc02c-c38e-474a-9569-25f59f86c727.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/285fc02c-c38e-474a-9569-25f59f86c727.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_285fc02c-c38e-474a-9569-25f59f86c727.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_285fc02c-c38e-474a-9569-25f59f86c727.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "dance, high-energy pop banger, female vocals, confident, flirty, club-ready, driving bass, punchy drums, glossy synths, fast tempo, big hook, chant-worthy refrain, pop, vocal, playful",
+    "prompt": "[Intro]\n(Oh)\n\n[Verse 1]\nSippin' out the bottle with the label peeled (Oh)\nI've been out here\nGirl\nJust keepin' it real\nOne day\nMaybe you could be my world\nBut right now\nI'm just on the hunt\nI don't even care if you're in love\nI don't even care if you're a dove\nI don't even care if you're the one\n\n[Pre-Chorus]\n'Cause I can't wait\nCan't wait\nCan't wait\nNo\nI can't wait\nCan't wait\nCan't wait\n[Chorus]\nFor you to go\nI think you need to go (Oh)\nI know you love me\nBut it's out of your control\nI know you're in my body\nAnd it's hard to let it go (Oh)\nI know you want me\nBut I'm out of your league\nAnd I can't wait\nCan't wait\nCan't wait (Oh)\nNo\nI can't wait\nCan't wait\nCan't wait\nOh\nI can't wait\nCan't wait\nCan't wait (Oh)\nI know you want me\nBut I'm out of your league\n\n[Verse 2]\nIn the club\nAnd now you're actin' all tough\nAll your boys\nAnd now you're callin' my bluff\nI got other girls who sayin' it's love\nBut right now\nI'm just havin' fun\nWe can talk about it when I'm done\nWe can have a drink when you're of age\nBut right now\nI'm on the main stage\n\n[Pre-Chorus]\nAnd I can't wait\nCan't wait\nCan't wait\nOh\nI can't wait\nCan't wait\nCan't wait\n\n[Chorus]\nFor you to go\nI think you need to go (Oh)\nI know you love me\nBut it's out of your control\nI know you're in my body\nAnd it's hard to let it go (Oh)\nI know you want me\nBut I'm out of your league\nAnd I can't wait\nCan't wait\nCan't wait (Oh)\nNo\nI can't wait\nCan't wait\nCan't wait\nOh\nI can't wait\nCan't wait\nCan't wait (Oh)\nI know you want me\nBut I'm out of your league",
+    "gpt_description_prompt": "High-energy pop banger, female vocal, confident and flirty. Driving bass, punchy drums, glossy synths, club-ready chorus. Attitude like Madiso n Be er “Y es Ba by” — bold, sexy, playful, main-character energy. Fast tempo, big hook, chant-worthy refrain. flirty and sexy",
+    "type": "gen",
+    "duration": 157.68,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-21T17:19:26.889Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "285fc02c-c38e-474a-9569-25f59f86c727",
+    "updated_at": "2026-01-21T18:56:13.163Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "dance, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

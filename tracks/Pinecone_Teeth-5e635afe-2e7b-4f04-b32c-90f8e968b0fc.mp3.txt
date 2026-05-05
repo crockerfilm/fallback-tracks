@@ -1,0 +1,282 @@
+Metadata for: My_Workspace-Pinecone_Teeth-5e635afe-2e7b-4f04-b32c-90f8e968b0fc.mp3
+Generated: 2026-05-05T15:57:53.564Z
+
+--- Track Information ---
+Title: Pinecone Teeth
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Indie-folk pop with a lilting 92 BPM sway, fingerpicked acoustic guitar and brushed kick under a bouncing bass line; verse stays intimate and detail-rich, pre-chorus opens with stacked harmonies and rising piano, chorus blooms with handclaps and a singback refrain. Soft doubles in verses, airy ad-libs on hook words, reverse-guitar swells into each chorus. Warm, wide, sunlit mix with crisp edges.
+
+--- Lyrics ---
+[Verse 1]
+Mud on my boots
+Cold creek on my shin
+Moss on the fence
+And the wind comin' in
+A blue heron waits
+Like it knows my name
+I stand real still
+And the whole world changes
+
+[Pre-Chorus]
+Pinecone teeth
+In the gravel path
+Tall green hush
+Pulling me back
+I let go slow
+Of the noise in my head
+And the leaves say more
+Than I ever said
+
+[Chorus]
+Nature, take me home
+Nature, take me home
+Under the oaks
+I’m not alone
+Nature, take me home
+Nature, take me home
+I hear my bones
+In the river stones
+
+[Verse 2]
+Blackberries bruise
+On a wire-split fence
+Sun on the dust
+Like a kind old friend
+Rabbits in the grass
+Blink and disappear
+I breathe that earth
+And the hurt gets clear
+
+[Pre-Chorus]
+Pinecone teeth
+In the gravel path
+Tall green hush
+Pulling me back
+I let go slow
+Of the noise in my head
+And the leaves say more
+Than I ever said
+
+[Chorus]
+Nature, take me home
+Nature, take me home
+Under the oaks
+I’m not alone
+Nature, take me home
+Nature, take me home
+I hear my bones
+In the river stones
+
+[Bridge]
+Let the rain tap out
+On the roof of the pines
+Let the creek keep time
+With a pulse like mine
+If I’m lost out here
+Then I’m lost in the right way
+Every scar on my hands
+Turns into clay
+
+[Chorus]
+Nature, take me home
+Nature, take me home
+Under the oaks
+I’m not alone
+Nature, take me home
+Nature, take me home
+I hear my bones
+In the river stones
+
+Cover Art URL: https://cdn2.suno.ai/image_5e635afe-2e7b-4f04-b32c-90f8e968b0fc.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Pinecone Teeth",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5e635afe-2e7b-4f04-b32c-90f8e968b0fc",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5e635afe-2e7b-4f04-b32c-90f8e968b0fc.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5e635afe-2e7b-4f04-b32c-90f8e968b0fc.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5e635afe-2e7b-4f04-b32c-90f8e968b0fc.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5e635afe-2e7b-4f04-b32c-90f8e968b0fc.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5e635afe-2e7b-4f04-b32c-90f8e968b0fc.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Indie-folk pop with a lilting 92 BPM sway, fingerpicked acoustic guitar and brushed kick under a bouncing bass line; verse stays intimate and detail-rich, pre-chorus opens with stacked harmonies and rising piano, chorus blooms with handclaps and a singback refrain. Soft doubles in verses, airy ad-libs on hook words, reverse-guitar swells into each chorus. Warm, wide, sunlit mix with crisp edges.",
+    "prompt": "[Verse 1]\nMud on my boots\nCold creek on my shin\nMoss on the fence\nAnd the wind comin' in\nA blue heron waits\nLike it knows my name\nI stand real still\nAnd the whole world changes\n\n[Pre-Chorus]\nPinecone teeth\nIn the gravel path\nTall green hush\nPulling me back\nI let go slow\nOf the noise in my head\nAnd the leaves say more\nThan I ever said\n\n[Chorus]\nNature, take me home\nNature, take me home\nUnder the oaks\nI’m not alone\nNature, take me home\nNature, take me home\nI hear my bones\nIn the river stones\n\n[Verse 2]\nBlackberries bruise\nOn a wire-split fence\nSun on the dust\nLike a kind old friend\nRabbits in the grass\nBlink and disappear\nI breathe that earth\nAnd the hurt gets clear\n\n[Pre-Chorus]\nPinecone teeth\nIn the gravel path\nTall green hush\nPulling me back\nI let go slow\nOf the noise in my head\nAnd the leaves say more\nThan I ever said\n\n[Chorus]\nNature, take me home\nNature, take me home\nUnder the oaks\nI’m not alone\nNature, take me home\nNature, take me home\nI hear my bones\nIn the river stones\n\n[Bridge]\nLet the rain tap out\nOn the roof of the pines\nLet the creek keep time\nWith a pulse like mine\nIf I’m lost out here\nThen I’m lost in the right way\nEvery scar on my hands\nTurns into clay\n\n[Chorus]\nNature, take me home\nNature, take me home\nUnder the oaks\nI’m not alone\nNature, take me home\nNature, take me home\nI hear my bones\nIn the river stones",
+    "gpt_description_prompt": "nature",
+    "type": "gen",
+    "duration": 201.72,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-27T22:41:51.648Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5e635afe-2e7b-4f04-b32c-90f8e968b0fc",
+    "updated_at": "2026-04-27T22:50:01.631Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "indie folk, indie pop, acoustic pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

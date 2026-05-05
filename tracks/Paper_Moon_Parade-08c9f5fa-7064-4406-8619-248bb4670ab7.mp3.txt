@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Paper_Moon_Parade-08c9f5fa-7064-4406-8619-248bb4670ab7.mp3
+Generated: 2026-05-05T16:07:13.682Z
+
+--- Track Information ---
+Title: Paper Moon Parade
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Dream pop lullaby with a gentle bouncy pulse and airy syncopated groove; verse floats on soft bells, muted plucked keys, and plush pads, pre-chorus lifts with reversed swells and chiming arps, chorus blooms into a pastel string halo and brighter counter-melody. Breathless vocal-like ooh textures, delicate delay tails, sparkling top-end, warm cinematic mix., magical, playful, gentle, warm, soft, soothing, uplifting
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_08c9f5fa-7064-4406-8619-248bb4670ab7.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Paper Moon Parade",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "08c9f5fa-7064-4406-8619-248bb4670ab7",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/08c9f5fa-7064-4406-8619-248bb4670ab7.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/08c9f5fa-7064-4406-8619-248bb4670ab7.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/08c9f5fa-7064-4406-8619-248bb4670ab7.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_08c9f5fa-7064-4406-8619-248bb4670ab7.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_08c9f5fa-7064-4406-8619-248bb4670ab7.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Dream pop lullaby with a gentle bouncy pulse and airy syncopated groove; verse floats on soft bells, muted plucked keys, and plush pads, pre-chorus lifts with reversed swells and chiming arps, chorus blooms into a pastel string halo and brighter counter-melody. Breathless vocal-like ooh textures, delicate delay tails, sparkling top-end, warm cinematic mix., magical, playful, gentle, warm, soft, soothing, uplifting",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "whimsical, magical, upbeat, soft, dreamy, lighthearted, playful, fantasy, airy, gentle rhythm, melodic, soft bells, warm, uplifting, cinematic, pastel tones, bouncy but calm, soothing energy",
+    "type": "gen",
+    "duration": 92.56,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-22T16:26:34.289Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "08c9f5fa-7064-4406-8619-248bb4670ab7",
+    "updated_at": "2026-04-25T00:52:43.480Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "dream pop, shoegaze, indie pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

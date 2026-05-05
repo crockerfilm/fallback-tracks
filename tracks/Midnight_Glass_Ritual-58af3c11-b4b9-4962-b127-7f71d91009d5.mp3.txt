@@ -1,0 +1,191 @@
+Metadata for: My_Workspace-Midnight_Glass_Ritual-58af3c11-b4b9-4962-b127-7f71d91009d5.mp3
+Generated: 2026-05-05T18:29:02.304Z
+
+--- Track Information ---
+Title: Midnight Glass Ritual
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop, Elegant ambient-pop soundscape at 70 BPM, built around warm felted piano and soft electric keys in close stereo, with quietly evolving string pads and a deep, slow-moving sub bass swell. Minimalist percussion limited to the gentlest brushed accents and distant soft mallet hits on sectional changes. The energy arc moves from sparse, intimate chords to a slightly fuller mid-section where the harmonic tension deepens, then gradually thins back out to just keys and a faint pad shimmer. Everything is smooth, uncluttered, and mature—tailored for an evening GRWM in a calm, beautifully organized space, with the mix focused on clarity, warmth, and serene confidence., refined, sophisticated, soft, low, electric, ambient, calming, warm, minimal, slow, lo-fi
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_58af3c11-b4b9-4962-b127-7f71d91009d5.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Midnight Glass Ritual",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "58af3c11-b4b9-4962-b127-7f71d91009d5",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/58af3c11-b4b9-4962-b127-7f71d91009d5.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/58af3c11-b4b9-4962-b127-7f71d91009d5.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/58af3c11-b4b9-4962-b127-7f71d91009d5.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_58af3c11-b4b9-4962-b127-7f71d91009d5.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_58af3c11-b4b9-4962-b127-7f71d91009d5.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "pop, Elegant ambient-pop soundscape at 70 BPM, built around warm felted piano and soft electric keys in close stereo, with quietly evolving string pads and a deep, slow-moving sub bass swell. Minimalist percussion limited to the gentlest brushed accents and distant soft mallet hits on sectional changes. The energy arc moves from sparse, intimate chords to a slightly fuller mid-section where the harmonic tension deepens, then gradually thins back out to just keys and a faint pad shimmer. Everything is smooth, uncluttered, and mature—tailored for an evening GRWM in a calm, beautifully organized space, with the mix focused on clarity, warmth, and serene confidence., refined, sophisticated, soft, low, electric, ambient, calming, warm, minimal, slow, lo-fi",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "A refined, timeless luxury nighttime background track for an evening GRWM. Calm, elegant ambient-pop with a slow, composed pulse around 68–72 BPM. Warm piano or soft electric keys, restrained string or pad layers, subtle low-frequency movement. No trendy sounds, no lo-fi textures, no pop tropes. Minimal percussion or none at all. Sophisticated, grounded, serene. Feels like a peaceful nighttime ritual in a beautifully kept home — confident, calming, and mature.",
+    "type": "gen",
+    "duration": 169.2,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-01-14T19:40:37.537Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "58af3c11-b4b9-4962-b127-7f71d91009d5",
+    "updated_at": "2026-01-14T19:41:17.910Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "ambient, pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

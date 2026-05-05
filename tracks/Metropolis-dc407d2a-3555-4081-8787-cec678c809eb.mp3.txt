@@ -1,0 +1,243 @@
+Metadata for: My_Workspace-Metropolis-dc407d2a-3555-4081-8787-cec678c809eb.mp3
+Generated: 2026-05-05T19:18:46.214Z
+
+--- Track Information ---
+Title: Metropolis
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: “Smooth 90s East Coast hip-hop. Deep, laid-back flow with calm swagger. Jazzy chords, warm bassline, slow boom-bap groove. 85bpm.”
+
+--- Lyrics ---
+[Verse]
+From a line of healers
+Livin' the secrets of good breathers
+Up late with Taye Tiggs and the Church Leaders
+Like trappin' in five percent of secedes
+With seceders, workin' they seeds
+in overseas
+Fled before the bank on the bluff was over
+Gettin' my spirits higher, and money lower
+They didn't know it
+And if I said it before, forgive me
+Don't let it die with me, it's good game
+From the native village of the Dane
+Burnt hoods
+They say I was crazy, I was misunderstood
+And if you ain't up on things
+You better learn
+The lines and lives of Howard E. Wurm
+But first, turn the page and
+The front to the back, it don't matter
+The back to the front, it don't matter
+And front to the back, it don't matter
+And the back to the front, it don't matter
+But we frontin' back and forth, it don't matter
+That's why I hit the front porch, with good smoke
+In the same set of khakis with burnt holes
+A muthafucka, comin' from one of the greatest
+Gettin' blacker than midnight
+on the short daylight
+Givin' to the broke who paid
+Still tryin' to hit, I ain't switchin' a page
+Just turned into the stage
+of new age and new minds
+in a new time
+of new schools and new rules
+to be followed by fools
+of old dudes who want to be down
+but can't swim
+and love to hang around, until they drown
+Fucked up, but I ain't
+told you nothin' you don't know
+But for the ones who ain't got a clue
+And you know who I'm talkin' to
+It'll take you through the day
+and get you through the night
+And if you ain't up on things
+It's good game
+The lives and lines of Howard E. Wurm
+But first, turn the page
+And the front to the back, it don't matter
+And the back to the front, it don't matter
+The front to the back, it don't matter
+The back to the front, it don't
+
+Cover Art URL: https://cdn2.suno.ai/image_dc407d2a-3555-4081-8787-cec678c809eb.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Metropolis",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "dc407d2a-3555-4081-8787-cec678c809eb",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/dc407d2a-3555-4081-8787-cec678c809eb.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/dc407d2a-3555-4081-8787-cec678c809eb.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/dc407d2a-3555-4081-8787-cec678c809eb.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_dc407d2a-3555-4081-8787-cec678c809eb.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_dc407d2a-3555-4081-8787-cec678c809eb.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "“Smooth 90s East Coast hip-hop. Deep, laid-back flow with calm swagger. Jazzy chords, warm bassline, slow boom-bap groove. 85bpm.”",
+    "prompt": "[Verse]\nFrom a line of healers\nLivin' the secrets of good breathers\nUp late with Taye Tiggs and the Church Leaders\nLike trappin' in five percent of secedes\nWith seceders, workin' they seeds\nin overseas\nFled before the bank on the bluff was over\nGettin' my spirits higher, and money lower\nThey didn't know it\nAnd if I said it before, forgive me\nDon't let it die with me, it's good game\nFrom the native village of the Dane\nBurnt hoods\nThey say I was crazy, I was misunderstood\nAnd if you ain't up on things\nYou better learn\nThe lines and lives of Howard E. Wurm\nBut first, turn the page and\nThe front to the back, it don't matter\nThe back to the front, it don't matter\nAnd front to the back, it don't matter\nAnd the back to the front, it don't matter\nBut we frontin' back and forth, it don't matter\nThat's why I hit the front porch, with good smoke\nIn the same set of khakis with burnt holes\nA muthafucka, comin' from one of the greatest\nGettin' blacker than midnight\non the short daylight\nGivin' to the broke who paid\nStill tryin' to hit, I ain't switchin' a page\nJust turned into the stage\nof new age and new minds\nin a new time\nof new schools and new rules\nto be followed by fools\nof old dudes who want to be down\nbut can't swim\nand love to hang around, until they drown\nFucked up, but I ain't\ntold you nothin' you don't know\nBut for the ones who ain't got a clue\nAnd you know who I'm talkin' to\nIt'll take you through the day\nand get you through the night\nAnd if you ain't up on things\nIt's good game\nThe lives and lines of Howard E. Wurm\nBut first, turn the page\nAnd the front to the back, it don't matter\nAnd the back to the front, it don't matter\nThe front to the back, it don't matter\nThe back to the front, it don't",
+    "gpt_description_prompt": "“Deep relaxed rap vocals with smooth storytelling swagger over a jazzy 85 BPM boom-bap beat. Cool, confident, silky presence.”",
+    "type": "gen",
+    "duration": 143.08,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-11-26T19:44:39.886Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "dc407d2a-3555-4081-8787-cec678c809eb",
+    "updated_at": "2025-11-29T03:16:24.318Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "East Coast hip-hop, jazz rap, boom bap",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

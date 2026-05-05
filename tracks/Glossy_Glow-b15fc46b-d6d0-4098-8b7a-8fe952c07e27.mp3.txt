@@ -1,0 +1,214 @@
+Metadata for: My_Workspace-Glossy_Glow-b15fc46b-d6d0-4098-8b7a-8fe952c07e27.mp3
+Generated: 2026-05-05T16:10:23.106Z
+
+--- Track Information ---
+Title: Glossy Glow
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: dance, Shiny electropop sheen with bright sidechain synths, crisp four-on-the-floor kick, and fizzy high-end percussion. Bubbly mallet plucks dance around a simple, sticky top-line synth hook. Energy builds in 8-bar lifts into a huge, sparkly chorus drop with vocal chops and wide pads; short bridge strips to bass and claps before final chorus., pop
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_b15fc46b-d6d0-4098-8b7a-8fe952c07e27.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Glossy Glow",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "b15fc46b-d6d0-4098-8b7a-8fe952c07e27",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/b15fc46b-d6d0-4098-8b7a-8fe952c07e27.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/b15fc46b-d6d0-4098-8b7a-8fe952c07e27.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/b15fc46b-d6d0-4098-8b7a-8fe952c07e27.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_b15fc46b-d6d0-4098-8b7a-8fe952c07e27.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_b15fc46b-d6d0-4098-8b7a-8fe952c07e27.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "dance, Shiny electropop sheen with bright sidechain synths, crisp four-on-the-floor kick, and fizzy high-end percussion. Bubbly mallet plucks dance around a simple, sticky top-line synth hook. Energy builds in 8-bar lifts into a huge, sparkly chorus drop with vocal chops and wide pads; short bridge strips to bass and claps before final chorus., pop",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "Instrumental upbeat song that is similar to Apple Charli XCX chorus for a beauty ad.",
+    "type": "gen",
+    "duration": 65.24,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false,
+    "artist_reference_warning": {
+      "artist_to_tag_mapping": {
+        "charli xcx": [
+          "Pop",
+          "Electropop",
+          "Dance"
+        ]
+      },
+      "modified_prompt": "instrumental upbeat song that is similar to apple Pop, Electropop, Dance chorus for a beauty ad"
+    }
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-17T17:26:12.924Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "b15fc46b-d6d0-4098-8b7a-8fe952c07e27",
+    "updated_at": "2026-04-17T18:39:26.626Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "electropop, dance-pop, synth-pop",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

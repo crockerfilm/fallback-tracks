@@ -1,0 +1,211 @@
+Metadata for: My_Workspace-Velvet_Carburetor-c4a447c2-9b80-4bb1-ba29-739d342c82c7.mp3
+Generated: 2026-05-05T16:35:37.775Z
+
+--- Track Information ---
+Title: Velvet Carburetor
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: psychedelic indie pop track with a groovy bassline intro  similar vibe to Psychedelic Rock, Indie Rock, Synth-Pop  but slower tempo  around 85 95 bpm  warm analog synths  laid back drums  dreamy atmosphere  song starting with a catchy  funky bass riff  minimal drums  psychedelic indie vibe  slow tempo  smooth and hypnotic mood
+
+
+Cover Art URL: https://cdn2.suno.ai/image_c4a447c2-9b80-4bb1-ba29-739d342c82c7.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Velvet Carburetor",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "c4a447c2-9b80-4bb1-ba29-739d342c82c7",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/c4a447c2-9b80-4bb1-ba29-739d342c82c7.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/c4a447c2-9b80-4bb1-ba29-739d342c82c7.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/c4a447c2-9b80-4bb1-ba29-739d342c82c7.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_c4a447c2-9b80-4bb1-ba29-739d342c82c7.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_c4a447c2-9b80-4bb1-ba29-739d342c82c7.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "psychedelic indie pop track with a groovy bassline intro  similar vibe to Psychedelic Rock, Indie Rock, Synth-Pop  but slower tempo  around 85 95 bpm  warm analog synths  laid back drums  dreamy atmosphere  song starting with a catchy  funky bass riff  minimal drums  psychedelic indie vibe  slow tempo  smooth and hypnotic mood",
+    "prompt": "",
+    "type": "gen",
+    "duration": 168.28,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false,
+    "artist_reference_warning": {
+      "artist_to_tag_mapping": {
+        "tame impala": [
+          "Psychedelic Rock",
+          "Indie Rock",
+          "Synth-Pop"
+        ]
+      },
+      "modified_prompt": "psychedelic indie pop track with a groovy bassline intro  similar vibe to Psychedelic Rock, Indie Rock, Synth-Pop  but slower tempo  around 85 95 bpm  warm analog synths  laid back drums  dreamy atmosphere  song starting with a catchy  funky bass riff  minimal drums  psychedelic indie vibe  slow tempo  smooth and hypnotic mood"
+    }
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-04-07T18:52:27.650Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "c4a447c2-9b80-4bb1-ba29-739d342c82c7",
+    "updated_at": "2026-04-07T18:55:38.985Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "psychedelic indie pop, psychedelic rock, indie rock",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

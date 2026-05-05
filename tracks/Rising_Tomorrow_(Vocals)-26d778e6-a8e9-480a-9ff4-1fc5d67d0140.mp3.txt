@@ -1,0 +1,351 @@
+Metadata for: My_Workspace-Rising_Tomorrow_(Vocals)-26d778e6-a8e9-480a-9ff4-1fc5d67d0140.mp3
+Generated: 2026-05-05T17:14:32.408Z
+
+--- Track Information ---
+Title: Rising Tomorrow (Vocals)
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: [Intro]
+Sun on the window
+Steam from the cup
+Shoelace tangled
+But I still get up (hey!)
+
+[Verse 1]
+Bus bench stories
+Name tag crooked
+Breath in the morning
+Heart already booked
+Late again maybe
+But I’m on my way
+Tiny victories
+Start another day
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even if I stumble
+Scrape both knees
+I’ll stand up again on three
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+[Verse 2]
+Notes in the margin
+Dreams in the back page
+Sketches of futures
+Colored past the frame
+Friends at the corner
+Waving me inside
+All of our worries
+Shrinking as we smile (oh yeah)
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even if I stumble
+Scrape both knees
+I’ll stand up again on three
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+[Bridge]
+If the world feels too loud
+I’ll turn it into a vow
+Every “can’t” that I hear
+Just turns into “watch me now”
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even when the clouds hang low
+I’ll be my own afterglow
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+--- Lyrics ---
+[Intro]
+Sun on the window
+Steam from the cup
+Shoelace tangled
+But I still get up (hey!)
+
+[Verse 1]
+Bus bench stories
+Name tag crooked
+Breath in the morning
+Heart already booked
+Late again maybe
+But I’m on my way
+Tiny victories
+Start another day
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even if I stumble
+Scrape both knees
+I’ll stand up again on three
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+[Verse 2]
+Notes in the margin
+Dreams in the back page
+Sketches of futures
+Colored past the frame
+Friends at the corner
+Waving me inside
+All of our worries
+Shrinking as we smile (oh yeah)
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even if I stumble
+Scrape both knees
+I’ll stand up again on three
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+[Bridge]
+If the world feels too loud
+I’ll turn it into a vow
+Every “can’t” that I hear
+Just turns into “watch me now”
+
+[Chorus]
+Rising tomorrow
+I’m running ahead
+Laughing at all of the doubts in my head
+Even when the clouds hang low
+I’ll be my own afterglow
+Rising tomorrow
+I’m chasing the sky
+Carrying every little reason why
+Step by step
+I’ll write this show
+Watch me go
+Watch me grow
+
+Cover Art URL: https://cdn2.suno.ai/image_26d778e6-a8e9-480a-9ff4-1fc5d67d0140.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Rising Tomorrow (Vocals)",
+  "play_count": 0,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "26d778e6-a8e9-480a-9ff4-1fc5d67d0140",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/26d778e6-a8e9-480a-9ff4-1fc5d67d0140.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/26d778e6-a8e9-480a-9ff4-1fc5d67d0140.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/26d778e6-a8e9-480a-9ff4-1fc5d67d0140.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_26d778e6-a8e9-480a-9ff4-1fc5d67d0140.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_26d778e6-a8e9-480a-9ff4-1fc5d67d0140.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "[Intro]\nSun on the window\nSteam from the cup\nShoelace tangled\nBut I still get up (hey!)\n\n[Verse 1]\nBus bench stories\nName tag crooked\nBreath in the morning\nHeart already booked\nLate again maybe\nBut I’m on my way\nTiny victories\nStart another day\n\n[Chorus]\nRising tomorrow\nI’m running ahead\nLaughing at all of the doubts in my head\nEven if I stumble\nScrape both knees\nI’ll stand up again on three\nRising tomorrow\nI’m chasing the sky\nCarrying every little reason why\nStep by step\nI’ll write this show\nWatch me go\nWatch me grow\n\n[Verse 2]\nNotes in the margin\nDreams in the back page\nSketches of futures\nColored past the frame\nFriends at the corner\nWaving me inside\nAll of our worries\nShrinking as we smile (oh yeah)\n\n[Chorus]\nRising tomorrow\nI’m running ahead\nLaughing at all of the doubts in my head\nEven if I stumble\nScrape both knees\nI’ll stand up again on three\nRising tomorrow\nI’m chasing the sky\nCarrying every little reason why\nStep by step\nI’ll write this show\nWatch me go\nWatch me grow\n\n[Bridge]\nIf the world feels too loud\nI’ll turn it into a vow\nEvery “can’t” that I hear\nJust turns into “watch me now”\n\n[Chorus]\nRising tomorrow\nI’m running ahead\nLaughing at all of the doubts in my head\nEven when the clouds hang low\nI’ll be my own afterglow\nRising tomorrow\nI’m chasing the sky\nCarrying every little reason why\nStep by step\nI’ll write this show\nWatch me go\nWatch me grow",
+    "history": [
+      {
+        "infill": false,
+        "stem_from_id": "dea83cb8-c83a-4467-b6fb-36afaa560946",
+        "stem_task": "two",
+        "stem_type_group_name": "Two",
+        "id": "dea83cb8-c83a-4467-b6fb-36afaa560946",
+        "source": "web",
+        "stem_type_id": 91,
+        "type": "gen"
+      }
+    ],
+    "stem_from_id": "dea83cb8-c83a-4467-b6fb-36afaa560946",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "dea83cb8-c83a-4467-b6fb-36afaa560946",
+    "type": "gen",
+    "duration": 171.52,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": false,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-09T19:54:32.820Z",
+  "is_public": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 2,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

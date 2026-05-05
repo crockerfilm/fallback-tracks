@@ -1,0 +1,259 @@
+Metadata for: My_Workspace-The_One_That_Got_Away-e506ea0e-2264-4ba8-b573-a19d3f4194bf.mp3
+Generated: 2026-05-05T17:52:52.965Z
+
+--- Track Information ---
+Title: The One That Got Away
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: pop, moody modern pop, minimal electronic beat, mid-tempo, confident female vocals, minimal, emotional, romantic, electronic, clean, moody, vocal
+
+--- Lyrics ---
+[Verse]
+It was a long time ago
+But you know that I know
+And I know that you know
+And you know that I know
+And I know that you know
+And you know that I know
+You know that I know
+That you never let it go
+I don't blame you though
+
+[Chorus]
+But it's not the same
+And I won't apologize for the pain
+You were never mine anyway
+You didn't lose the one that got away
+You didn't lose the one that got away
+
+[Verse 2]
+It's the way that it is
+Yeah it was what it was
+You know I know you know I know
+And if it makes you feel better
+To blame it on me
+Yeah I know that you know
+And I know that you know
+And you know that I know
+You know that I know
+That you never let it go
+I don't blame you though
+
+[Chorus]
+But it's not the same
+And I won't apologize for the pain
+You were never mine anyway
+You didn't lose the one that got away
+You didn't lose the one that got away
+[Bridge]
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+No
+
+[Chorus]
+But it's not the same
+And I won't apologize for the pain
+You were never mine anyway
+You didn't lose the one that got away
+You didn't lose the one that got away
+You didn't lose the one that got away
+You didn't lose the one that got away
+You didn't lose the one that got away
+You didn't lose the one that got away
+
+Cover Art URL: https://cdn2.suno.ai/image_e506ea0e-2264-4ba8-b573-a19d3f4194bf.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "The One That Got Away",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "e506ea0e-2264-4ba8-b573-a19d3f4194bf",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/e506ea0e-2264-4ba8-b573-a19d3f4194bf.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/e506ea0e-2264-4ba8-b573-a19d3f4194bf.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/e506ea0e-2264-4ba8-b573-a19d3f4194bf.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_e506ea0e-2264-4ba8-b573-a19d3f4194bf.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_e506ea0e-2264-4ba8-b573-a19d3f4194bf.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "pop, moody modern pop, minimal electronic beat, mid-tempo, confident female vocals, minimal, emotional, romantic, electronic, clean, moody, vocal",
+    "prompt": "[Verse]\nIt was a long time ago\nBut you know that I know\nAnd I know that you know\nAnd you know that I know\nAnd I know that you know\nAnd you know that I know\nYou know that I know\nThat you never let it go\nI don't blame you though\n\n[Chorus]\nBut it's not the same\nAnd I won't apologize for the pain\nYou were never mine anyway\nYou didn't lose the one that got away\nYou didn't lose the one that got away\n\n[Verse 2]\nIt's the way that it is\nYeah it was what it was\nYou know I know you know I know\nAnd if it makes you feel better\nTo blame it on me\nYeah I know that you know\nAnd I know that you know\nAnd you know that I know\nYou know that I know\nThat you never let it go\nI don't blame you though\n\n[Chorus]\nBut it's not the same\nAnd I won't apologize for the pain\nYou were never mine anyway\nYou didn't lose the one that got away\nYou didn't lose the one that got away\n[Bridge]\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\nNo\n\n[Chorus]\nBut it's not the same\nAnd I won't apologize for the pain\nYou were never mine anyway\nYou didn't lose the one that got away\nYou didn't lose the one that got away\nYou didn't lose the one that got away\nYou didn't lose the one that got away\nYou didn't lose the one that got away\nYou didn't lose the one that got away",
+    "gpt_description_prompt": "Moody modern pop with a minimal electronic beat, mid-tempo, confident female vocal. Detached, self-aware lyrics about independence and outgrowing someone. Cool, dry delivery — emotional distance, not heartbreak. Clean production, subtle bass, understated hook. Not romantic, not holiday-coded.",
+    "type": "gen",
+    "duration": 479.36,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-02-10T19:28:58.765Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "e506ea0e-2264-4ba8-b573-a19d3f4194bf",
+    "updated_at": "2026-02-20T19:24:33.056Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "pop, electronic",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

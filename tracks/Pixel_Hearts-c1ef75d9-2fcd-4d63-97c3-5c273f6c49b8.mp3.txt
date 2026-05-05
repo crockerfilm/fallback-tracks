@@ -1,0 +1,204 @@
+Metadata for: My_Workspace-Pixel_Hearts-c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.mp3
+Generated: 2026-05-05T16:47:32.540Z
+
+--- Track Information ---
+Title: Pixel Hearts
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Upbeat J-pop meets pop-punk energy, bright synth arps over brisk drums, crunchy guitars on the chorus. Female vocals with stacked harmonies; verses stay nimble and cute, pre-chorus lifts with rising pads, chorus explodes with gang shouts and clap accents. Shiny, saturated mix, quick intro and a tight 2:30 structure., anime
+
+--- Lyrics ---
+[Instrumental]
+
+Cover Art URL: https://cdn2.suno.ai/image_c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Pixel Hearts",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Upbeat J-pop meets pop-punk energy, bright synth arps over brisk drums, crunchy guitars on the chorus. Female vocals with stacked harmonies; verses stay nimble and cute, pre-chorus lifts with rising pads, chorus explodes with gang shouts and clap accents. Shiny, saturated mix, quick intro and a tight 2:30 structure., anime",
+    "prompt": "[Instrumental]",
+    "gpt_description_prompt": "anime vibes",
+    "type": "gen",
+    "duration": 168.72,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": true,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-27T22:43:26.622Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "c1ef75d9-2fcd-4d63-97c3-5c273f6c49b8",
+    "updated_at": "2026-04-01T20:19:41.134Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "J-pop, pop-punk, anime rock",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

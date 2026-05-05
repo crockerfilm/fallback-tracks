@@ -1,0 +1,279 @@
+Metadata for: My_Workspace-Couch_Corner_Groove-7d6c2163-efa6-49f8-9a8c-5932d64f1188.mp3
+Generated: 2026-05-05T16:47:12.619Z
+
+--- Track Information ---
+Title: Couch Corner Groove
+Artist: Donut Editors
+Year: 2026
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: Laid-back lo-fi acoustic jazz: nylon-string guitar comping with lazy swing, brushed snare and soft rim clicks, upright bass walking in half-time. Male vocals sit close and intimate, slight tape hiss and vinyl crackle. Chorus blooms with doubled vocals and subtle oooh harmonies, bridge drops to just guitar and bass before drums slide back in., jazzy
+
+--- Lyrics ---
+[Verse 1]
+Old couch
+Crooked frame
+Soft springs
+Coffee stain on the arm
+You kick your shoes off
+Sing
+
+Loose shirt
+Hanging off one side
+You tap your heel to the time
+I just follow your stride
+
+[Chorus]
+We got that couch corner groove
+Nothing to prove
+Nothing to lose
+Lazy laugh
+Late afternoon
+You move
+I move
+Same tune
+Couch corner groove
+Just you
+Just me
+Let the daylight lean on you
+Lean on me
+
+[Verse 2]
+Notebook
+Doodles in the spine
+You hum a half-made line
+I steal a word
+Make it rhyme
+
+Slow talk
+Rolling like a train
+You trace shapes in the air
+I forget my own name
+
+[Chorus]
+We got that couch corner groove
+Nothing to prove
+Nothing to lose
+Lazy laugh
+Late afternoon
+You move
+I move
+Same tune
+Couch corner groove
+Just you
+Just me
+Let the daylight lean on you
+Lean on me
+
+[Bridge]
+Spin in your socks on the hardwood (hey)
+Trip
+Fall back on my knee
+If this is all that ever happens
+That’s alright with me (oh yeah)
+
+[Chorus]
+We got that couch corner groove
+Nothing to prove
+Nothing to lose
+Lazy laugh
+Late afternoon
+You move
+I move
+Same tune
+Couch corner groove
+Just you
+Just me
+Let the daylight lean on you
+Lean on me
+
+Cover Art URL: https://cdn2.suno.ai/image_7d6c2163-efa6-49f8-9a8c-5932d64f1188.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Couch Corner Groove",
+  "play_count": 3,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "7d6c2163-efa6-49f8-9a8c-5932d64f1188",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/7d6c2163-efa6-49f8-9a8c-5932d64f1188.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/7d6c2163-efa6-49f8-9a8c-5932d64f1188.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/7d6c2163-efa6-49f8-9a8c-5932d64f1188.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_7d6c2163-efa6-49f8-9a8c-5932d64f1188.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_7d6c2163-efa6-49f8-9a8c-5932d64f1188.jpeg",
+  "major_model_version": "v5.5",
+  "model_name": "chirp-fenix",
+  "metadata": {
+    "tags": "Laid-back lo-fi acoustic jazz: nylon-string guitar comping with lazy swing, brushed snare and soft rim clicks, upright bass walking in half-time. Male vocals sit close and intimate, slight tape hiss and vinyl crackle. Chorus blooms with doubled vocals and subtle oooh harmonies, bridge drops to just guitar and bass before drums slide back in., jazzy",
+    "prompt": "[Verse 1]\nOld couch\nCrooked frame\nSoft springs\nCoffee stain on the arm\nYou kick your shoes off\nSing\n\nLoose shirt\nHanging off one side\nYou tap your heel to the time\nI just follow your stride\n\n[Chorus]\nWe got that couch corner groove\nNothing to prove\nNothing to lose\nLazy laugh\nLate afternoon\nYou move\nI move\nSame tune\nCouch corner groove\nJust you\nJust me\nLet the daylight lean on you\nLean on me\n\n[Verse 2]\nNotebook\nDoodles in the spine\nYou hum a half-made line\nI steal a word\nMake it rhyme\n\nSlow talk\nRolling like a train\nYou trace shapes in the air\nI forget my own name\n\n[Chorus]\nWe got that couch corner groove\nNothing to prove\nNothing to lose\nLazy laugh\nLate afternoon\nYou move\nI move\nSame tune\nCouch corner groove\nJust you\nJust me\nLet the daylight lean on you\nLean on me\n\n[Bridge]\nSpin in your socks on the hardwood (hey)\nTrip\nFall back on my knee\nIf this is all that ever happens\nThat’s alright with me (oh yeah)\n\n[Chorus]\nWe got that couch corner groove\nNothing to prove\nNothing to lose\nLazy laugh\nLate afternoon\nYou move\nI move\nSame tune\nCouch corner groove\nJust you\nJust me\nLet the daylight lean on you\nLean on me",
+    "gpt_description_prompt": "lofi acustic, hip jazzy rithm\n",
+    "type": "gen",
+    "duration": 175.8,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": true,
+    "model_badges": {
+      "songcard": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "0000004D",
+          "border_color": "00000000"
+        }
+      },
+      "songrow": {
+        "display_name": "v5.5",
+        "light": {
+          "text_color": "FD429C",
+          "background_color": "FD429C1A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "FD429C",
+          "background_color": "FD429C40",
+          "border_color": "00000000"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2026-03-30T17:17:39.253Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 3,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "7d6c2163-efa6-49f8-9a8c-5932d64f1188",
+    "updated_at": "2026-04-21T18:08:49.566Z"
+  },
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "lo-fi, acoustic jazz, jazz",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}
