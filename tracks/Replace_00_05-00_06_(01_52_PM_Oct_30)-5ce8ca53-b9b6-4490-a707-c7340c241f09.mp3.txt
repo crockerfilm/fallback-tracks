@@ -1,0 +1,237 @@
+Metadata for: My_Workspace-Replace_00_05-00_06_(01_52_PM_Oct_30)-5ce8ca53-b9b6-4490-a707-c7340c241f09.mp3
+Generated: 2026-05-05T20:28:43.927Z
+
+--- Track Information ---
+Title: Replace 00:05-00:06 (01:52 PM Oct 30)
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: instrumental
+
+--- Lyrics ---
+[Verse 1]
+fiancée loves it. I'm not kidding. She asked me, what'd you do to your hair? It looks so good. You can pick them up through the link 
+
+
+Cover Art URL: https://cdn2.suno.ai/image_5ce8ca53-b9b6-4490-a707-c7340c241f09.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Replace 00:05-00:06 (01:52 PM Oct 30)",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "5ce8ca53-b9b6-4490-a707-c7340c241f09",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/5ce8ca53-b9b6-4490-a707-c7340c241f09.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/5ce8ca53-b9b6-4490-a707-c7340c241f09.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/5ce8ca53-b9b6-4490-a707-c7340c241f09.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_5ce8ca53-b9b6-4490-a707-c7340c241f09.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_5ce8ca53-b9b6-4490-a707-c7340c241f09.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-carp",
+  "metadata": {
+    "tags": "instrumental",
+    "prompt": "[Verse 1]\nfiancée loves it. I'm not kidding. She asked me, what'd you do to your hair? It looks so good. You can pick them up through the link \n",
+    "history": [
+      {
+        "id": "be583a5e-18d2-47f6-8973-04ab2a1b64c4",
+        "type": "rendered_context_window",
+        "infill": true,
+        "source": "web",
+        "infill_dur_s": 0.64,
+        "infill_end_s": 15.32,
+        "infill_lyrics": "",
+        "infill_start_s": 14.68,
+        "lyrics_updated": true,
+        "include_future_s": 2,
+        "include_history_s": 2,
+        "infill_context_end_s": 30,
+        "infill_req_duration_s": 0.64,
+        "infill_context_start_s": 0
+      }
+    ],
+    "edited_clip_id": "be583a5e-18d2-47f6-8973-04ab2a1b64c4",
+    "lyrics_updated": true,
+    "type": "gen",
+    "duration": 30,
+    "refund_credits": false,
+    "stream": true,
+    "infill": true,
+    "has_vocal": false,
+    "can_publish_with_vocal": true,
+    "make_instrumental": false,
+    "task": "fixed_infill",
+    "infill_lyrics": "",
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "override_history_clip_id": "1f164d24-dcd2-4dd9-860c-447794bb257e",
+    "override_history_end_seconds": 5.90426,
+    "override_future_clip_id": "1f164d24-dcd2-4dd9-860c-447794bb257e",
+    "override_future_start_seconds": 6.54255,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "secondary_badges": [
+      {
+        "display_name": "Section",
+        "icon_key": "section",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-10-30T18:52:52.736Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "5ce8ca53-b9b6-4490-a707-c7340c241f09",
+    "updated_at": "2025-10-30T18:53:16.111Z"
+  },
+  "is_persona_root": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

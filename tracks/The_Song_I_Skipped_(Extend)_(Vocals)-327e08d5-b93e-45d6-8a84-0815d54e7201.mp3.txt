@@ -1,0 +1,227 @@
+Metadata for: My_Workspace-The_Song_I_Skipped_(Extend)_(Vocals)-327e08d5-b93e-45d6-8a84-0815d54e7201.mp3
+Generated: 2026-05-05T20:25:40.313Z
+
+--- Track Information ---
+Title: The Song I Skipped (Extend) (Vocals)
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+
+
+Cover Art URL: https://cdn2.suno.ai/image_327e08d5-b93e-45d6-8a84-0815d54e7201.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "The Song I Skipped (Extend) (Vocals)",
+  "play_count": 1,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "327e08d5-b93e-45d6-8a84-0815d54e7201",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/327e08d5-b93e-45d6-8a84-0815d54e7201.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/327e08d5-b93e-45d6-8a84-0815d54e7201.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/327e08d5-b93e-45d6-8a84-0815d54e7201.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_327e08d5-b93e-45d6-8a84-0815d54e7201.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_327e08d5-b93e-45d6-8a84-0815d54e7201.jpeg",
+  "major_model_version": "v4.5",
+  "model_name": "chirp-ahi",
+  "metadata": {
+    "tags": "",
+    "prompt": "",
+    "history": [
+      {
+        "id": "ad4d6b9a-b5a7-43b1-aef3-5e3d5b204374",
+        "type": "gen",
+        "infill": false,
+        "source": "web",
+        "continue_at": 181.08
+      },
+      {
+        "id": "f1b838df-8a94-4de8-9b47-df7a224f5f9a",
+        "type": "gen",
+        "infill": false,
+        "source": "web",
+        "stem_task": "two",
+        "stem_from_id": "f1b838df-8a94-4de8-9b47-df7a224f5f9a",
+        "stem_type_id": 91,
+        "stem_type_group_name": "Two"
+      }
+    ],
+    "stem_from_id": "f1b838df-8a94-4de8-9b47-df7a224f5f9a",
+    "stem_task": "two",
+    "stem_type_id": 91,
+    "stem_type_group_name": "Vocals",
+    "edited_clip_id": "f1b838df-8a94-4de8-9b47-df7a224f5f9a",
+    "type": "gen",
+    "duration": 3.2,
+    "refund_credits": false,
+    "stream": true,
+    "infill": false,
+    "make_instrumental": true,
+    "task": "gen_stem",
+    "is_loudness_under_threshold": true,
+    "can_remix": true,
+    "is_remix": true,
+    "priority": 10,
+    "has_stem": false,
+    "video_is_stale": true,
+    "uses_latest_model": false,
+    "secondary_badges": [
+      {
+        "display_name": "Stem",
+        "icon_key": "stem",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      },
+      {
+        "display_name": "Extend 1",
+        "icon_key": "part",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "1C1C1F0A",
+          "border_color": "00000000"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "FFFFFF0C",
+          "border_color": "00000000"
+        }
+      }
+    ],
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-10-31T20:48:44.943Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 1,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "327e08d5-b93e-45d6-8a84-0815d54e7201",
+    "updated_at": "2025-10-31T20:49:02.126Z"
+  },
+  "is_persona_root": false,
+  "is_following_creator": false,
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 0,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+Metadata for: My_Workspace-Untitled-73ae8405-ac77-4cb3-b204-3feb863b1841.mp3
+Generated: 2026-05-05T20:25:21.583Z
+
+--- Track Information ---
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: r&b, early 2000s, breakup, urban soul, emotional, female vocals, smooth, storytelling, reflective, honest, bittersweet, healing, soft attitude
+
+--- Lyrics ---
+[Verse 1]
+I saw your name light up my screen
+Didn’t answer, but it shook my peace
+Funny how you always reach
+Right when I start feelin' free
+
+I cleaned the closet, tossed your stuff
+Still feels like it ain’t enough
+You don’t get to come and go
+Like I’m a place you used to know
+
+[Pre-Chorus]
+I wanted more, you gave me doubt
+You'd pull me close, then shut me out
+And I still check the time you’d call
+Even though I swore I’d lost it all
+
+[Chorus]
+Why do I miss you when I know I shouldn’t?
+Why does it hurt like this when I said I wouldn’t?
+You weren’t kind, but I still stayed
+Told myself it’s love, but it was pain
+Now I’m tryin’ to breathe without lookin’ back
+Patchin’ my heart where you left cracks
+I know you’re wrong, but it still shows
+I’m movin’ on, just a little slow
+
+[Verse 2]
+Your jacket's still behind my door
+Thought I’d burned it weeks before
+Maybe part of me just kept
+The version of you I never met
+
+You were charm and empty words
+I was hope that never learned
+Now I walk past all our spots
+Like they don’t still tie me in knots
+
+[Pre-Chorus]
+My girls say I should block your name
+But healing’s never just a game
+It’s quiet wins and private cries
+It’s choosing truth instead of lies
+
+[Chorus]
+Why do I miss you when I know I shouldn’t?
+Why does it hurt like this when I said I wouldn’t?
+You weren’t kind, but I still stayed
+Told myself it’s love, but it was pain
+Now I’m tryin’ to breathe without lookin’ back
+Patchin’ my heart where you left cracks
+I know you’re wrong, but it still shows
+I’m movin’ on, just a little slow
+
+[Bridge]
+Some nights I still dream you call
+Other nights I feel nothin’ at all
+Guess that’s part of movin’ through
+Not past you — but past what I let you do
+
+[Outro]
+One day soon, I won’t flinch at your name
+Won’t feel heat when I see that flame
+You’ll be just a song I skip
+No more pull, no more grip
+
+Cover Art URL: https://cdn2.suno.ai/image_73ae8405-ac77-4cb3-b204-3feb863b1841.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "",
+  "play_count": 10,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "73ae8405-ac77-4cb3-b204-3feb863b1841",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/73ae8405-ac77-4cb3-b204-3feb863b1841.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/73ae8405-ac77-4cb3-b204-3feb863b1841.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/73ae8405-ac77-4cb3-b204-3feb863b1841.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_73ae8405-ac77-4cb3-b204-3feb863b1841.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_73ae8405-ac77-4cb3-b204-3feb863b1841.jpeg",
+  "major_model_version": "v5",
+  "model_name": "chirp-crow",
+  "metadata": {
+    "tags": "r&b, early 2000s, breakup, urban soul, emotional, female vocals, smooth, storytelling, reflective, honest, bittersweet, healing, soft attitude",
+    "prompt": "[Verse 1]\nI saw your name light up my screen\nDidn’t answer, but it shook my peace\nFunny how you always reach\nRight when I start feelin' free\n\nI cleaned the closet, tossed your stuff\nStill feels like it ain’t enough\nYou don’t get to come and go\nLike I’m a place you used to know\n\n[Pre-Chorus]\nI wanted more, you gave me doubt\nYou'd pull me close, then shut me out\nAnd I still check the time you’d call\nEven though I swore I’d lost it all\n\n[Chorus]\nWhy do I miss you when I know I shouldn’t?\nWhy does it hurt like this when I said I wouldn’t?\nYou weren’t kind, but I still stayed\nTold myself it’s love, but it was pain\nNow I’m tryin’ to breathe without lookin’ back\nPatchin’ my heart where you left cracks\nI know you’re wrong, but it still shows\nI’m movin’ on, just a little slow\n\n[Verse 2]\nYour jacket's still behind my door\nThought I’d burned it weeks before\nMaybe part of me just kept\nThe version of you I never met\n\nYou were charm and empty words\nI was hope that never learned\nNow I walk past all our spots\nLike they don’t still tie me in knots\n\n[Pre-Chorus]\nMy girls say I should block your name\nBut healing’s never just a game\nIt’s quiet wins and private cries\nIt’s choosing truth instead of lies\n\n[Chorus]\nWhy do I miss you when I know I shouldn’t?\nWhy does it hurt like this when I said I wouldn’t?\nYou weren’t kind, but I still stayed\nTold myself it’s love, but it was pain\nNow I’m tryin’ to breathe without lookin’ back\nPatchin’ my heart where you left cracks\nI know you’re wrong, but it still shows\nI’m movin’ on, just a little slow\n\n[Bridge]\nSome nights I still dream you call\nOther nights I feel nothin’ at all\nGuess that’s part of movin’ through\nNot past you — but past what I let you do\n\n[Outro]\nOne day soon, I won’t flinch at your name\nWon’t feel heat when I see that flame\nYou’ll be just a song I skip\nNo more pull, no more grip",
+    "type": "gen",
+    "duration": 170.44,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-10-31T20:52:24.399Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 10,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "73ae8405-ac77-4cb3-b204-3feb863b1841",
+    "updated_at": "2025-11-04T22:51:46.587Z"
+  },
+  "is_persona_root": false,
+  "is_following_creator": false,
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "display_tags": "r&b, urban soul",
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}

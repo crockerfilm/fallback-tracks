@@ -1,0 +1,227 @@
+Metadata for: My_Workspace-Neon_Echoes-87199a44-512b-4d25-bcd7-d505a8af73af.mp3
+Generated: 2026-05-05T20:26:51.140Z
+
+--- Track Information ---
+Title: Neon Echoes
+Artist: Donut Editors
+Year: 2025
+
+--- Musical Information ---
+
+--- Creation Details ---
+Prompt: crisp drum loops, lo-fi, hip hop, vibey with warm synth pads, upbeat lo-fi hip hop, and a bouncing bassline. layered vocal samples and soft piano riffs create a dreamy yet energetic texture.
+
+--- Lyrics ---
+[Verse]
+City lights blink like they’re breathing slow
+Sidewalk cracks where wildflowers grow
+Stepping through puddles where the moon lays low
+I’m chasing shadows that I’ll never know
+
+[Chorus]
+Neon echoes in my mind
+Flickering fast
+But I’m still behind
+Every step feels like a rewind
+Neon echoes—just let me find
+Let me find
+
+[Verse 2]
+Clock hands spinning but the time don’t stick
+Radio buzz like a heartbeat click
+Skyline’s a canvas
+Spray paint thick
+I write my name in the air real quick
+
+[Bridge]
+Who am I
+Just a glitch in the glow
+A spark in the static
+A stream that won’t flow
+But here I am
+In this endless show
+Neon echoes—tell me where to go
+
+[Chorus]
+Neon echoes in my mind
+Flickering fast
+But I’m still behind
+Every step feels like a rewind
+Neon echoes—just let me find
+Let me find
+
+Cover Art URL: https://cdn2.suno.ai/image_87199a44-512b-4d25-bcd7-d505a8af73af.jpeg
+
+--- Raw API Response ---
+{
+  "status": "complete",
+  "title": "Neon Echoes",
+  "play_count": 2,
+  "upvote_count": 0,
+  "allow_comments": true,
+  "is_verified": false,
+  "id": "87199a44-512b-4d25-bcd7-d505a8af73af",
+  "entity_type": "song_schema",
+  "video_url": "",
+  "audio_url": "https://cdn1.suno.ai/87199a44-512b-4d25-bcd7-d505a8af73af.mp3",
+  "media_urls": [
+    {
+      "url": "https://d2lwuy8qc234o3.cloudfront.net/1/clip/87199a44-512b-4d25-bcd7-d505a8af73af.m4a",
+      "content_type": "m4a-opus",
+      "delivery": "progressive",
+      "encoding": "1.0.0"
+    },
+    {
+      "url": "https://cdn1.suno.ai/87199a44-512b-4d25-bcd7-d505a8af73af.mp3",
+      "content_type": "mp3",
+      "delivery": "progressive"
+    }
+  ],
+  "image_url": "https://cdn2.suno.ai/image_87199a44-512b-4d25-bcd7-d505a8af73af.jpeg",
+  "image_large_url": "https://cdn2.suno.ai/image_large_87199a44-512b-4d25-bcd7-d505a8af73af.jpeg",
+  "major_model_version": "v3.5",
+  "model_name": "chirp-v3",
+  "metadata": {
+    "tags": "crisp drum loops, lo-fi, hip hop, vibey with warm synth pads, upbeat lo-fi hip hop, and a bouncing bassline. layered vocal samples and soft piano riffs create a dreamy yet energetic texture.",
+    "prompt": "[Verse]\nCity lights blink like they’re breathing slow\nSidewalk cracks where wildflowers grow\nStepping through puddles where the moon lays low\nI’m chasing shadows that I’ll never know\n\n[Chorus]\nNeon echoes in my mind\nFlickering fast\nBut I’m still behind\nEvery step feels like a rewind\nNeon echoes—just let me find\nLet me find\n\n[Verse 2]\nClock hands spinning but the time don’t stick\nRadio buzz like a heartbeat click\nSkyline’s a canvas\nSpray paint thick\nI write my name in the air real quick\n\n[Bridge]\nWho am I\nJust a glitch in the glow\nA spark in the static\nA stream that won’t flow\nBut here I am\nIn this endless show\nNeon echoes—tell me where to go\n\n[Chorus]\nNeon echoes in my mind\nFlickering fast\nBut I’m still behind\nEvery step feels like a rewind\nNeon echoes—just let me find\nLet me find",
+    "gpt_description_prompt": "Vibey aesthetic upbeat lo-fi hip hop, non generic or boring",
+    "type": "gen",
+    "duration": 139,
+    "refund_credits": false,
+    "stream": true,
+    "make_instrumental": false,
+    "can_remix": true,
+    "is_remix": false,
+    "priority": 10,
+    "has_stem": false,
+    "uses_latest_model": false,
+    "model_badges": {
+      "songrow": {
+        "display_name": "v3.5",
+        "light": {
+          "text_color": "7D7C83",
+          "background_color": "00000000",
+          "border_color": "0000001A"
+        },
+        "dark": {
+          "text_color": "A3A3A3",
+          "background_color": "00000000",
+          "border_color": "FFFFFF1A"
+        }
+      }
+    },
+    "is_mumble": false
+  },
+  "is_liked": false,
+  "user_id": "cbc48050-88db-4c25-b3e2-f587eab82a0e",
+  "display_name": "Donut Editors",
+  "handle": "cteam1",
+  "is_handle_updated": true,
+  "avatar_image_url": "https://cdn1.suno.ai/789cf6da.webp",
+  "is_trashed": false,
+  "is_hidden": false,
+  "created_at": "2025-10-31T15:50:07.567Z",
+  "is_public": false,
+  "reaction": {
+    "play_count": 2,
+    "skip_count": 0,
+    "flagged": false,
+    "clip": "87199a44-512b-4d25-bcd7-d505a8af73af",
+    "updated_at": "2025-11-03T13:44:57.830Z"
+  },
+  "is_persona_root": false,
+  "is_following_creator": false,
+  "ownership": {
+    "ownership_reason": "subscribed"
+  },
+  "explicit": false,
+  "comment_count": 0,
+  "flag_count": 0,
+  "is_contest_clip": false,
+  "has_hook": false,
+  "batch_index": 1,
+  "action_config": {
+    "actions": [
+      {
+        "action_type": "add_to_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "like_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "share_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "dislike_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "report_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remove_from_playlist",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "delete_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "edit_song_details",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "create_hook",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "download_as_video",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "publish_song",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remaster",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_extend",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_cover",
+        "disabled": false,
+        "visible": true
+      },
+      {
+        "action_type": "remix_reuse_style",
+        "disabled": false,
+        "visible": true
+      }
+    ]
+  }
+}
