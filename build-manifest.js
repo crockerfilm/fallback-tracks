@@ -33,39 +33,47 @@ function parseMetadata(text, filename) {
   const meta = p.metadata || {};
   const duration = meta.duration || 0;
   const createdAt = p.created_at || "";
+  const isInstrumental = meta.make_instrumental || (meta.prompt === "[Instrumental]");
 
-  const displayTags = p.display_tags || "";
-  const tags = meta.tags || prompt || "";
+  // ── Tags: split display_tags into individual items ──
+  // "flamenco jazz fusion, jazz fusion, swing" → ["flamenco jazz fusion", "jazz fusion", "swing"]
+  const displayTags = (p.display_tags || "")
+    .split(",").map(s => s.trim().toLowerCase()).filter(Boolean);
 
-  const description = meta.gpt_description_prompt || "";
-  const lyrics = meta.prompt || "";
-  const isInstrumental = meta.make_instrumental || lyrics === "[Instrumental]";
-
-  const bpmMatch = (tags + " " + description).match(/(\d{2,3})\s*bpm/i);
+  // ── BPM: extract from tags or description ──
+  const rawTags = meta.tags || prompt || "";
+  const desc = meta.gpt_description_prompt || "";
+  const bpmMatch = (rawTags + " " + desc).match(/(\d{2,3})\s*bpm/i);
   const bpm = bpmMatch ? parseInt(bpmMatch[1]) : null;
 
+  // ── Moods: short keywords from end of prompt line ──
   const moodMatch = prompt.match(/[.,]\s*([a-z, ]+)$/i);
   const moods = moodMatch
-    ? moodMatch[1].split(",").map(s => s.trim()).filter(Boolean)
+    ? moodMatch[1].split(",").map(s => s.trim().toLowerCase()).filter(Boolean)
     : [];
+
+  // ── Searchable text: compact string for client-side search ──
+  // Combine title + artist + tags + moods + description into one searchable blob
+  const searchText = [
+    title, artist, displayTags.join(" "), moods.join(" "), desc
+  ].join(" ").toLowerCase();
 
   return {
     id,
-    title: p.title || title || "Untitled",
-    artist: p.display_name || artist || "Unknown",
-    year: year || (createdAt ? new Date(createdAt).getFullYear().toString() : ""),
-    duration,
+    t: p.title || title || "Untitled",           // title
+    a: p.display_name || artist || "Unknown",     // artist
+    y: year || (createdAt ? new Date(createdAt).getFullYear().toString() : ""),
+    d: duration,                                   // duration
     bpm,
-    isInstrumental,
+    inst: isInstrumental,
+    tags: displayTags,                             // individual genre tags
     moods,
-    displayTags,
-    tags,
-    description,
-    lyrics: isInstrumental ? null : lyrics,
-    coverArt: p.image_url || coverArt,
-    coverArtLarge: p.image_large_url || p.image_url || coverArt,
-    audioUrl: p.audio_url || (p.media_urls && p.media_urls[1] && p.media_urls[1].url) || "",
-    createdAt,
+    desc: desc || null,                            // creative brief (for detail panel)
+    img: p.image_url || coverArt || null,
+    imgL: p.image_large_url || null,
+    url: p.audio_url || (p.media_urls && p.media_urls[1] && p.media_urls[1].url) || "",
+    date: createdAt || null,
+    s: searchText,                                 // pre-built search string
   };
 }
 
@@ -82,29 +90,44 @@ console.log(`  Found ${files.length} metadata file(s)`);
 
 const tracks = [];
 const errors = [];
+const tagCounts = new Map();
 
 for (const file of files) {
   try {
     const content = fs.readFileSync(path.join(TRACKS_DIR, file), "utf-8");
     const track = parseMetadata(content, file);
-    if (track && track.id) tracks.push(track);
-    else errors.push({ file, reason: "Could not parse" });
+    if (track && track.id) {
+      tracks.push(track);
+      // Count tag frequency for the top-tags index
+      track.tags.forEach(tag => tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1));
+    } else {
+      errors.push({ file, reason: "Could not parse" });
+    }
   } catch (e) {
     errors.push({ file, reason: e.message });
   }
 }
 
-tracks.sort((a, b) => a.title.localeCompare(b.title));
+tracks.sort((a, b) => a.t.localeCompare(b.t));
+
+// ── Top tags: sorted by frequency, top 20 ──
+const topTags = [...tagCounts.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 20)
+  .map(([tag]) => tag);
 
 const manifest = {
-  trackCount: tracks.length,
-  generatedAt: new Date().toISOString(),
+  n: tracks.length,
+  at: new Date().toISOString(),
+  topTags,
   tracks,
 };
 
 fs.writeFileSync(OUT_FILE, JSON.stringify(manifest));
 
-console.log(`  ✅ ${tracks.length} tracks → manifest.json (${(fs.statSync(OUT_FILE).size / 1024).toFixed(1)} KB)`);
+const sizeKB = (fs.statSync(OUT_FILE).size / 1024).toFixed(1);
+console.log(`  ✅ ${tracks.length} tracks → manifest.json (${sizeKB} KB)`);
+console.log(`  📊 ${topTags.length} top tags: ${topTags.slice(0, 8).join(", ")}…`);
 if (errors.length) {
   console.log(`  ⚠️  ${errors.length} error(s):`);
   errors.forEach(e => console.log(`     - ${e.file}: ${e.reason}`));
