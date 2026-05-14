@@ -256,7 +256,7 @@ function buildGenreChips() {
   box.innerHTML = "";
   const allBtn = el("button",{class:"chip on",onClick:()=>{S.tagFilter=null;S.page=1;syncChips();applyFilters();renderContent();}},"All genres");
   box.appendChild(allBtn);
-  S.topTags.filter(t => t.toLowerCase() !== "instrumental").forEach(t => {
+  S.topTags.forEach(t => {
     box.appendChild(el("button",{class:"chip","data-tag":t,onClick:()=>{
       S.tagFilter = S.tagFilter===t ? null : t;
       S.page = 1; syncChips(); applyFilters(); renderContent();
