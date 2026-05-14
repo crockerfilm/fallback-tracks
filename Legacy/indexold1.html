@@ -34,8 +34,6 @@ input,select{font-family:inherit;color:inherit;border:none;background:none;outli
 .qb:hover{border-color:var(--tx3);color:var(--tx)}
 .qb.on{border-color:var(--ac);color:var(--ac);background:var(--acs)}
 .qb-gn.on{border-color:var(--gn);color:var(--gn);background:rgba(92,184,112,.1)}
-.shuf{height:42px;padding:0 14px;border-radius:var(--r);background:var(--sf);border:1px solid var(--bd);color:var(--tx2);font-family:var(--fm);font-size:12px;display:flex;align-items:center;gap:6px;transition:all .15s;white-space:nowrap}
-.shuf:hover{border-color:var(--ac);color:var(--ac)}.shuf.on{border-color:var(--ac);color:var(--ac);background:var(--acs)}
 
 .chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;padding-bottom:14px;border-bottom:1px solid var(--bd)}
 .chips::-webkit-scrollbar{display:none}
@@ -172,7 +170,6 @@ input,select{font-family:inherit;color:inherit;border:none;background:none;outli
         <option value="duration">Length</option>
         <option value="date">Newest</option>
       </select>
-      <button class="shuf" id="shuffle-btn" onclick="toggleShuffle()" title="Randomize track order">🎲 Shuffle</button>
       <div class="qf" id="type-filters">
         <button class="qb on" data-type="all" onclick="setType('all')">All</button>
         <button class="qb qb-gn" data-type="inst" onclick="setType('inst')">Instrumental</button>
@@ -201,7 +198,7 @@ let S = {
   tracks:[], filtered:[], topTags:[], search:"",
   sortBy:"title", sortDir:"asc", tagFilter:null, typeFilter:"all",
   viewMode:"list", selected:null, playing:null, isPlaying:false,
-  page:1, shuffled:false,
+  page:1,
 };
 let fuse = null;
 const audio = new Audio();
@@ -278,26 +275,21 @@ function applyFilters() {
   if(S.typeFilter==="vocal") t = t.filter(x => !x.inst);
   if(S.tagFilter) t = t.filter(x => x.tags.includes(S.tagFilter));
   if(!S.search) {
-    if(S.shuffled) {
-      t = [...t];
-      for(let i=t.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[t[i],t[j]]=[t[j],t[i]];}
-    } else {
-      const d=S.sortDir==="asc"?1:-1, s=S.sortBy;
-      t=[...t].sort((a,b) => {
-        if(s==="title") return d*a.t.localeCompare(b.t);
-        if(s==="artist") return d*a.a.localeCompare(b.a);
-        if(s==="bpm") return d*((a.bpm||0)-(b.bpm||0));
-        if(s==="duration") return d*((a.d||0)-(b.d||0));
-        if(s==="date") return d*(a.date||"").localeCompare(b.date||"");
-        return 0;
-      });
-    }
+    const d=S.sortDir==="asc"?1:-1, s=S.sortBy;
+    t=[...t].sort((a,b) => {
+      if(s==="title") return d*a.t.localeCompare(b.t);
+      if(s==="artist") return d*a.a.localeCompare(b.a);
+      if(s==="bpm") return d*((a.bpm||0)-(b.bpm||0));
+      if(s==="duration") return d*((a.d||0)-(b.d||0));
+      if(s==="date") return d*(a.date||"").localeCompare(b.date||"");
+      return 0;
+    });
   }
   S.filtered = t;
   // Update info bar
   const bar = $("#info-bar");
-  if(S.shuffled || S.search || S.tagFilter || S.typeFilter!=="all") {
-    bar.textContent = S.filtered.length + " of " + S.tracks.length + " tracks" + (S.shuffled ? " · shuffled" : S.search ? " · sorted by relevance" : "");
+  if(S.search || S.tagFilter || S.typeFilter!=="all") {
+    bar.textContent = S.filtered.length + " of " + S.tracks.length + " tracks" + (S.search ? " · sorted by relevance" : "");
   } else { bar.textContent = ""; }
 }
 
@@ -468,7 +460,6 @@ audio.addEventListener("ended",()=>skip(1));
 
 // ── UI actions ──
 function srt(c) {
-  S.shuffled=false;$("#shuffle-btn").classList.remove("on");
   if(S.sortBy===c) S.sortDir=S.sortDir==="asc"?"desc":"asc";
   else {S.sortBy=c;S.sortDir="asc";}
   S.page=1; applyFilters(); renderContent();
@@ -483,14 +474,6 @@ function setType(v) {
   S.typeFilter=v; S.page=1;
   $$("#type-filters .qb").forEach(b=>b.classList.toggle("on",b.dataset.type===v));
   applyFilters(); renderContent();
-}
-function toggleShuffle() {
-  S.shuffled=true; S.page=1;
-  $("#shuffle-btn").classList.add("on");
-  applyFilters(); renderContent();
-}
-function reshuffle() {
-  if(S.shuffled){S.page=1;applyFilters();renderContent();}
 }
 
 // ── Search input: lives in the DOM permanently, never destroyed ──
@@ -509,8 +492,6 @@ $("#search-input").addEventListener("input", e => {
 $("#sort-select").addEventListener("change", e => {
   S.sortBy = e.target.value;
   S.sortDir = e.target.value==="date" ? "desc" : "asc";
-  S.shuffled = false;
-  $("#shuffle-btn").classList.remove("on");
   S.page = 1; applyFilters(); renderContent();
 });
 
